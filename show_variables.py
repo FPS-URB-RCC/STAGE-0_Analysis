@@ -6,7 +6,14 @@ import os
 import pandas as pd
 import seaborn as sns
 
-def list_all_files(base_path):
+import pandas as pd
+
+url = "https://raw.githubusercontent.com/euro-cordex/joint-evaluation/refs/heads/main/dreq_EUR_joint_evaluation.csv"
+dreq = pd.read_csv(url)
+
+version = False # Does the file path have version folder?
+
+def list_all_files(base_path, has_version = True):
     """
     List all files in the directory hierarchy and organize them into a pandas DataFrame
     based on path components.
@@ -27,19 +34,24 @@ def list_all_files(base_path):
             if not '.nc' in full_path:
                 continue
             components = full_path.split(os.sep)
-#            if not len(components) == 15:
-#                continue
+            if has_version:
+                if not len(components) == 15:
+                    continue
+
+            else:
+                if not len(components) == 14:
+                    continue
             all_files.append(components[4:])
 
     facets = ['domain_id', 'institution_id', 'driving_source_id', 'driving_experiment_id', 'driving_variant_label', 'source_id', 'version_realization', 'frequency', 'variable_id', 'version', 'filename']
 
     facets_noversion = ['domain_id', 'institution_id', 'driving_source_id', 'driving_experiment_id', 'driving_variant_label', 'source_id', 'version_realization', 'frequency', 'variable_id', 'filename']
     # Create a DataFrame
-    df = pd.DataFrame(all_files, columns=facets)
+    df = pd.DataFrame(all_files, columns=facets if has_version else facets_noversion)
     return df
 
 base_path = "/work/bg1369/FPS-URB-RCC/PARIS-3"
-df = list_all_files(base_path)
+df = list_all_files(base_path, has_version = version)
 
 df.to_csv('docs/CORDEX_FPSURBRCC_DKRZ_all_variables.csv', index = False)
 
@@ -58,7 +70,7 @@ data.drop_duplicates(inplace = True)
 matrix = data.pivot_table(index='source_institution', columns=['frequency', 'variable_id'], aggfunc='size', fill_value=0)
 matrix = matrix.replace(0, np.nan)
 # Plot as heatmap (make sure to show all ticks and labels)
-plt.figure(figsize=(30,20))
+plt.figure(figsize=(30,23))
 ax = sns.heatmap(matrix, cmap='YlGnBu_r', annot=False, cbar=False, linewidths=1, linecolor='lightgray')
 ax.set_xticks(0.5+np.arange(len(matrix.columns)))
 xticklabels = [f'{v} ({f})' for f,v in matrix.columns]
@@ -72,4 +84,4 @@ ax.set_yticks(0.5+np.arange(len(matrix.index)))
 ax.set_yticklabels(matrix.index, rotation=0)
 ax.set_ylabel("source _ realization (institution)")
 ax.set_aspect('equal')
-plt.savefig('docs/CORDEX_FPSURBRCC_DKRZ_varlist.png', bbox_inches='tight')
+plt.savefig(f'docs/CORDEX_FPSURBRCC_DKRZ_varlist{"_noversion" if not version else ""}.png', bbox_inches='tight')
