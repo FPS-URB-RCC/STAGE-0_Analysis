@@ -11,7 +11,7 @@ import pandas as pd
 url = "https://raw.githubusercontent.com/euro-cordex/joint-evaluation/refs/heads/main/dreq_EUR_joint_evaluation.csv"
 dreq = pd.read_csv(url)
 
-version = False # Does the file path have version folder?
+version = True # Does the file path have version folder?
 
 def list_all_files(base_path, has_version = True):
     """
