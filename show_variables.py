@@ -26,7 +26,7 @@ def list_all_files(base_path, has_version = True):
     """
     all_files = []
 
-    for dirpath, _, filenames in os.walk(base_path):
+    for dirpath, _, filenames in os.walk(base_path):#, followlinks = True):
         for file in filenames:
             full_path = os.path.join(dirpath, file)
             if 'delete' in full_path:
@@ -34,14 +34,7 @@ def list_all_files(base_path, has_version = True):
             if not '.nc' in full_path:
                 continue
             components = full_path.split(os.sep)
-            if has_version:
-                if not len(components) == 15:
-                    continue
-
-            else:
-                if not len(components) == 14:
-                    continue
-            all_files.append(components[4:])
+            all_files.append(components[7:])
 
     facets = ['domain_id', 'institution_id', 'driving_source_id', 'driving_experiment_id', 'driving_variant_label', 'source_id', 'version_realization', 'frequency', 'variable_id', 'version', 'filename']
 
@@ -51,6 +44,7 @@ def list_all_files(base_path, has_version = True):
     return df
 
 base_path = "/work/bg1369/FPS-URB-RCC/PARIS-3"
+base_path = "/work/bg1369/b382580_jfernandez/CORDEX/CMIP6/FPS-URB-RCC/PARIS-3"
 df = list_all_files(base_path, has_version = version)
 
 df.to_csv('docs/CORDEX_FPSURBRCC_DKRZ_all_variables.csv', index = False)
@@ -61,7 +55,7 @@ df.to_csv('docs/CORDEX_FPSURBRCC_DKRZ_all_variables.csv', index = False)
 data = pd.read_csv('docs/CORDEX_FPSURBRCC_DKRZ_all_variables.csv', usecols=['variable_id', 'frequency', 'source_id', 'version_realization', 'institution_id'])
 data['source_institution'] = data['source_id'] + '_' + data['version_realization'].str.replace('fpsurbrcc-s0', '') + ' (' + data['institution_id'] + ')'
 data.drop(columns = ['source_id', 'institution_id', 'version_realization'], inplace = True)
-# Drop minthly data (for the sake of brevity)
+# Drop monthly data (for the sake of brevity)
 data.query('frequency != "mon"', inplace = True)
 # Avoid showing different subdaily frequencies
 #data['frequency'] = data['frequency'].replace('.hr', 'xhr', regex = True)
@@ -70,7 +64,7 @@ data.drop_duplicates(inplace = True)
 matrix = data.pivot_table(index='source_institution', columns=['frequency', 'variable_id'], aggfunc='size', fill_value=0)
 matrix = matrix.replace(0, np.nan)
 # Plot as heatmap (make sure to show all ticks and labels)
-plt.figure(figsize=(30,23))
+plt.figure(figsize=(40,30))
 ax = sns.heatmap(matrix, cmap='YlGnBu_r', annot=False, cbar=False, linewidths=1, linecolor='lightgray')
 ax.set_xticks(0.5+np.arange(len(matrix.columns)))
 xticklabels = [f'{v} ({f})' for f,v in matrix.columns]
