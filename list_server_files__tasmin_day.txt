@@ -1,6 +1,5 @@
 ./EUR-12/AUTH/ERA5/evaluation/r1i1p1f1/WRF451R-CTRL/v1-fpsurbrcc-s0r1/day/tasmin/v20240527/tasmin_EUR-12_ERA5_evaluation_r1i1p1f1_AUTH-MC_WRF451R-CTRL_v1-fpsurbrcc-s0r1_day_20200301-20200901.nc
 ./EUR-12/AUTH/ERA5/evaluation/r1i1p1f1/WRF451R-CTRL/v1-fpsurbrcc-s0r1/day/tasmin/v20240828/tasmin_EUR-12_ERA5_evaluation_r1i1p1f1_AUTH-MC_WRF451R-CTRL_v1-fpsurbrcc-s0r1_day_20200301-20200901.nc
-./EUR-12/AUTH/ERA5/evaluation/r1i1p1f1/WRF451R-CTRL/v1-fpsurbrcc-s0r1/Test/day/tasmin/tasmin_EUR-12_ERA5_evaluation_r1i1p1f1_AUTH-MC_WRF451R-CTRL_v1-fpsurbrcc-s0r1_day_20200301-20200901.nc
 ./EUR-12/AUTH/ERA5/evaluation/r1i1p1f1/WRF451R-MICR/v1-fpsurbrcc-s0r1/day/tasmin/v20240515/tasmin_EUR-12_ERA5_evaluation_r1i1p1f1_AUTH-MC_WRF451R-MICR_v1-fpsurbrcc-s0r1_day_20200301-20200901.nc
 ./EUR-12/AUTH/ERA5/evaluation/r1i1p1f1/WRF451R-MICR/v1-fpsurbrcc-s0r1/day/tasmin/v20240828/tasmin_EUR-12_ERA5_evaluation_r1i1p1f1_AUTH-MC_WRF451R-MICR_v1-fpsurbrcc-s0r1_day_20200301-20200901.nc
 ./EUR-12/CLMcom-CMCC/ERA5/evaluation/r1i1p1f1/CCLM6-0-1/v1-fpsurbrcc-s0r1/day/tasmin/tasmin_EUR-12_ERA5_evaluation_r1i1p1f1_CLMcom-CMCC_CCLM6-0-1_v1-fpsurbrcc-s0r1_day_20200401-20201231.nc
