@@ -1,5 +1,7 @@
 #!/bin/bash
 
+#BASE_DIR="/work/bg1369/FPS-URB-RCC/PARIS-12"
+#BASE_DIR="/work/bg1369/FPS-URB-RCC/EUR-12"
 BASE_DIR="/work/bg1369/FPS-URB-RCC/PARIS-3"
 OUTPUT_DIR="/home/b/b382580/FPS-URB-RCC/b382580_jfernandez"
 
@@ -15,9 +17,12 @@ for file in $(find ${BASE_DIR} -type f -name '*.nc' | sort); do
     filename=${filename//r3.nc/r3_fx.nc}
     filename=${filename//_fxrkDMAU2225158.nc/_fx.nc}
     filename=${filename//_fxXfzz8U955319.nc/_fx.nc}
-    filename=${filename//_fixed.nc/_fx.nc}
-    filename=${filename//_fix.nc/_fx.nc}
+    filename=${filename//_fixed*.nc/_fx.nc}
+    filename=${filename//_fix*.nc/_fx.nc}
     filename=${filename//_PAR-3_/_PARIS-3_}
+    filename=${filename//_v1_/_v1-fpsurbrcc-s0r1_}
+    filename=${filename//_fpsurbrcc-s0r1_/_v1-fpsurbrcc-s0r1_}
+    filename=${filename//_v1-r1_/_v1-fpsurbrcc-s0r1_}
 
     filename=${filename//.nc/}
     IFS="_" read -r variable_id domain_id driving_source_id driving_experiment_id driving_variant_label institution_id source_id version_realization frequency dates <<< "$filename"
