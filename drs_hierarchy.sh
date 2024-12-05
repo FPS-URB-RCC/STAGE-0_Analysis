@@ -13,6 +13,11 @@ for file in $(find ${BASE_DIR} -type f -name '*.nc' | sort); do
     filename=${filename//CLMcom-CMCC-ICONCLM2-6-6/CLMcom-CMCC_ICONCLM2-6-6}
     filename=${filename//r1.nc/r1_fx.nc}
     filename=${filename//r3.nc/r3_fx.nc}
+    filename=${filename//_fxrkDMAU2225158.nc/_fx.nc}
+    filename=${filename//_fxXfzz8U955319.nc/_fx.nc}
+    filename=${filename//_fixed.nc/_fx.nc}
+    filename=${filename//_fix.nc/_fx.nc}
+    filename=${filename//_PAR-3_/_PARIS-3_}
 
     filename=${filename//.nc/}
     IFS="_" read -r variable_id domain_id driving_source_id driving_experiment_id driving_variant_label institution_id source_id version_realization frequency dates <<< "$filename"
