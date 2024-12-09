@@ -25,7 +25,7 @@
 ./PARIS-12/CUNI/ERA5/evaluation/r1i1p1f1/CUNI_RegCM5/v1-fpsurbrcc-s0r1/1hr/tas/tas_PARIS-12_ERA5_evaluation_r1i1p1f1_CUNI_RegCM5_v1-fpsurbrcc-s0r1_1hr_20200601-20200630.nc
 ./PARIS-12/CUNI/ERA5/evaluation/r1i1p1f1/CUNI_RegCM5/v1-fpsurbrcc-s0r1/1hr/tas/tas_PARIS-12_ERA5_evaluation_r1i1p1f1_CUNI_RegCM5_v1-fpsurbrcc-s0r1_1hr_20200701-20200731.nc
 ./PARIS-12/CUNI/ERA5/evaluation/r1i1p1f1/CUNI_RegCM5/v1-fpsurbrcc-s0r1/1hr/tas/tas_PARIS-12_ERA5_evaluation_r1i1p1f1_CUNI_RegCM5_v1-fpsurbrcc-s0r1_1hr_20200801-20200831.nc
-./PARIS-12/SMHI/ERA5/evaluation/r1i1p1f1/HCLIM43-AROME/v1-fpsurbrcc-s0r1/1hr/tas/tas_PARIS-12_ERA5_evaluation_r1i1p1f1_SMHI_HCLIM43-AROME_v1-fpsurbrcc-s0r1_1hr_202004010000-202008312300.nc
+./PARIS-12/SMHI/ERA5/evaluation/r1i1p1f1/HCLIM43-AROME/v1-fpsurbrcc-s0r1/1hr/tas/v20240201/tas_PARIS-12_ERA5_evaluation_r1i1p1f1_SMHI_HCLIM43-AROME_v1-fpsurbrcc-s0r1_1hr_202004010000-202008312300.nc
 ./PARIS-3/AUTH/ERA5/evaluation/r1i1p1f1/WRF451R-CTRL/v1-fpsurbrcc-s0r1/1hr/tas/v20240527/tas_PARIS-3_ERA5_evaluation_r1i1p1f1_AUTH-MC_WRF451R-CTRL_v1-fpsurbrcc-s0r1_1hr_2020030100-2020090100.nc
 ./PARIS-3/AUTH/ERA5/evaluation/r1i1p1f1/WRF451R-CTRL/v1-fpsurbrcc-s0r1/1hr/tas/v20240828/tas_PARIS-3_ERA5_evaluation_r1i1p1f1_AUTH-MC_WRF451R-CTRL_v1-fpsurbrcc-s0r1_1hr_2020030100-2020090100.nc
 ./PARIS-3/AUTH/ERA5/evaluation/r1i1p1f1/WRF451R-MICR/v1-fpsurbrcc-s0r1/1hr/tas/v20240515/tas_PARIS-3_ERA5_evaluation_r1i1p1f1_AUTH-MC_WRF451R-MICR_v1-fpsurbrcc-s0r1_1hr_2020030100-2020090100.nc
@@ -58,6 +58,7 @@
 ./PARIS-3/FUDAN/ERA5/evaluation/r1i1p1f1/WRF451R-CTRL/v1-fpsurbrcc-s0r1/1hr/tas/tas_PAR-3_ERA5_evaluation_r1i1p1f1_FUDAN_WRF451R-CTRL_v1-fpsurbrcc-s0r1_1hr_202004010000-202008310000.nc
 ./PARIS-3/GERICS/ERA5/evaluation/r1i1p1f1/REMO2020-TEB/v1/1hr/tas/v20240823/tas_PARIS-3_ERA5_evaluation_r1i1p1f1_GERICS_REMO2020-TEB_v1_1hr_202001010100-202101010000.nc
 ./PARIS-3/GERICS/ERA5/evaluation/r1i1p1f1/REMO2020-TEB/v1/1hr/tas/v20241118/tas_PARIS-3_ERA5_evaluation_r1i1p1f1_GERICS_REMO2020-TEB_v1_1hr_202001010100-202101010000.nc
+./PARIS-3/GERICS/ERA5/evaluation/r1i1p1f1/REMO2020-TEB/v1-fpsurbrcc-s0r1/1hr/tas/v20241206/tas_PARIS-3_ERA5_evaluation_r1i1p1f1_GERICS_REMO2020-TEB_v1-fpsurbrcc-s0r1_1hr_202001010100-202101010000.nc
 ./PARIS-3/ICTP/ERA5/evaluation/r1i1p1f1/ICTP-RegCM5/v1-fpsurbrcc-s0r1/1hr/tas/tas_PARIS-3_ERA5_evaluation_r1i1p1f1_ICTP-RegCM5_v1-fpsurbrcc-s0r1_1hr_2020010100-2020020100.nc
 ./PARIS-3/ICTP/ERA5/evaluation/r1i1p1f1/ICTP-RegCM5/v1-fpsurbrcc-s0r1/1hr/tas/tas_PARIS-3_ERA5_evaluation_r1i1p1f1_ICTP-RegCM5_v1-fpsurbrcc-s0r1_1hr_2020020100-2020030100.nc
 ./PARIS-3/ICTP/ERA5/evaluation/r1i1p1f1/ICTP-RegCM5/v1-fpsurbrcc-s0r1/1hr/tas/tas_PARIS-3_ERA5_evaluation_r1i1p1f1_ICTP-RegCM5_v1-fpsurbrcc-s0r1_1hr_2020030100-2020040100.nc
@@ -74,7 +75,7 @@
 ./PARIS-3/IDL-FCUL/ERA5/evaluation/r1i1p1f1/WRF451R-PBL1/v1-fpsurbrcc-s0r1/1hr/tas/tas_PARIS-3_ERA5_evaluation_r1i1p1f1_IDL-FCUL_WRF451R-PBL1_fpsurbrcc-s0r1_1hr_2020030100-2020090100.nc
 ./PARIS-3/IPSL/ERA5/evaluation/r1i1p1f1/WRF451R-CTRL/v1-fpsurbrcc-s0r1/1hr/tas/v20240820/tas_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-CTRL_v1-fpsurbrcc-s0r1_1hr_202003010000-202008312300.nc
 ./PARIS-3/IPSL/ERA5/evaluation/r1i1p1f1/WRF451R-NOUR/v1-fpsurbrcc-s0r1/1hr/tas/v20240820/tas_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-NOUR_v1-fpsurbrcc-s0r1_1hr_202003010000-202008312300.nc
-./PARIS-3/SMHI/ERA5/evaluation/r1i1p1f1/HCLIM43-AROME/v1-fpsurbrcc-s0r1/1hr/tas/tas_PARIS-3_ERA5_evaluation_r1i1p1f1_SMHI_HCLIM43-AROME_v1-fpsurbrcc-s0r1_1hr_202005010000-202008312300.nc
+./PARIS-3/SMHI/ERA5/evaluation/r1i1p1f1/HCLIM43-AROME/v1-fpsurbrcc-s0r1/1hr/tas/v20240201/tas_PARIS-3_ERA5_evaluation_r1i1p1f1_SMHI_HCLIM43-AROME_v1-fpsurbrcc-s0r1_1hr_202005010000-202008312300.nc
 ./PARIS-3/UCAN/ERA5/evaluation/r1i1p1f1/WRF451R-ALPX/v1-fpsurbrcc-s0r1/1hr/tas/v20241108/tas_PARIS-3_ERA5_evaluation_r1i1p1f1_UCAN_WRF451R-ALPX_v1-fpsurbrcc-s0r1_1hr_202005010000-202008312300.nc
 ./PARIS-3/UCAN/ERA5/evaluation/r1i1p1f1/WRF451R-CI4C/v1-fpsurbrcc-s0r1/1hr/tas/v20241108/tas_PARIS-3_ERA5_evaluation_r1i1p1f1_UCAN_WRF451R-CI4C_v1-fpsurbrcc-s0r1_1hr_202005010000-202008312300.nc
 ./PARIS-3/UCAN/ERA5/evaluation/r1i1p1f1/WRF451R-COLC/v1-fpsurbrcc-s0r1/1hr/tas/v20241108/tas_PARIS-3_ERA5_evaluation_r1i1p1f1_UCAN_WRF451R-COLC_v1-fpsurbrcc-s0r1_1hr_202005010000-202008312300.nc
