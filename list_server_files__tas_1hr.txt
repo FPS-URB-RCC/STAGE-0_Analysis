@@ -36,10 +36,10 @@
 ./PARIS-3/CNRM-MF/ERA5/evaluation/r1i1p1f1/CNRM-AROME46t1/v1-fpsurbrcc-s0r2/1hr/tas_PARIS-3_ERA5_evaluation_r1i1p1f1_CNRM-MF_CNRM-AROME46t1_v1-fpsurbrcc-s0r2_1hr_202003010100-202101010000.nc
 ./PARIS-3/CNRM-MF/ERA5/evaluation/r1i1p1f1/CNRM-AROME46t1/v1-fpsurbrcc-s0r3/1hr/tas_PARIS-3_ERA5_evaluation_r1i1p1f1_CNRM-MF_CNRM-AROME46t1_v1-fpsurbrcc-s0r3_1hr_202005010100-202101010000.nc
 ./PARIS-3/CSIRO/ERA5/evaluation/r1i1p1f1/CCAM-v2401-SN/v1-fpsurbrcc-s0r1/1hr/tas/v20231206/tas_PARIS-3_ERA5_evaluation_r1i1p1f1_CSIRO_CCAM-v2401-SN_v1-fpsurbrcc-s0r1_1hr_2020050000-202008312300.nc
-./PARIS-3/CUNI/ERA5/evaluation/r1i1p1f1/CUNI_RegCM5/v1-fpsurbrcc-s0r1/1hr/tas/tas_PARIS-3_ERA5_evaluation_r1i1p1f1_CUNI_RegCM5_v1-fpsurbrcc-s0r1_1hr_20200501-20200531.nc
-./PARIS-3/CUNI/ERA5/evaluation/r1i1p1f1/CUNI_RegCM5/v1-fpsurbrcc-s0r1/1hr/tas/tas_PARIS-3_ERA5_evaluation_r1i1p1f1_CUNI_RegCM5_v1-fpsurbrcc-s0r1_1hr_20200601-20200630.nc
-./PARIS-3/CUNI/ERA5/evaluation/r1i1p1f1/CUNI_RegCM5/v1-fpsurbrcc-s0r1/1hr/tas/tas_PARIS-3_ERA5_evaluation_r1i1p1f1_CUNI_RegCM5_v1-fpsurbrcc-s0r1_1hr_20200701-20200731.nc
-./PARIS-3/CUNI/ERA5/evaluation/r1i1p1f1/CUNI_RegCM5/v1-fpsurbrcc-s0r1/1hr/tas/tas_PARIS-3_ERA5_evaluation_r1i1p1f1_CUNI_RegCM5_v1-fpsurbrcc-s0r1_1hr_20200801-20200831.nc
+./PARIS-3/CUNI/ERA5/evaluation/r1i1p1f1/RegCM5/v1-fpsurbrcc-s0r1/1hr/tas/tas_PARIS-3_ERA5_evaluation_r1i1p1f1_CUNI_RegCM5_v1-fpsurbrcc-s0r1_1hr_20200501-20200531.nc
+./PARIS-3/CUNI/ERA5/evaluation/r1i1p1f1/RegCM5/v1-fpsurbrcc-s0r1/1hr/tas/tas_PARIS-3_ERA5_evaluation_r1i1p1f1_CUNI_RegCM5_v1-fpsurbrcc-s0r1_1hr_20200601-20200630.nc
+./PARIS-3/CUNI/ERA5/evaluation/r1i1p1f1/RegCM5/v1-fpsurbrcc-s0r1/1hr/tas/tas_PARIS-3_ERA5_evaluation_r1i1p1f1_CUNI_RegCM5_v1-fpsurbrcc-s0r1_1hr_20200701-20200731.nc
+./PARIS-3/CUNI/ERA5/evaluation/r1i1p1f1/RegCM5/v1-fpsurbrcc-s0r1/1hr/tas/tas_PARIS-3_ERA5_evaluation_r1i1p1f1_CUNI_RegCM5_v1-fpsurbrcc-s0r1_1hr_20200801-20200831.nc
 ./PARIS-3/CUNI/ERA5/evaluation/r1i1p1f1/WRF451R-AER0/v1-fpsurbrcc-s0r1/1hr/tas/tas_PARIS-3_ERA5_evaluation_r1i1p1f1_CUNI_WRF451R-AER0_v1-r1_1hr_202004010000-202008312300.nc
 ./PARIS-3/CUNI/ERA5/evaluation/r1i1p1f1/WRF451R-SFAE/v1-fpsurbrcc-s0r1/1hr/tas/tas_PARIS-3_ERA5_evaluation_r1i1p1f1_CUNI_WRF451R-SFAE_v1-r1_1hr_202004010000-202008312300.nc
 ./PARIS-3/CUNI/ERA5/evaluation/r1i1p1f1/WRF451R-SFL2/v1-fpsurbrcc-s0r1/1hr/tas/tas_PARIS-3_ERA5_evaluation_r1i1p1f1_CUNI_WRF451R-SFL2_v1-r1_1hr_202004010000-202008312300.nc
@@ -58,7 +58,7 @@
 ./PARIS-3/FUDAN/ERA5/evaluation/r1i1p1f1/WRF451R-CTRL/v1-fpsurbrcc-s0r1/1hr/tas/tas_PAR-3_ERA5_evaluation_r1i1p1f1_FUDAN_WRF451R-CTRL_v1-fpsurbrcc-s0r1_1hr_202004010000-202008310000.nc
 ./PARIS-3/GERICS/ERA5/evaluation/r1i1p1f1/REMO2020-TEB/v1/1hr/tas/v20240823/tas_PARIS-3_ERA5_evaluation_r1i1p1f1_GERICS_REMO2020-TEB_v1_1hr_202001010100-202101010000.nc
 ./PARIS-3/GERICS/ERA5/evaluation/r1i1p1f1/REMO2020-TEB/v1/1hr/tas/v20241118/tas_PARIS-3_ERA5_evaluation_r1i1p1f1_GERICS_REMO2020-TEB_v1_1hr_202001010100-202101010000.nc
-./PARIS-3/GERICS/ERA5/evaluation/r1i1p1f1/REMO2020-TEB/v1-fpsurbrcc-s0r1/1hr/tas/v20241206/tas_PARIS-3_ERA5_evaluation_r1i1p1f1_GERICS_REMO2020-TEB_v1-fpsurbrcc-s0r1_1hr_202001010100-202101010000.nc
+./PARIS-3/GERICS/ERA5/evaluation/r1i1p1f1/REMO2020-TEB/v1-fpsurbrcc-s0r1/1hr/tas/v20241211/tas_PARIS-3_ERA5_evaluation_r1i1p1f1_GERICS_REMO2020-TEB_v1-fpsurbrcc-s0r1_1hr_202001010100-202101010000.nc
 ./PARIS-3/ICTP/ERA5/evaluation/r1i1p1f1/ICTP-RegCM5/v1-fpsurbrcc-s0r1/1hr/tas/tas_PARIS-3_ERA5_evaluation_r1i1p1f1_ICTP-RegCM5_v1-fpsurbrcc-s0r1_1hr_2020010100-2020020100.nc
 ./PARIS-3/ICTP/ERA5/evaluation/r1i1p1f1/ICTP-RegCM5/v1-fpsurbrcc-s0r1/1hr/tas/tas_PARIS-3_ERA5_evaluation_r1i1p1f1_ICTP-RegCM5_v1-fpsurbrcc-s0r1_1hr_2020020100-2020030100.nc
 ./PARIS-3/ICTP/ERA5/evaluation/r1i1p1f1/ICTP-RegCM5/v1-fpsurbrcc-s0r1/1hr/tas/tas_PARIS-3_ERA5_evaluation_r1i1p1f1_ICTP-RegCM5_v1-fpsurbrcc-s0r1_1hr_2020030100-2020040100.nc

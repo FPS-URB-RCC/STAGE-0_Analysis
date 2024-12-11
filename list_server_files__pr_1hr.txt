@@ -35,10 +35,10 @@
 ./PARIS-3/CLMcom-CMCC/ERA5/evaluation/r1i1p1f1/ICONCLM2-6-6/v1-fpsurbrcc-s0r1/1hr/pr/pr_PARIS-3_ERA5_evaluation_r1i1p1f1_CLMcom-CMCC_ICONCLM2-6-6_v1-fpsurbrcc-s0r1_1hr_202005010030-202012312330.nc
 ./PARIS-3/CNRM-MF/ERA5/evaluation/r1i1p1f1/CNRM-AROME46t1/v1-fpsurbrcc-s0r1/1hr/pr_PARIS-3_ERA5_evaluation_r1i1p1f1_CNRM-MF_CNRM-AROME46t1_v1-fpsurbrcc-s0r1_1hr_202001010030-202012312330.nc
 ./PARIS-3/CSIRO/ERA5/evaluation/r1i1p1f1/CCAM-v2401-SN/v1-fpsurbrcc-s0r1/1hr/pr/v20231206/pr_PARIS-3_ERA5_evaluation_r1i1p1f1_CSIRO_CCAM-v2401-SN_v1-fpsurbrcc-s0r1_1hr_2020050000-202008312300.nc
-./PARIS-3/CUNI/ERA5/evaluation/r1i1p1f1/CUNI_RegCM5/v1-fpsurbrcc-s0r1/1hr/pr/pr_PARIS-3_ERA5_evaluation_r1i1p1f1_CUNI_RegCM5_v1-fpsurbrcc-s0r1_1hr_20200501-20200531.nc
-./PARIS-3/CUNI/ERA5/evaluation/r1i1p1f1/CUNI_RegCM5/v1-fpsurbrcc-s0r1/1hr/pr/pr_PARIS-3_ERA5_evaluation_r1i1p1f1_CUNI_RegCM5_v1-fpsurbrcc-s0r1_1hr_20200601-20200630.nc
-./PARIS-3/CUNI/ERA5/evaluation/r1i1p1f1/CUNI_RegCM5/v1-fpsurbrcc-s0r1/1hr/pr/pr_PARIS-3_ERA5_evaluation_r1i1p1f1_CUNI_RegCM5_v1-fpsurbrcc-s0r1_1hr_20200701-20200731.nc
-./PARIS-3/CUNI/ERA5/evaluation/r1i1p1f1/CUNI_RegCM5/v1-fpsurbrcc-s0r1/1hr/pr/pr_PARIS-3_ERA5_evaluation_r1i1p1f1_CUNI_RegCM5_v1-fpsurbrcc-s0r1_1hr_20200801-20200831.nc
+./PARIS-3/CUNI/ERA5/evaluation/r1i1p1f1/RegCM5/v1-fpsurbrcc-s0r1/1hr/pr/pr_PARIS-3_ERA5_evaluation_r1i1p1f1_CUNI_RegCM5_v1-fpsurbrcc-s0r1_1hr_20200501-20200531.nc
+./PARIS-3/CUNI/ERA5/evaluation/r1i1p1f1/RegCM5/v1-fpsurbrcc-s0r1/1hr/pr/pr_PARIS-3_ERA5_evaluation_r1i1p1f1_CUNI_RegCM5_v1-fpsurbrcc-s0r1_1hr_20200601-20200630.nc
+./PARIS-3/CUNI/ERA5/evaluation/r1i1p1f1/RegCM5/v1-fpsurbrcc-s0r1/1hr/pr/pr_PARIS-3_ERA5_evaluation_r1i1p1f1_CUNI_RegCM5_v1-fpsurbrcc-s0r1_1hr_20200701-20200731.nc
+./PARIS-3/CUNI/ERA5/evaluation/r1i1p1f1/RegCM5/v1-fpsurbrcc-s0r1/1hr/pr/pr_PARIS-3_ERA5_evaluation_r1i1p1f1_CUNI_RegCM5_v1-fpsurbrcc-s0r1_1hr_20200801-20200831.nc
 ./PARIS-3/CUNI/ERA5/evaluation/r1i1p1f1/WRF451R-AER0/v1-fpsurbrcc-s0r1/1hr/pr/pr_PARIS-3_ERA5_evaluation_r1i1p1f1_CUNI_WRF451R-AER0_v1-r1_1hr_202004010030-202008312330.nc
 ./PARIS-3/CUNI/ERA5/evaluation/r1i1p1f1/WRF451R-SFAE/v1-fpsurbrcc-s0r1/1hr/pr/pr_PARIS-3_ERA5_evaluation_r1i1p1f1_CUNI_WRF451R-SFAE_v1-r1_1hr_202004010030-202008312330.nc
 ./PARIS-3/CUNI/ERA5/evaluation/r1i1p1f1/WRF451R-SFL2/v1-fpsurbrcc-s0r1/1hr/pr/pr_PARIS-3_ERA5_evaluation_r1i1p1f1_CUNI_WRF451R-SFL2_v1-r1_1hr_202004010030-202008312330.nc
