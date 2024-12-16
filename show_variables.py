@@ -8,10 +8,10 @@ import seaborn as sns
 
 import pandas as pd
 
-url = "https://raw.githubusercontent.com/euro-cordex/joint-evaluation/refs/heads/main/dreq_EUR_joint_evaluation.csv"
-dreq = pd.read_csv(url)
+dreq_url = "https://raw.githubusercontent.com/impetus4change/T32-CPRCM/refs/heads/main/data-request-fpsurbrcc.csv"
 
 version = True # Does the file path have version folder?
+only_requested_variables = True
 
 def list_all_files(base_path, has_version = True):
     """
@@ -47,6 +47,12 @@ base_path = "/work/bg1369/FPS-URB-RCC/PARIS-3"
 base_path = "/work/bg1369/b382580_jfernandez/CORDEX/CMIP6/FPS-URB-RCC/PARIS-3"
 df = list_all_files(base_path, has_version = version)
 
+if only_requested_variables:
+    dreq = pd.read_csv(dreq_url, usecols=['out_name', 'frequency']).rename(
+        columns = {'out_name': 'variable_id'}
+    )
+    df = df.merge(dreq, on=['variable_id', 'frequency'], how='right')
+
 df.to_csv('docs/CORDEX_FPSURBRCC_DKRZ_all_variables.csv', index = False)
 
 #
@@ -64,7 +70,7 @@ data.drop_duplicates(inplace = True)
 matrix = data.pivot_table(index='source_institution', columns=['frequency', 'variable_id'], aggfunc='size', fill_value=0)
 matrix = matrix.replace(0, np.nan)
 # Plot as heatmap (make sure to show all ticks and labels)
-plt.figure(figsize=(40,30))
+plt.figure(figsize=(20,15))
 ax = sns.heatmap(matrix, cmap='YlGnBu_r', annot=False, cbar=False, linewidths=1, linecolor='lightgray')
 ax.set_xticks(0.5+np.arange(len(matrix.columns)))
 xticklabels = [f'{v} ({f})' for f,v in matrix.columns]
@@ -75,7 +81,8 @@ xticklabels = (pd.Series(xticklabels)
 ax.set_xticklabels(xticklabels)
 ax.set_xlabel("variable (freq.)")
 ax.set_yticks(0.5+np.arange(len(matrix.index)))
-ax.set_yticklabels(matrix.index, rotation=0)
+ax.set_yticklabels(matrix.index, rotation=0, horizontalalignment='left')
+ax.yaxis.set_tick_params(pad=200)
 ax.set_ylabel("source _ realization (institution)")
 ax.set_aspect('equal')
 plt.savefig(f'docs/CORDEX_FPSURBRCC_DKRZ_varlist{"_noversion" if not version else ""}.png', bbox_inches='tight')
