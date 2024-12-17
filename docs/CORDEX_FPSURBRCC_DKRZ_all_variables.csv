@@ -22,7 +22,7 @@ PARIS-3,AUTH-MC,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r1,day,tas,
 PARIS-3,AUTH-MC,ERA5,evaluation,r1i1p1f1,WRF451R-MICR,v1-fpsurbrcc-s0r1,day,tas,v20241204,tas_PARIS-3_ERA5_evaluation_r1i1p1f1_AUTH-MC_WRF451R-MICR_v1-fpsurbrcc-s0r1_day_20200301-20200831.nc
 PARIS-3,UCL,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r9,day,tas,v20240715,tas_PARIS-3_ERA5_evaluation_r1i1p1f1_UCL_WRF451R-CTRL_v1-fpsurbrcc-s0r9_day_2021-20200831.nc
 PARIS-3,UCL,ERA5,evaluation,r1i1p1f1,WRF451R-NOAC,v1-fpsurbrcc-s0r1,day,tas,v20240715,tas_PARIS-3_ERA5_evaluation_r1i1p1f1_UCL_WRF451R-NOAC_v1-fpsurbrcc-s0r1_day_20200501-202008300400.nc
-PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r1,day,tas,v20240820,tas_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-CTRL_v1-fpsurbrcc-s0r1_day_20200301-20200831.nc
+PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r6,day,tas,v20241210,tas_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-CTRL_v1-fpsurbrcc-s0r6_day_20200301-20200831.nc
 PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-NOUR,v1-fpsurbrcc-s0r1,day,tas,v20240820,tas_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-NOUR_v1-fpsurbrcc-s0r1_day_20200301-20200831.nc
 PARIS-3,ICTP,ERA5,evaluation,r1i1p1f1,RegCM5,v1-fpsurbrcc-s0r1,day,tas,v20240325,tas_PARIS-3_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5_v1-fpsurbrcc-s0r1_day_20200602-20200630.nc
 PARIS-3,ICTP,ERA5,evaluation,r1i1p1f1,RegCM5,v1-fpsurbrcc-s0r1,day,tas,v20240325,tas_PARIS-3_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5_v1-fpsurbrcc-s0r1_day_20200302-20200331.nc
@@ -83,7 +83,7 @@ PARIS-3,CUNI,ERA5,evaluation,r1i1p1f1,RegCM5,v1-fpsurbrcc-s0r1,1hr,tas,v20241016
 PARIS-3,CUNI,ERA5,evaluation,r1i1p1f1,RegCM5,v1-fpsurbrcc-s0r1,1hr,tas,v20241016,tas_PARIS-3_ERA5_evaluation_r1i1p1f1_CUNI_RegCM5_v1-fpsurbrcc-s0r1_1hr_20200501-20200531.nc
 PARIS-3,CUNI,ERA5,evaluation,r1i1p1f1,WRF451R-SFAE,v1-fpsurbrcc-s0r1,1hr,tas,v20241031,tas_PARIS-3_ERA5_evaluation_r1i1p1f1_CUNI_WRF451R-SFAE_v1-fpsurbrcc-s0r1_1hr_202004010000-202008312300.nc
 PARIS-3,CUNI,ERA5,evaluation,r1i1p1f1,WRF451R-SFL2,v1-fpsurbrcc-s0r1,1hr,tas,v20241022,tas_PARIS-3_ERA5_evaluation_r1i1p1f1_CUNI_WRF451R-SFL2_v1-fpsurbrcc-s0r1_1hr_202004010000-202008312300.nc
-PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r1,1hr,tas,v20240820,tas_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-CTRL_v1-fpsurbrcc-s0r1_1hr_202003010000-202008312300.nc
+PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r6,1hr,tas,v20241210,tas_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-CTRL_v1-fpsurbrcc-s0r6_1hr_202003010000-202008312300.nc
 PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-NOUR,v1-fpsurbrcc-s0r1,1hr,tas,v20240820,tas_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-NOUR_v1-fpsurbrcc-s0r1_1hr_202003010000-202008312300.nc
 PARIS-3,ICTP,ERA5,evaluation,r1i1p1f1,RegCM5,v1-fpsurbrcc-s0r1,1hr,tas,v20240325,tas_PARIS-3_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5_v1-fpsurbrcc-s0r1_1hr_2020040100-2020050100.nc
 PARIS-3,ICTP,ERA5,evaluation,r1i1p1f1,RegCM5,v1-fpsurbrcc-s0r1,1hr,tas,v20240325,tas_PARIS-3_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5_v1-fpsurbrcc-s0r1_1hr_2020050100-2020060100.nc
@@ -142,7 +142,7 @@ PARIS-3,CUNI,ERA5,evaluation,r1i1p1f1,RegCM5,v1-fpsurbrcc-s0r1,day,tasmax,v20241
 PARIS-3,CUNI,ERA5,evaluation,r1i1p1f1,RegCM5,v1-fpsurbrcc-s0r1,day,tasmax,v20241016,tasmax_PARIS-3_ERA5_evaluation_r1i1p1f1_CUNI_RegCM5_v1-fpsurbrcc-s0r1_day_20200701-20200731.nc
 PARIS-3,CUNI,ERA5,evaluation,r1i1p1f1,RegCM5,v1-fpsurbrcc-s0r1,day,tasmax,v20241016,tasmax_PARIS-3_ERA5_evaluation_r1i1p1f1_CUNI_RegCM5_v1-fpsurbrcc-s0r1_day_20200601-20200630.nc
 PARIS-3,CUNI,ERA5,evaluation,r1i1p1f1,RegCM5,v1-fpsurbrcc-s0r1,day,tasmax,v20241016,tasmax_PARIS-3_ERA5_evaluation_r1i1p1f1_CUNI_RegCM5_v1-fpsurbrcc-s0r1_day_20200801-20200831.nc
-PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r1,day,tasmax,v20240820,tasmax_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-CTRL_v1-fpsurbrcc-s0r1_day_20200301-20200831.nc
+PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r6,day,tasmax,v20241210,tasmax_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-CTRL_v1-fpsurbrcc-s0r6_day_20200301-20200831.nc
 PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-NOUR,v1-fpsurbrcc-s0r1,day,tasmax,v20240820,tasmax_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-NOUR_v1-fpsurbrcc-s0r1_day_20200301-20200831.nc
 PARIS-3,ICTP,ERA5,evaluation,r1i1p1f1,RegCM5,v1-fpsurbrcc-s0r1,day,tasmax,v20240325,tasmax_PARIS-3_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5_v1-fpsurbrcc-s0r1_day_20200802-20200831.nc
 PARIS-3,ICTP,ERA5,evaluation,r1i1p1f1,RegCM5,v1-fpsurbrcc-s0r1,day,tasmax,v20240325,tasmax_PARIS-3_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5_v1-fpsurbrcc-s0r1_day_20200202-20200229.nc
@@ -209,7 +209,7 @@ PARIS-3,CUNI,ERA5,evaluation,r1i1p1f1,RegCM5,v1-fpsurbrcc-s0r1,day,tasmin,v20241
 PARIS-3,CUNI,ERA5,evaluation,r1i1p1f1,RegCM5,v1-fpsurbrcc-s0r1,day,tasmin,v20241016,tasmin_PARIS-3_ERA5_evaluation_r1i1p1f1_CUNI_RegCM5_v1-fpsurbrcc-s0r1_day_20200801-20200831.nc
 PARIS-3,CUNI,ERA5,evaluation,r1i1p1f1,RegCM5,v1-fpsurbrcc-s0r1,day,tasmin,v20241016,tasmin_PARIS-3_ERA5_evaluation_r1i1p1f1_CUNI_RegCM5_v1-fpsurbrcc-s0r1_day_20200601-20200630.nc
 PARIS-3,CUNI,ERA5,evaluation,r1i1p1f1,RegCM5,v1-fpsurbrcc-s0r1,day,tasmin,v20241016,tasmin_PARIS-3_ERA5_evaluation_r1i1p1f1_CUNI_RegCM5_v1-fpsurbrcc-s0r1_day_20200501-20200531.nc
-PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r1,day,tasmin,v20240820,tasmin_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-CTRL_v1-fpsurbrcc-s0r1_day_20200301-20200831.nc
+PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r6,day,tasmin,v20241210,tasmin_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-CTRL_v1-fpsurbrcc-s0r6_day_20200301-20200831.nc
 PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-NOUR,v1-fpsurbrcc-s0r1,day,tasmin,v20240820,tasmin_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-NOUR_v1-fpsurbrcc-s0r1_day_20200301-20200831.nc
 PARIS-3,ICTP,ERA5,evaluation,r1i1p1f1,RegCM5,v1-fpsurbrcc-s0r1,day,tasmin,v20240325,tasmin_PARIS-3_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5_v1-fpsurbrcc-s0r1_day_20201202-20201231.nc
 PARIS-3,ICTP,ERA5,evaluation,r1i1p1f1,RegCM5,v1-fpsurbrcc-s0r1,day,tasmin,v20240325,tasmin_PARIS-3_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5_v1-fpsurbrcc-s0r1_day_20201002-20201031.nc
@@ -251,7 +251,7 @@ PARIS-3,AUTH-MC,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r1,day,pr,v
 PARIS-3,AUTH-MC,ERA5,evaluation,r1i1p1f1,WRF451R-MICR,v1-fpsurbrcc-s0r1,day,pr,v20241204,pr_PARIS-3_ERA5_evaluation_r1i1p1f1_AUTH-MC_WRF451R-MICR_v1-fpsurbrcc-s0r1_day_20200301-20200831.nc
 PARIS-3,UCL,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r9,day,pr,v20240715,pr_PARIS-3_ERA5_evaluation_r1i1p1f1_UCL_WRF451R-CTRL_v1-fpsurbrcc-s0r9_day_2021-20200831.nc
 PARIS-3,UCL,ERA5,evaluation,r1i1p1f1,WRF451R-NOAC,v1-fpsurbrcc-s0r1,day,pr,v20240715,pr_PARIS-3_ERA5_evaluation_r1i1p1f1_UCL_WRF451R-NOAC_v1-fpsurbrcc-s0r1_day_20200501-202008300430.nc
-PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r1,day,pr,v20240820,pr_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-CTRL_v1-fpsurbrcc-s0r1_day_20200301-20200831.nc
+PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r6,day,pr,v20241210,pr_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-CTRL_v1-fpsurbrcc-s0r6_day_20200301-20200831.nc
 PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-NOUR,v1-fpsurbrcc-s0r1,day,pr,v20240820,pr_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-NOUR_v1-fpsurbrcc-s0r1_day_20200301-20200831.nc
 PARIS-3,ICTP,ERA5,evaluation,r1i1p1f1,RegCM5,v1-fpsurbrcc-s0r1,day,pr,v20240325,pr_PARIS-3_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5_v1-fpsurbrcc-s0r1_day_20200102-20200131.nc
 PARIS-3,ICTP,ERA5,evaluation,r1i1p1f1,RegCM5,v1-fpsurbrcc-s0r1,day,pr,v20240325,pr_PARIS-3_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5_v1-fpsurbrcc-s0r1_day_20200902-20200930.nc
@@ -291,7 +291,6 @@ PARIS-3,UCAN,ERA5,evaluation,r1i1p1f1,WRF451R-DPAR,v1-fpsurbrcc-s0r1,1hr,pr,v202
 PARIS-3,UCAN,ERA5,evaluation,r1i1p1f1,WRF451R-DPAR,v1-fpsurbrcc-s0r2,1hr,pr,v20241108,pr_PARIS-3_ERA5_evaluation_r1i1p1f1_UCAN_WRF451R-DPAR_v1-fpsurbrcc-s0r2_1hr_202005010030-202008312330.nc
 PARIS-3,UCAN,ERA5,evaluation,r1i1p1f1,WRF451R-CI4C,v1-fpsurbrcc-s0r1,1hr,pr,v20241108,pr_PARIS-3_ERA5_evaluation_r1i1p1f1_UCAN_WRF451R-CI4C_v1-fpsurbrcc-s0r1_1hr_202005010030-202008312330.nc
 PARIS-3,GERICS,ERA5,evaluation,r1i1p1f1,REMO2020-TEB,v1-fpsurbrcc-s0r1,1hr,pr,v20240823,pr_PARIS-3_ERA5_evaluation_r1i1p1f1_GERICS_REMO2020-TEB_v1-fpsurbrcc-s0r1_1hr_202001010030-202012312330.nc
-PARIS-3,GERICS,ERA5,evaluation,r1i1p1f1,REMO2020-TEB,v1-fpsurbrcc-s0r1,1hr,pr,v20240823,pr_PARIS-3_ERA5_evaluation_r1i1p1f1_GERICS_REMO2020-TEB_v1-fpsurbrcc-s0r1_1hr_202001010130-202012312330.nc
 PARIS-3,IDL-FCUL,ERA5,evaluation,r1i1p1f1,WRF451R-CTL,v1-fpsurbrcc-s0r1,1hr,pr,v20240821,pr_PARIS-3_ERA5_evaluation_r1i1p1f1_IDL-FCUL_WRF451R-CTL_v1-fpsurbrcc-s0r1_1hr_2020030100-2020090100.nc
 PARIS-3,IDL-FCUL,ERA5,evaluation,r1i1p1f1,WRF451R-PBL1,v1-fpsurbrcc-s0r1,1hr,pr,v20240809,pr_PARIS-3_ERA5_evaluation_r1i1p1f1_IDL-FCUL_WRF451R-PBL1_v1-fpsurbrcc-s0r1_1hr_2020030100-2020090100.nc
 PARIS-3,AUTH-MC,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r1,1hr,pr,v20240527,pr_PARIS-3_ERA5_evaluation_r1i1p1f1_AUTH-MC_WRF451R-CTRL_v1-fpsurbrcc-s0r1_1hr_2020030100-2020090100.nc
@@ -309,7 +308,7 @@ PARIS-3,CUNI,ERA5,evaluation,r1i1p1f1,RegCM5,v1-fpsurbrcc-s0r1,1hr,pr,v20241016,
 PARIS-3,CUNI,ERA5,evaluation,r1i1p1f1,RegCM5,v1-fpsurbrcc-s0r1,1hr,pr,v20241016,pr_PARIS-3_ERA5_evaluation_r1i1p1f1_CUNI_RegCM5_v1-fpsurbrcc-s0r1_1hr_20200501-20200531.nc
 PARIS-3,CUNI,ERA5,evaluation,r1i1p1f1,WRF451R-SFAE,v1-fpsurbrcc-s0r1,1hr,pr,v20241031,pr_PARIS-3_ERA5_evaluation_r1i1p1f1_CUNI_WRF451R-SFAE_v1-fpsurbrcc-s0r1_1hr_202004010030-202008312330.nc
 PARIS-3,CUNI,ERA5,evaluation,r1i1p1f1,WRF451R-SFL2,v1-fpsurbrcc-s0r1,1hr,pr,v20241022,pr_PARIS-3_ERA5_evaluation_r1i1p1f1_CUNI_WRF451R-SFL2_v1-fpsurbrcc-s0r1_1hr_202004010030-202008312330.nc
-PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r1,1hr,pr,v20240820,pr_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-CTRL_v1-fpsurbrcc-s0r1_1hr_202003010030-202008312330.nc
+PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r6,1hr,pr,v20241210,pr_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-CTRL_v1-fpsurbrcc-s0r6_1hr_202003010030-202008312330.nc
 PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-NOUR,v1-fpsurbrcc-s0r1,1hr,pr,v20240820,pr_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-NOUR_v1-fpsurbrcc-s0r1_1hr_202003010030-202008312330.nc
 PARIS-3,ICTP,ERA5,evaluation,r1i1p1f1,RegCM5,v1-fpsurbrcc-s0r1,1hr,pr,v20240325,pr_PARIS-3_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5_v1-fpsurbrcc-s0r1_1hr_2020060100-2020070100.nc
 PARIS-3,ICTP,ERA5,evaluation,r1i1p1f1,RegCM5,v1-fpsurbrcc-s0r1,1hr,pr,v20240325,pr_PARIS-3_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5_v1-fpsurbrcc-s0r1_1hr_2020100100-2020110100.nc
@@ -340,7 +339,7 @@ PARIS-3,AUTH-MC,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r1,day,evsp
 PARIS-3,AUTH-MC,ERA5,evaluation,r1i1p1f1,WRF451R-MICR,v1-fpsurbrcc-s0r1,day,evspsbl,v20241204,evspsbl_PARIS-3_ERA5_evaluation_r1i1p1f1_AUTH-MC_WRF451R-MICR_v1-fpsurbrcc-s0r1_day_20200301-20200831.nc
 PARIS-3,UCL,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r9,day,evspsbl,v20240715,evspsbl_PARIS-3_ERA5_evaluation_r1i1p1f1_UCL_WRF451R-CTRL_v1-fpsurbrcc-s0r9_day_2021-20200831.nc
 PARIS-3,UCL,ERA5,evaluation,r1i1p1f1,WRF451R-NOAC,v1-fpsurbrcc-s0r1,day,evspsbl,v20240715,evspsbl_PARIS-3_ERA5_evaluation_r1i1p1f1_UCL_WRF451R-NOAC_v1-fpsurbrcc-s0r1_day_20200501-202008300430.nc
-PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r1,day,evspsbl,v20240820,evspsbl_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-CTRL_v1-fpsurbrcc-s0r1_day_20200301-20200831.nc
+PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r6,day,evspsbl,v20241210,evspsbl_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-CTRL_v1-fpsurbrcc-s0r6_day_20200301-20200831.nc
 PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-NOUR,v1-fpsurbrcc-s0r1,day,evspsbl,v20240820,evspsbl_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-NOUR_v1-fpsurbrcc-s0r1_day_20200301-20200831.nc
 PARIS-3,ICTP,ERA5,evaluation,r1i1p1f1,RegCM5,v1-fpsurbrcc-s0r1,day,evspsbl,v20240325,evspsbl_PARIS-3_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5_v1-fpsurbrcc-s0r1_day_20201001-20201031.nc
 PARIS-3,ICTP,ERA5,evaluation,r1i1p1f1,RegCM5,v1-fpsurbrcc-s0r1,day,evspsbl,v20240325,evspsbl_PARIS-3_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5_v1-fpsurbrcc-s0r1_day_20200501-20200531.nc
@@ -374,7 +373,7 @@ PARIS-3,CUNI,ERA5,evaluation,r1i1p1f1,RegCM5,v1-fpsurbrcc-s0r1,1hr,evspsbl,v2024
 PARIS-3,CUNI,ERA5,evaluation,r1i1p1f1,RegCM5,v1-fpsurbrcc-s0r1,1hr,evspsbl,v20241016,evspsbl_PARIS-3_ERA5_evaluation_r1i1p1f1_CUNI_RegCM5_v1-fpsurbrcc-s0r1_1hr_20200801-20200831.nc
 PARIS-3,CUNI,ERA5,evaluation,r1i1p1f1,RegCM5,v1-fpsurbrcc-s0r1,1hr,evspsbl,v20241016,evspsbl_PARIS-3_ERA5_evaluation_r1i1p1f1_CUNI_RegCM5_v1-fpsurbrcc-s0r1_1hr_20200701-20200731.nc
 PARIS-3,CUNI,ERA5,evaluation,r1i1p1f1,RegCM5,v1-fpsurbrcc-s0r1,1hr,evspsbl,v20241016,evspsbl_PARIS-3_ERA5_evaluation_r1i1p1f1_CUNI_RegCM5_v1-fpsurbrcc-s0r1_1hr_20200601-20200630.nc
-PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r1,1hr,evspsbl,v20240820,evspsbl_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-CTRL_v1-fpsurbrcc-s0r1_1hr_202003010030-202008312330.nc
+PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r6,1hr,evspsbl,v20241210,evspsbl_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-CTRL_v1-fpsurbrcc-s0r6_1hr_202003010030-202008312330.nc
 PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-NOUR,v1-fpsurbrcc-s0r1,1hr,evspsbl,v20240820,evspsbl_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-NOUR_v1-fpsurbrcc-s0r1_1hr_202003010030-202008312330.nc
 PARIS-3,ICTP,ERA5,evaluation,r1i1p1f1,RegCM5,v1-fpsurbrcc-s0r1,1hr,evspsbl,v20240325,evspsbl_PARIS-3_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5_v1-fpsurbrcc-s0r1_1hr_2020060100-2020070100.nc
 PARIS-3,ICTP,ERA5,evaluation,r1i1p1f1,RegCM5,v1-fpsurbrcc-s0r1,1hr,evspsbl,v20240325,evspsbl_PARIS-3_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5_v1-fpsurbrcc-s0r1_1hr_2020100100-2020110100.nc
@@ -409,7 +408,7 @@ PARIS-3,AUTH-MC,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r1,day,huss
 PARIS-3,AUTH-MC,ERA5,evaluation,r1i1p1f1,WRF451R-MICR,v1-fpsurbrcc-s0r1,day,huss,v20241204,huss_PARIS-3_ERA5_evaluation_r1i1p1f1_AUTH-MC_WRF451R-MICR_v1-fpsurbrcc-s0r1_day_20200301-20200831.nc
 PARIS-3,UCL,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r9,day,huss,v20240715,huss_PARIS-3_ERA5_evaluation_r1i1p1f1_UCL_WRF451R-CTRL_v1-fpsurbrcc-s0r9_day_2021-20200831.nc
 PARIS-3,UCL,ERA5,evaluation,r1i1p1f1,WRF451R-NOAC,v1-fpsurbrcc-s0r1,day,huss,v20240715,huss_PARIS-3_ERA5_evaluation_r1i1p1f1_UCL_WRF451R-NOAC_v1-fpsurbrcc-s0r1_day_20200501-202008300400.nc
-PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r1,day,huss,v20240820,huss_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-CTRL_v1-fpsurbrcc-s0r1_day_20200301-20200831.nc
+PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r6,day,huss,v20241210,huss_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-CTRL_v1-fpsurbrcc-s0r6_day_20200301-20200831.nc
 PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-NOUR,v1-fpsurbrcc-s0r1,day,huss,v20240820,huss_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-NOUR_v1-fpsurbrcc-s0r1_day_20200301-20200831.nc
 PARIS-3,ICTP,ERA5,evaluation,r1i1p1f1,RegCM5,v1-fpsurbrcc-s0r1,day,huss,v20240325,huss_PARIS-3_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5_v1-fpsurbrcc-s0r1_day_20201101-20201130.nc
 PARIS-3,ICTP,ERA5,evaluation,r1i1p1f1,RegCM5,v1-fpsurbrcc-s0r1,day,huss,v20240325,huss_PARIS-3_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5_v1-fpsurbrcc-s0r1_day_20200801-20200831.nc
@@ -458,7 +457,7 @@ PARIS-3,CUNI,ERA5,evaluation,r1i1p1f1,RegCM5,v1-fpsurbrcc-s0r1,1hr,huss,v2024101
 PARIS-3,CUNI,ERA5,evaluation,r1i1p1f1,RegCM5,v1-fpsurbrcc-s0r1,1hr,huss,v20241016,huss_PARIS-3_ERA5_evaluation_r1i1p1f1_CUNI_RegCM5_v1-fpsurbrcc-s0r1_1hr_20200501-20200531.nc
 PARIS-3,CUNI,ERA5,evaluation,r1i1p1f1,WRF451R-SFAE,v1-fpsurbrcc-s0r1,1hr,huss,v20241031,huss_PARIS-3_ERA5_evaluation_r1i1p1f1_CUNI_WRF451R-SFAE_v1-fpsurbrcc-s0r1_1hr_202004010000-202008312300.nc
 PARIS-3,CUNI,ERA5,evaluation,r1i1p1f1,WRF451R-SFL2,v1-fpsurbrcc-s0r1,1hr,huss,v20241022,huss_PARIS-3_ERA5_evaluation_r1i1p1f1_CUNI_WRF451R-SFL2_v1-fpsurbrcc-s0r1_1hr_202004010000-202008312300.nc
-PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r1,1hr,huss,v20240820,huss_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-CTRL_v1-fpsurbrcc-s0r1_1hr_202003010000-202008312300.nc
+PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r6,1hr,huss,v20241210,huss_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-CTRL_v1-fpsurbrcc-s0r6_1hr_202003010000-202008312300.nc
 PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-NOUR,v1-fpsurbrcc-s0r1,1hr,huss,v20240820,huss_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-NOUR_v1-fpsurbrcc-s0r1_1hr_202003010000-202008312300.nc
 PARIS-3,ICTP,ERA5,evaluation,r1i1p1f1,RegCM5,v1-fpsurbrcc-s0r1,1hr,huss,v20240325,huss_PARIS-3_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5_v1-fpsurbrcc-s0r1_1hr_2020030100-2020040100.nc
 PARIS-3,ICTP,ERA5,evaluation,r1i1p1f1,RegCM5,v1-fpsurbrcc-s0r1,1hr,huss,v20240325,huss_PARIS-3_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5_v1-fpsurbrcc-s0r1_1hr_2020040100-2020050100.nc
@@ -493,6 +492,7 @@ PARIS-3,AUTH-MC,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r1,day,hurs
 PARIS-3,AUTH-MC,ERA5,evaluation,r1i1p1f1,WRF451R-MICR,v1-fpsurbrcc-s0r1,day,hurs,v20241204,hurs_PARIS-3_ERA5_evaluation_r1i1p1f1_AUTH-MC_WRF451R-MICR_v1-fpsurbrcc-s0r1_day_20200301-20200831.nc
 PARIS-3,UCL,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r9,day,hurs,v20240715,hurs_PARIS-3_ERA5_evaluation_r1i1p1f1_UCL_WRF451R-CTRL_v1-fpsurbrcc-s0r9_day_2021-20200831.nc
 PARIS-3,UCL,ERA5,evaluation,r1i1p1f1,WRF451R-NOAC,v1-fpsurbrcc-s0r1,day,hurs,v20240715,hurs_PARIS-3_ERA5_evaluation_r1i1p1f1_UCL_WRF451R-NOAC_v1-fpsurbrcc-s0r1_day_20200501-202008300400.nc
+PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r6,day,hurs,v20241210,hurs_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-CTRL_v1-fpsurbrcc-s0r6_day_20200301-20200831.nc
 PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-NOUR,v1-fpsurbrcc-s0r1,day,hurs,v20240820,hurs_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-NOUR_v1-fpsurbrcc-s0r1_day_20200301-20200831.nc
 PARIS-3,ICTP,ERA5,evaluation,r1i1p1f1,RegCM5,v1-fpsurbrcc-s0r1,day,hurs,v20240325,hurs_PARIS-3_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5_v1-fpsurbrcc-s0r1_day_20200201-20200229.nc
 PARIS-3,ICTP,ERA5,evaluation,r1i1p1f1,RegCM5,v1-fpsurbrcc-s0r1,day,hurs,v20240325,hurs_PARIS-3_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5_v1-fpsurbrcc-s0r1_day_20200701-20200731.nc
@@ -541,6 +541,7 @@ PARIS-3,CUNI,ERA5,evaluation,r1i1p1f1,RegCM5,v1-fpsurbrcc-s0r1,1hr,hurs,v2024101
 PARIS-3,CUNI,ERA5,evaluation,r1i1p1f1,RegCM5,v1-fpsurbrcc-s0r1,1hr,hurs,v20241016,hurs_PARIS-3_ERA5_evaluation_r1i1p1f1_CUNI_RegCM5_v1-fpsurbrcc-s0r1_1hr_20200501-20200531.nc
 PARIS-3,CUNI,ERA5,evaluation,r1i1p1f1,WRF451R-SFAE,v1-fpsurbrcc-s0r1,1hr,hurs,v20241031,hurs_PARIS-3_ERA5_evaluation_r1i1p1f1_CUNI_WRF451R-SFAE_v1-fpsurbrcc-s0r1_1hr_202004010000-202008312300.nc
 PARIS-3,CUNI,ERA5,evaluation,r1i1p1f1,WRF451R-SFL2,v1-fpsurbrcc-s0r1,1hr,hurs,v20241022,hurs_PARIS-3_ERA5_evaluation_r1i1p1f1_CUNI_WRF451R-SFL2_v1-fpsurbrcc-s0r1_1hr_202004010000-202008312300.nc
+PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r6,1hr,hurs,v20241210,hurs_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-CTRL_v1-fpsurbrcc-s0r6_1hr_202003010000-202008312300.nc
 PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-NOUR,v1-fpsurbrcc-s0r1,1hr,hurs,v20240820,hurs_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-NOUR_v1-fpsurbrcc-s0r1_1hr_202003010000-202008312300.nc
 PARIS-3,ICTP,ERA5,evaluation,r1i1p1f1,RegCM5,v1-fpsurbrcc-s0r1,1hr,hurs,v20240325,hurs_PARIS-3_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5_v1-fpsurbrcc-s0r1_1hr_2020030100-2020040100.nc
 PARIS-3,ICTP,ERA5,evaluation,r1i1p1f1,RegCM5,v1-fpsurbrcc-s0r1,1hr,hurs,v20240325,hurs_PARIS-3_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5_v1-fpsurbrcc-s0r1_1hr_2020010100-2020020100.nc
@@ -580,7 +581,7 @@ PARIS-3,AUTH-MC,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r1,day,ps,v
 PARIS-3,AUTH-MC,ERA5,evaluation,r1i1p1f1,WRF451R-MICR,v1-fpsurbrcc-s0r1,day,ps,v20241204,ps_PARIS-3_ERA5_evaluation_r1i1p1f1_AUTH-MC_WRF451R-MICR_v1-fpsurbrcc-s0r1_day_20200301-20200831.nc
 PARIS-3,UCL,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r9,day,ps,v20240715,ps_PARIS-3_ERA5_evaluation_r1i1p1f1_UCL_WRF451R-CTRL_v1-fpsurbrcc-s0r9_day_2021-20200831.nc
 PARIS-3,UCL,ERA5,evaluation,r1i1p1f1,WRF451R-NOAC,v1-fpsurbrcc-s0r1,day,ps,v20240715,ps_PARIS-3_ERA5_evaluation_r1i1p1f1_UCL_WRF451R-NOAC_v1-fpsurbrcc-s0r1_day_20200501-202008300400.nc
-PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r1,day,ps,v20240820,ps_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-CTRL_v1-fpsurbrcc-s0r1_day_20200301-20200831.nc
+PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r6,day,ps,v20241210,ps_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-CTRL_v1-fpsurbrcc-s0r6_day_20200301-20200831.nc
 PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-NOUR,v1-fpsurbrcc-s0r1,day,ps,v20240820,ps_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-NOUR_v1-fpsurbrcc-s0r1_day_20200301-20200831.nc
 PARIS-3,CIMA,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r1,day,ps,v20240918,ps_PARIS-3_ERA5_evaluation_r1i1p1f1_CIMA_WRF451R-CTRL_v1-fpsurbrcc-s0r1_day_20200301000000-20200901000000.nc
 PARIS-3,CIMA,ERA5,evaluation,r1i1p1f1,WRF451R-URB2,v1-fpsurbrcc-s0r1,day,ps,v20240917,ps_PARIS-3_ERA5_evaluation_r1i1p1f1_CIMA_WRF451R-URB2_v1-fpsurbrcc-s0r1_day_20200301000000-20200901000000.nc
@@ -624,7 +625,7 @@ PARIS-3,CUNI,ERA5,evaluation,r1i1p1f1,RegCM5,v1-fpsurbrcc-s0r1,1hr,ps,v20241016,
 PARIS-3,CUNI,ERA5,evaluation,r1i1p1f1,RegCM5,v1-fpsurbrcc-s0r1,1hr,ps,v20241016,ps_PARIS-3_ERA5_evaluation_r1i1p1f1_CUNI_RegCM5_v1-fpsurbrcc-s0r1_1hr_20200801-20200831.nc
 PARIS-3,CUNI,ERA5,evaluation,r1i1p1f1,RegCM5,v1-fpsurbrcc-s0r1,1hr,ps,v20241016,ps_PARIS-3_ERA5_evaluation_r1i1p1f1_CUNI_RegCM5_v1-fpsurbrcc-s0r1_1hr_20200501-20200531.nc
 PARIS-3,CUNI,ERA5,evaluation,r1i1p1f1,RegCM5,v1-fpsurbrcc-s0r1,1hr,ps,v20241016,ps_PARIS-3_ERA5_evaluation_r1i1p1f1_CUNI_RegCM5_v1-fpsurbrcc-s0r1_1hr_20200601-20200630.nc
-PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r1,1hr,ps,v20240820,ps_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-CTRL_v1-fpsurbrcc-s0r1_1hr_202003010000-202008312300.nc
+PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r6,1hr,ps,v20241210,ps_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-CTRL_v1-fpsurbrcc-s0r6_1hr_202003010000-202008312300.nc
 PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-NOUR,v1-fpsurbrcc-s0r1,1hr,ps,v20240820,ps_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-NOUR_v1-fpsurbrcc-s0r1_1hr_202003010000-202008312300.nc
 PARIS-3,CIMA,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r1,1hr,ps,v20240918,ps_PARIS-3_ERA5_evaluation_r1i1p1f1_CIMA_WRF451R-CTRL_v1-fpsurbrcc-s0r1_1hr_20200301000000-20200901000000.nc
 PARIS-3,CIMA,ERA5,evaluation,r1i1p1f1,WRF451R-URB2,v1-fpsurbrcc-s0r1,1hr,ps,v20240917,ps_PARIS-3_ERA5_evaluation_r1i1p1f1_CIMA_WRF451R-URB2_v1-fpsurbrcc-s0r1_1hr_20200301000000-20200901000000.nc
@@ -664,7 +665,7 @@ PARIS-3,AUTH-MC,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r1,day,psl,
 PARIS-3,AUTH-MC,ERA5,evaluation,r1i1p1f1,WRF451R-MICR,v1-fpsurbrcc-s0r1,day,psl,v20241204,psl_PARIS-3_ERA5_evaluation_r1i1p1f1_AUTH-MC_WRF451R-MICR_v1-fpsurbrcc-s0r1_day_20200301-20200831.nc
 PARIS-3,UCL,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r9,day,psl,v20240715,psl_PARIS-3_ERA5_evaluation_r1i1p1f1_UCL_WRF451R-CTRL_v1-fpsurbrcc-s0r9_day_2021-20200831.nc
 PARIS-3,UCL,ERA5,evaluation,r1i1p1f1,WRF451R-NOAC,v1-fpsurbrcc-s0r1,day,psl,v20240715,psl_PARIS-3_ERA5_evaluation_r1i1p1f1_UCL_WRF451R-NOAC_v1-fpsurbrcc-s0r1_day_20200501-202008300400.nc
-PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r1,day,psl,v20240820,psl_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-CTRL_v1-fpsurbrcc-s0r1_day_20200301-20200831.nc
+PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r6,day,psl,v20241210,psl_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-CTRL_v1-fpsurbrcc-s0r6_day_20200301-20200831.nc
 PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-NOUR,v1-fpsurbrcc-s0r1,day,psl,v20240820,psl_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-NOUR_v1-fpsurbrcc-s0r1_day_20200301-20200831.nc
 PARIS-3,CIMA,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r1,day,psl,v20240918,psl_PARIS-3_ERA5_evaluation_r1i1p1f1_CIMA_WRF451R-CTRL_v1-fpsurbrcc-s0r1_day_20200301000000-20200901000000.nc
 PARIS-3,CIMA,ERA5,evaluation,r1i1p1f1,WRF451R-URB2,v1-fpsurbrcc-s0r1,day,psl,v20240918,psl_PARIS-3_ERA5_evaluation_r1i1p1f1_CIMA_WRF451R-URB2_v1-fpsurbrcc-s0r1_day_20200301000000-20200901000000.nc
@@ -704,7 +705,7 @@ PARIS-3,CUNI,ERA5,evaluation,r1i1p1f1,RegCM5,v1-fpsurbrcc-s0r1,1hr,psl,v20241016
 PARIS-3,CUNI,ERA5,evaluation,r1i1p1f1,RegCM5,v1-fpsurbrcc-s0r1,1hr,psl,v20241016,psl_PARIS-3_ERA5_evaluation_r1i1p1f1_CUNI_RegCM5_v1-fpsurbrcc-s0r1_1hr_20200501-20200531.nc
 PARIS-3,CUNI,ERA5,evaluation,r1i1p1f1,RegCM5,v1-fpsurbrcc-s0r1,1hr,psl,v20241016,psl_PARIS-3_ERA5_evaluation_r1i1p1f1_CUNI_RegCM5_v1-fpsurbrcc-s0r1_1hr_20200701-20200731.nc
 PARIS-3,CUNI,ERA5,evaluation,r1i1p1f1,RegCM5,v1-fpsurbrcc-s0r1,1hr,psl,v20241016,psl_PARIS-3_ERA5_evaluation_r1i1p1f1_CUNI_RegCM5_v1-fpsurbrcc-s0r1_1hr_20200601-20200630.nc
-PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r1,1hr,psl,v20240820,psl_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-CTRL_v1-fpsurbrcc-s0r1_1hr_202003010000-202008312300.nc
+PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r6,1hr,psl,v20241210,psl_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-CTRL_v1-fpsurbrcc-s0r6_1hr_202003010000-202008312300.nc
 PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-NOUR,v1-fpsurbrcc-s0r1,1hr,psl,v20240820,psl_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-NOUR_v1-fpsurbrcc-s0r1_1hr_202003010000-202008312300.nc
 PARIS-3,CIMA,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r1,1hr,psl,v20240918,psl_PARIS-3_ERA5_evaluation_r1i1p1f1_CIMA_WRF451R-CTRL_v1-fpsurbrcc-s0r1_1hr_20200301000000-20200901000000.nc
 PARIS-3,CIMA,ERA5,evaluation,r1i1p1f1,WRF451R-URB2,v1-fpsurbrcc-s0r1,1hr,psl,v20240918,psl_PARIS-3_ERA5_evaluation_r1i1p1f1_CIMA_WRF451R-URB2_v1-fpsurbrcc-s0r1_1hr_20200301000000-20200901000000.nc
@@ -746,7 +747,7 @@ PARIS-3,AUTH-MC,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r1,day,sfcW
 PARIS-3,AUTH-MC,ERA5,evaluation,r1i1p1f1,WRF451R-MICR,v1-fpsurbrcc-s0r1,day,sfcWind,v20241204,sfcWind_PARIS-3_ERA5_evaluation_r1i1p1f1_AUTH-MC_WRF451R-MICR_v1-fpsurbrcc-s0r1_day_20200301-20200831.nc
 PARIS-3,UCL,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r9,day,sfcWind,v20240715,sfcWind_PARIS-3_ERA5_evaluation_r1i1p1f1_UCL_WRF451R-CTRL_v1-fpsurbrcc-s0r9_day_2021-20200831.nc
 PARIS-3,UCL,ERA5,evaluation,r1i1p1f1,WRF451R-NOAC,v1-fpsurbrcc-s0r1,day,sfcWind,v20240715,sfcWind_PARIS-3_ERA5_evaluation_r1i1p1f1_UCL_WRF451R-NOAC_v1-fpsurbrcc-s0r1_day_20200501-202008300400.nc
-PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r1,day,sfcWind,v20240820,sfcWind_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-CTRL_v1-fpsurbrcc-s0r1_day_20200301-20200831.nc
+PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r6,day,sfcWind,v20241210,sfcWind_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-CTRL_v1-fpsurbrcc-s0r6_day_20200301-20200831.nc
 PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-NOUR,v1-fpsurbrcc-s0r1,day,sfcWind,v20240820,sfcWind_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-NOUR_v1-fpsurbrcc-s0r1_day_20200301-20200831.nc
 PARIS-3,CIMA,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r1,day,sfcWind,v20240918,sfcWind_PARIS-3_ERA5_evaluation_r1i1p1f1_CIMA_WRF451R-CTRL_v1-fpsurbrcc-s0r1_day_20200301000000-20200901000000.nc
 PARIS-3,CIMA,ERA5,evaluation,r1i1p1f1,WRF451R-URB2,v1-fpsurbrcc-s0r1,day,sfcWind,v20240918,sfcWind_PARIS-3_ERA5_evaluation_r1i1p1f1_CIMA_WRF451R-URB2_v1-fpsurbrcc-s0r1_day_20200301000000-20200901000000.nc
@@ -783,7 +784,7 @@ PARIS-3,CUNI,ERA5,evaluation,r1i1p1f1,RegCM5,v1-fpsurbrcc-s0r1,1hr,sfcWind,v2024
 PARIS-3,CUNI,ERA5,evaluation,r1i1p1f1,RegCM5,v1-fpsurbrcc-s0r1,1hr,sfcWind,v20241016,sfcWind_PARIS-3_ERA5_evaluation_r1i1p1f1_CUNI_RegCM5_v1-fpsurbrcc-s0r1_1hr_20200801-20200831.nc
 PARIS-3,CUNI,ERA5,evaluation,r1i1p1f1,RegCM5,v1-fpsurbrcc-s0r1,1hr,sfcWind,v20241016,sfcWind_PARIS-3_ERA5_evaluation_r1i1p1f1_CUNI_RegCM5_v1-fpsurbrcc-s0r1_1hr_20200601-20200630.nc
 PARIS-3,CUNI,ERA5,evaluation,r1i1p1f1,RegCM5,v1-fpsurbrcc-s0r1,1hr,sfcWind,v20241016,sfcWind_PARIS-3_ERA5_evaluation_r1i1p1f1_CUNI_RegCM5_v1-fpsurbrcc-s0r1_1hr_20200701-20200731.nc
-PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r1,1hr,sfcWind,v20240820,sfcWind_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-CTRL_v1-fpsurbrcc-s0r1_1hr_202003010000-202008312300.nc
+PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r6,1hr,sfcWind,v20241210,sfcWind_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-CTRL_v1-fpsurbrcc-s0r6_1hr_202003010000-202008312300.nc
 PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-NOUR,v1-fpsurbrcc-s0r1,1hr,sfcWind,v20240820,sfcWind_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-NOUR_v1-fpsurbrcc-s0r1_1hr_202003010000-202008312300.nc
 PARIS-3,CIMA,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r1,1hr,sfcWind,v20240918,sfcWind_PARIS-3_ERA5_evaluation_r1i1p1f1_CIMA_WRF451R-CTRL_v1-fpsurbrcc-s0r1_1hr_20200301000000-20200901000000.nc
 PARIS-3,CIMA,ERA5,evaluation,r1i1p1f1,WRF451R-URB2,v1-fpsurbrcc-s0r1,1hr,sfcWind,v20240918,sfcWind_PARIS-3_ERA5_evaluation_r1i1p1f1_CIMA_WRF451R-URB2_v1-fpsurbrcc-s0r1_1hr_20200301000000-20200901000000.nc
@@ -823,7 +824,7 @@ PARIS-3,AUTH-MC,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r1,day,uas,
 PARIS-3,AUTH-MC,ERA5,evaluation,r1i1p1f1,WRF451R-MICR,v1-fpsurbrcc-s0r1,day,uas,v20241204,uas_PARIS-3_ERA5_evaluation_r1i1p1f1_AUTH-MC_WRF451R-MICR_v1-fpsurbrcc-s0r1_day_20200301-20200831.nc
 PARIS-3,UCL,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r9,day,uas,v20240715,uas_PARIS-3_ERA5_evaluation_r1i1p1f1_UCL_WRF451R-CTRL_v1-fpsurbrcc-s0r9_day_2021-20200831.nc
 PARIS-3,UCL,ERA5,evaluation,r1i1p1f1,WRF451R-NOAC,v1-fpsurbrcc-s0r1,day,uas,v20240715,uas_PARIS-3_ERA5_evaluation_r1i1p1f1_UCL_WRF451R-NOAC_v1-fpsurbrcc-s0r1_day_20200501-202008300400.nc
-PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r1,day,uas,v20240820,uas_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-CTRL_v1-fpsurbrcc-s0r1_day_20200301-20200831.nc
+PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r6,day,uas,v20241210,uas_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-CTRL_v1-fpsurbrcc-s0r6_day_20200301-20200831.nc
 PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-NOUR,v1-fpsurbrcc-s0r1,day,uas,v20240820,uas_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-NOUR_v1-fpsurbrcc-s0r1_day_20200301-20200831.nc
 PARIS-3,ICTP,ERA5,evaluation,r1i1p1f1,RegCM5,v1-fpsurbrcc-s0r1,day,uas,v20240325,uas_PARIS-3_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5_v1-fpsurbrcc-s0r1_day_20200901-20200930.nc
 PARIS-3,ICTP,ERA5,evaluation,r1i1p1f1,RegCM5,v1-fpsurbrcc-s0r1,day,uas,v20240325,uas_PARIS-3_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5_v1-fpsurbrcc-s0r1_day_20201101-20201130.nc
@@ -874,7 +875,7 @@ PARIS-3,CUNI,ERA5,evaluation,r1i1p1f1,RegCM5,v1-fpsurbrcc-s0r1,1hr,uas,v20241016
 PARIS-3,CUNI,ERA5,evaluation,r1i1p1f1,WRF451R-SFAE,v1-fpsurbrcc-s0r1,1hr,uas,v20241022,uas_PARIS-3_ERA5_evaluation_r1i1p1f1_CUNI_WRF451R-SFAE_v1-fpsurbrcc-s0r1_1hr_202004010000-202008312300.nc
 PARIS-3,CUNI,ERA5,evaluation,r1i1p1f1,WRF451R-SFAE,v1-fpsurbrcc-s0r1,1hr,uas,v20241031,uas_PARIS-3_ERA5_evaluation_r1i1p1f1_CUNI_WRF451R-SFAE_v1-fpsurbrcc-s0r1_1hr_202004010000-202008312300.nc
 PARIS-3,CUNI,ERA5,evaluation,r1i1p1f1,WRF451R-SFL2,v1-fpsurbrcc-s0r1,1hr,uas,v20241022,uas_PARIS-3_ERA5_evaluation_r1i1p1f1_CUNI_WRF451R-SFL2_v1-fpsurbrcc-s0r1_1hr_202004010000-202008312300.nc
-PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r1,1hr,uas,v20240820,uas_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-CTRL_v1-fpsurbrcc-s0r1_1hr_202003010000-202008312300.nc
+PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r6,1hr,uas,v20241210,uas_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-CTRL_v1-fpsurbrcc-s0r6_1hr_202003010000-202008312300.nc
 PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-NOUR,v1-fpsurbrcc-s0r1,1hr,uas,v20240820,uas_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-NOUR_v1-fpsurbrcc-s0r1_1hr_202003010000-202008312300.nc
 PARIS-3,ICTP,ERA5,evaluation,r1i1p1f1,RegCM5,v1-fpsurbrcc-s0r1,1hr,uas,v20240325,uas_PARIS-3_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5_v1-fpsurbrcc-s0r1_1hr_2020110100-2020120100.nc
 PARIS-3,ICTP,ERA5,evaluation,r1i1p1f1,RegCM5,v1-fpsurbrcc-s0r1,1hr,uas,v20240325,uas_PARIS-3_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5_v1-fpsurbrcc-s0r1_1hr_2020010100-2020020100.nc
@@ -912,7 +913,7 @@ PARIS-3,AUTH-MC,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r1,day,vas,
 PARIS-3,AUTH-MC,ERA5,evaluation,r1i1p1f1,WRF451R-MICR,v1-fpsurbrcc-s0r1,day,vas,v20241204,vas_PARIS-3_ERA5_evaluation_r1i1p1f1_AUTH-MC_WRF451R-MICR_v1-fpsurbrcc-s0r1_day_20200301-20200831.nc
 PARIS-3,UCL,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r9,day,vas,v20240715,vas_PARIS-3_ERA5_evaluation_r1i1p1f1_UCL_WRF451R-CTRL_v1-fpsurbrcc-s0r9_day_2021-20200831.nc
 PARIS-3,UCL,ERA5,evaluation,r1i1p1f1,WRF451R-NOAC,v1-fpsurbrcc-s0r1,day,vas,v20240715,vas_PARIS-3_ERA5_evaluation_r1i1p1f1_UCL_WRF451R-NOAC_v1-fpsurbrcc-s0r1_day_20200501-202008300400.nc
-PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r1,day,vas,v20240820,vas_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-CTRL_v1-fpsurbrcc-s0r1_day_20200301-20200831.nc
+PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r6,day,vas,v20241210,vas_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-CTRL_v1-fpsurbrcc-s0r6_day_20200301-20200831.nc
 PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-NOUR,v1-fpsurbrcc-s0r1,day,vas,v20240820,vas_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-NOUR_v1-fpsurbrcc-s0r1_day_20200301-20200831.nc
 PARIS-3,ICTP,ERA5,evaluation,r1i1p1f1,RegCM5,v1-fpsurbrcc-s0r1,day,vas,v20240325,vas_PARIS-3_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5_v1-fpsurbrcc-s0r1_day_20201101-20201130.nc
 PARIS-3,ICTP,ERA5,evaluation,r1i1p1f1,RegCM5,v1-fpsurbrcc-s0r1,day,vas,v20240325,vas_PARIS-3_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5_v1-fpsurbrcc-s0r1_day_20200301-20200331.nc
@@ -963,7 +964,7 @@ PARIS-3,CUNI,ERA5,evaluation,r1i1p1f1,RegCM5,v1-fpsurbrcc-s0r1,1hr,vas,v20241016
 PARIS-3,CUNI,ERA5,evaluation,r1i1p1f1,WRF451R-SFAE,v1-fpsurbrcc-s0r1,1hr,vas,v20241022,vas_PARIS-3_ERA5_evaluation_r1i1p1f1_CUNI_WRF451R-SFAE_v1-fpsurbrcc-s0r1_1hr_202004010000-202008312300.nc
 PARIS-3,CUNI,ERA5,evaluation,r1i1p1f1,WRF451R-SFAE,v1-fpsurbrcc-s0r1,1hr,vas,v20241031,vas_PARIS-3_ERA5_evaluation_r1i1p1f1_CUNI_WRF451R-SFAE_v1-fpsurbrcc-s0r1_1hr_202004010000-202008312300.nc
 PARIS-3,CUNI,ERA5,evaluation,r1i1p1f1,WRF451R-SFL2,v1-fpsurbrcc-s0r1,1hr,vas,v20241022,vas_PARIS-3_ERA5_evaluation_r1i1p1f1_CUNI_WRF451R-SFL2_v1-fpsurbrcc-s0r1_1hr_202004010000-202008312300.nc
-PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r1,1hr,vas,v20240820,vas_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-CTRL_v1-fpsurbrcc-s0r1_1hr_202003010000-202008312300.nc
+PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r6,1hr,vas,v20241210,vas_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-CTRL_v1-fpsurbrcc-s0r6_1hr_202003010000-202008312300.nc
 PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-NOUR,v1-fpsurbrcc-s0r1,1hr,vas,v20240820,vas_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-NOUR_v1-fpsurbrcc-s0r1_1hr_202003010000-202008312300.nc
 PARIS-3,ICTP,ERA5,evaluation,r1i1p1f1,RegCM5,v1-fpsurbrcc-s0r1,1hr,vas,v20240325,vas_PARIS-3_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5_v1-fpsurbrcc-s0r1_1hr_2020010100-2020020100.nc
 PARIS-3,ICTP,ERA5,evaluation,r1i1p1f1,RegCM5,v1-fpsurbrcc-s0r1,1hr,vas,v20240325,vas_PARIS-3_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5_v1-fpsurbrcc-s0r1_1hr_2020060100-2020070100.nc
@@ -999,7 +1000,7 @@ PARIS-3,AUTH-MC,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r1,day,clt,
 PARIS-3,AUTH-MC,ERA5,evaluation,r1i1p1f1,WRF451R-MICR,v1-fpsurbrcc-s0r1,day,clt,v20241204,clt_PARIS-3_ERA5_evaluation_r1i1p1f1_AUTH-MC_WRF451R-MICR_v1-fpsurbrcc-s0r1_day_20200301-20200831.nc
 PARIS-3,UCL,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r9,day,clt,v20240715,clt_PARIS-3_ERA5_evaluation_r1i1p1f1_UCL_WRF451R-CTRL_v1-fpsurbrcc-s0r9_day_2021-20200831.nc
 PARIS-3,UCL,ERA5,evaluation,r1i1p1f1,WRF451R-NOAC,v1-fpsurbrcc-s0r1,day,clt,v20240715,clt_PARIS-3_ERA5_evaluation_r1i1p1f1_UCL_WRF451R-NOAC_v1-fpsurbrcc-s0r1_day_20200501-202008300430.nc
-PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r1,day,clt,v20240820,clt_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-CTRL_v1-fpsurbrcc-s0r1_day_20200301-20200831.nc
+PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r6,day,clt,v20241210,clt_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-CTRL_v1-fpsurbrcc-s0r6_day_20200301-20200831.nc
 PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-NOUR,v1-fpsurbrcc-s0r1,day,clt,v20240820,clt_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-NOUR_v1-fpsurbrcc-s0r1_day_20200301-20200831.nc
 PARIS-3,ICTP,ERA5,evaluation,r1i1p1f1,RegCM5,v1-fpsurbrcc-s0r1,day,clt,v20240325,clt_PARIS-3_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5_v1-fpsurbrcc-s0r1_day_20201201-20201231.nc
 PARIS-3,ICTP,ERA5,evaluation,r1i1p1f1,RegCM5,v1-fpsurbrcc-s0r1,day,clt,v20240325,clt_PARIS-3_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5_v1-fpsurbrcc-s0r1_day_20200801-20200831.nc
@@ -1038,7 +1039,7 @@ PARIS-3,CUNI,ERA5,evaluation,r1i1p1f1,RegCM5,v1-fpsurbrcc-s0r1,1hr,clt,v20241016
 PARIS-3,CUNI,ERA5,evaluation,r1i1p1f1,RegCM5,v1-fpsurbrcc-s0r1,1hr,clt,v20241016,clt_PARIS-3_ERA5_evaluation_r1i1p1f1_CUNI_RegCM5_v1-fpsurbrcc-s0r1_1hr_20200701-20200731.nc
 PARIS-3,CUNI,ERA5,evaluation,r1i1p1f1,RegCM5,v1-fpsurbrcc-s0r1,1hr,clt,v20241016,clt_PARIS-3_ERA5_evaluation_r1i1p1f1_CUNI_RegCM5_v1-fpsurbrcc-s0r1_1hr_20200501-20200531.nc
 PARIS-3,CUNI,ERA5,evaluation,r1i1p1f1,RegCM5,v1-fpsurbrcc-s0r1,1hr,clt,v20241016,clt_PARIS-3_ERA5_evaluation_r1i1p1f1_CUNI_RegCM5_v1-fpsurbrcc-s0r1_1hr_20200801-20200831.nc
-PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r1,1hr,clt,v20240820,clt_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-CTRL_v1-fpsurbrcc-s0r1_1hr_202003010030-202008312330.nc
+PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r6,1hr,clt,v20241210,clt_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-CTRL_v1-fpsurbrcc-s0r6_1hr_202003010030-202008312330.nc
 PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-NOUR,v1-fpsurbrcc-s0r1,1hr,clt,v20240820,clt_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-NOUR_v1-fpsurbrcc-s0r1_1hr_202003010030-202008312330.nc
 PARIS-3,ICTP,ERA5,evaluation,r1i1p1f1,RegCM5,v1-fpsurbrcc-s0r1,1hr,clt,v20240325,clt_PARIS-3_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5_v1-fpsurbrcc-s0r1_1hr_2020010100-2020020100.nc
 PARIS-3,ICTP,ERA5,evaluation,r1i1p1f1,RegCM5,v1-fpsurbrcc-s0r1,1hr,clt,v20240325,clt_PARIS-3_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5_v1-fpsurbrcc-s0r1_1hr_2020120100-2021010100.nc
@@ -1071,7 +1072,6 @@ PARIS-3,AUTH-MC,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r1,day,rsds
 PARIS-3,AUTH-MC,ERA5,evaluation,r1i1p1f1,WRF451R-MICR,v1-fpsurbrcc-s0r1,day,rsds,v20241204,rsds_PARIS-3_ERA5_evaluation_r1i1p1f1_AUTH-MC_WRF451R-MICR_v1-fpsurbrcc-s0r1_day_20200301-20200831.nc
 PARIS-3,UCL,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r9,day,rsds,v20240715,rsds_PARIS-3_ERA5_evaluation_r1i1p1f1_UCL_WRF451R-CTRL_v1-fpsurbrcc-s0r9_day_2021-20200831.nc
 PARIS-3,UCL,ERA5,evaluation,r1i1p1f1,WRF451R-NOAC,v1-fpsurbrcc-s0r1,day,rsds,v20240715,rsds_PARIS-3_ERA5_evaluation_r1i1p1f1_UCL_WRF451R-NOAC_v1-fpsurbrcc-s0r1_day_20200501-202008300430.nc
-PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r1,day,rsds,v20240820,rsds_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-CTRL_v1-fpsurbrcc-s0r1_day_20200301-20200831.nc
 PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-NOUR,v1-fpsurbrcc-s0r1,day,rsds,v20240820,rsds_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-NOUR_v1-fpsurbrcc-s0r1_day_20200301-20200831.nc
 PARIS-3,ICTP,ERA5,evaluation,r1i1p1f1,RegCM5,v1-fpsurbrcc-s0r1,day,rsds,v20240325,rsds_PARIS-3_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5_v1-fpsurbrcc-s0r1_day_20200601-20200630.nc
 PARIS-3,ICTP,ERA5,evaluation,r1i1p1f1,RegCM5,v1-fpsurbrcc-s0r1,day,rsds,v20240325,rsds_PARIS-3_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5_v1-fpsurbrcc-s0r1_day_20200901-20200930.nc
@@ -1123,7 +1123,6 @@ PARIS-3,CUNI,ERA5,evaluation,r1i1p1f1,RegCM5,v1-fpsurbrcc-s0r1,1hr,rsds,v2024101
 PARIS-3,CUNI,ERA5,evaluation,r1i1p1f1,RegCM5,v1-fpsurbrcc-s0r1,1hr,rsds,v20241016,rsds_PARIS-3_ERA5_evaluation_r1i1p1f1_CUNI_RegCM5_v1-fpsurbrcc-s0r1_1hr_20200601-20200630.nc
 PARIS-3,CUNI,ERA5,evaluation,r1i1p1f1,WRF451R-SFAE,v1-fpsurbrcc-s0r1,1hr,rsds,v20241022,rsds_PARIS-3_ERA5_evaluation_r1i1p1f1_CUNI_WRF451R-SFAE_v1-fpsurbrcc-s0r1_1hr_202004010030-202008312330.nc
 PARIS-3,CUNI,ERA5,evaluation,r1i1p1f1,WRF451R-SFL2,v1-fpsurbrcc-s0r1,1hr,rsds,v20241022,rsds_PARIS-3_ERA5_evaluation_r1i1p1f1_CUNI_WRF451R-SFL2_v1-fpsurbrcc-s0r1_1hr_202004010030-202008312330.nc
-PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r1,1hr,rsds,v20240820,rsds_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-CTRL_v1-fpsurbrcc-s0r1_1hr_202003010030-202008312330.nc
 PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-NOUR,v1-fpsurbrcc-s0r1,1hr,rsds,v20240820,rsds_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-NOUR_v1-fpsurbrcc-s0r1_1hr_202003010030-202008312330.nc
 PARIS-3,ICTP,ERA5,evaluation,r1i1p1f1,RegCM5,v1-fpsurbrcc-s0r1,1hr,rsds,v20240325,rsds_PARIS-3_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5_v1-fpsurbrcc-s0r1_1hr_2020030100-2020040100.nc
 PARIS-3,ICTP,ERA5,evaluation,r1i1p1f1,RegCM5,v1-fpsurbrcc-s0r1,1hr,rsds,v20240325,rsds_PARIS-3_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5_v1-fpsurbrcc-s0r1_1hr_2020010100-2020020100.nc
@@ -1155,7 +1154,7 @@ PARIS-3,AUTH-MC,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r1,day,rlds
 PARIS-3,AUTH-MC,ERA5,evaluation,r1i1p1f1,WRF451R-MICR,v1-fpsurbrcc-s0r1,day,rlds,v20241204,rlds_PARIS-3_ERA5_evaluation_r1i1p1f1_AUTH-MC_WRF451R-MICR_v1-fpsurbrcc-s0r1_day_20200301-20200831.nc
 PARIS-3,UCL,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r9,day,rlds,v20240715,rlds_PARIS-3_ERA5_evaluation_r1i1p1f1_UCL_WRF451R-CTRL_v1-fpsurbrcc-s0r9_day_2021-20200831.nc
 PARIS-3,UCL,ERA5,evaluation,r1i1p1f1,WRF451R-NOAC,v1-fpsurbrcc-s0r1,day,rlds,v20240715,rlds_PARIS-3_ERA5_evaluation_r1i1p1f1_UCL_WRF451R-NOAC_v1-fpsurbrcc-s0r1_day_20200501-202008300430.nc
-PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r1,day,rlds,v20240820,rlds_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-CTRL_v1-fpsurbrcc-s0r1_day_20200301-20200831.nc
+PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r6,day,rlds,v20241210,rlds_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-CTRL_v1-fpsurbrcc-s0r6_day_20200301-20200831.nc
 PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-NOUR,v1-fpsurbrcc-s0r1,day,rlds,v20240820,rlds_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-NOUR_v1-fpsurbrcc-s0r1_day_20200301-20200831.nc
 PARIS-3,ICTP,ERA5,evaluation,r1i1p1f1,RegCM5,v1-fpsurbrcc-s0r1,day,rlds,v20240325,rlds_PARIS-3_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5_v1-fpsurbrcc-s0r1_day_20200601-20200630.nc
 PARIS-3,ICTP,ERA5,evaluation,r1i1p1f1,RegCM5,v1-fpsurbrcc-s0r1,day,rlds,v20240325,rlds_PARIS-3_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5_v1-fpsurbrcc-s0r1_day_20200101-20200131.nc
@@ -1202,7 +1201,7 @@ PARIS-3,CUNI,ERA5,evaluation,r1i1p1f1,RegCM5,v1-fpsurbrcc-s0r1,1hr,rlds,v2024101
 PARIS-3,CUNI,ERA5,evaluation,r1i1p1f1,RegCM5,v1-fpsurbrcc-s0r1,1hr,rlds,v20241016,rlds_PARIS-3_ERA5_evaluation_r1i1p1f1_CUNI_RegCM5_v1-fpsurbrcc-s0r1_1hr_20200801-20200831.nc
 PARIS-3,CUNI,ERA5,evaluation,r1i1p1f1,RegCM5,v1-fpsurbrcc-s0r1,1hr,rlds,v20241016,rlds_PARIS-3_ERA5_evaluation_r1i1p1f1_CUNI_RegCM5_v1-fpsurbrcc-s0r1_1hr_20200701-20200731.nc
 PARIS-3,CUNI,ERA5,evaluation,r1i1p1f1,RegCM5,v1-fpsurbrcc-s0r1,1hr,rlds,v20241016,rlds_PARIS-3_ERA5_evaluation_r1i1p1f1_CUNI_RegCM5_v1-fpsurbrcc-s0r1_1hr_20200601-20200630.nc
-PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r1,1hr,rlds,v20240820,rlds_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-CTRL_v1-fpsurbrcc-s0r1_1hr_202003010030-202008312330.nc
+PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r6,1hr,rlds,v20241210,rlds_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-CTRL_v1-fpsurbrcc-s0r6_1hr_202003010030-202008312330.nc
 PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-NOUR,v1-fpsurbrcc-s0r1,1hr,rlds,v20240820,rlds_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-NOUR_v1-fpsurbrcc-s0r1_1hr_202003010030-202008312330.nc
 PARIS-3,ICTP,ERA5,evaluation,r1i1p1f1,RegCM5,v1-fpsurbrcc-s0r1,1hr,rlds,v20240325,rlds_PARIS-3_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5_v1-fpsurbrcc-s0r1_1hr_2020080100-2020090100.nc
 PARIS-3,ICTP,ERA5,evaluation,r1i1p1f1,RegCM5,v1-fpsurbrcc-s0r1,1hr,rlds,v20240325,rlds_PARIS-3_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5_v1-fpsurbrcc-s0r1_1hr_2020010100-2020020100.nc
@@ -1240,6 +1239,8 @@ PARIS-3,AUTH-MC,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r1,day,hfls
 PARIS-3,AUTH-MC,ERA5,evaluation,r1i1p1f1,WRF451R-MICR,v1-fpsurbrcc-s0r1,day,hfls,v20241204,hfls_PARIS-3_ERA5_evaluation_r1i1p1f1_AUTH-MC_WRF451R-MICR_v1-fpsurbrcc-s0r1_day_20200301-20200831.nc
 PARIS-3,UCL,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r9,day,hfls,v20240715,hfls_PARIS-3_ERA5_evaluation_r1i1p1f1_UCL_WRF451R-CTRL_v1-fpsurbrcc-s0r9_day_2021-20200831.nc
 PARIS-3,UCL,ERA5,evaluation,r1i1p1f1,WRF451R-NOAC,v1-fpsurbrcc-s0r1,day,hfls,v20240715,hfls_PARIS-3_ERA5_evaluation_r1i1p1f1_UCL_WRF451R-NOAC_v1-fpsurbrcc-s0r1_day_20200501-202008300430.nc
+PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r6,day,hfls,v20241210,hfls_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-CTRL_v1-fpsurbrcc-s0r6_day_20200301-20200831.nc
+PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-NOUR,v1-fpsurbrcc-s0r1,day,hfls,v20240820,hfls_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-NOUR_v1-fpsurbrcc-s0r1_day_20200301-20200831.nc
 PARIS-3,ICTP,ERA5,evaluation,r1i1p1f1,RegCM5,v1-fpsurbrcc-s0r1,day,hfls,v20240325,hfls_PARIS-3_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5_v1-fpsurbrcc-s0r1_day_20200201-20200229.nc
 PARIS-3,ICTP,ERA5,evaluation,r1i1p1f1,RegCM5,v1-fpsurbrcc-s0r1,day,hfls,v20240325,hfls_PARIS-3_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5_v1-fpsurbrcc-s0r1_day_20201101-20201130.nc
 PARIS-3,ICTP,ERA5,evaluation,r1i1p1f1,RegCM5,v1-fpsurbrcc-s0r1,day,hfls,v20240325,hfls_PARIS-3_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5_v1-fpsurbrcc-s0r1_day_20200801-20200831.nc
@@ -1296,6 +1297,8 @@ PARIS-3,CUNI,ERA5,evaluation,r1i1p1f1,RegCM5,v1-fpsurbrcc-s0r1,1hr,hfls,v2024101
 PARIS-3,CUNI,ERA5,evaluation,r1i1p1f1,RegCM5,v1-fpsurbrcc-s0r1,1hr,hfls,v20241016,hfls_PARIS-3_ERA5_evaluation_r1i1p1f1_CUNI_RegCM5_v1-fpsurbrcc-s0r1_1hr_20200801-20200831.nc
 PARIS-3,CUNI,ERA5,evaluation,r1i1p1f1,WRF451R-SFAE,v1-fpsurbrcc-s0r1,1hr,hfls,v20241031,hfls_PARIS-3_ERA5_evaluation_r1i1p1f1_CUNI_WRF451R-SFAE_v1-fpsurbrcc-s0r1_1hr_202004010030-202008312330.nc
 PARIS-3,CUNI,ERA5,evaluation,r1i1p1f1,WRF451R-SFL2,v1-fpsurbrcc-s0r1,1hr,hfls,v20241022,hfls_PARIS-3_ERA5_evaluation_r1i1p1f1_CUNI_WRF451R-SFL2_v1-fpsurbrcc-s0r1_1hr_202004010030-202008312330.nc
+PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r6,1hr,hfls,v20241210,hfls_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-CTRL_v1-fpsurbrcc-s0r6_1hr_202003010030-202008312330.nc
+PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-NOUR,v1-fpsurbrcc-s0r1,1hr,hfls,v20240820,hfls_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-NOUR_v1-fpsurbrcc-s0r1_1hr_202003010030-202008312330.nc
 PARIS-3,ICTP,ERA5,evaluation,r1i1p1f1,RegCM5,v1-fpsurbrcc-s0r1,1hr,hfls,v20240325,hfls_PARIS-3_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5_v1-fpsurbrcc-s0r1_1hr_2020030100-2020040100.nc
 PARIS-3,ICTP,ERA5,evaluation,r1i1p1f1,RegCM5,v1-fpsurbrcc-s0r1,1hr,hfls,v20240325,hfls_PARIS-3_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5_v1-fpsurbrcc-s0r1_1hr_2020090100-2020100100.nc
 PARIS-3,ICTP,ERA5,evaluation,r1i1p1f1,RegCM5,v1-fpsurbrcc-s0r1,1hr,hfls,v20240325,hfls_PARIS-3_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5_v1-fpsurbrcc-s0r1_1hr_2020100100-2020110100.nc
@@ -1332,6 +1335,8 @@ PARIS-3,AUTH-MC,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r1,day,hfss
 PARIS-3,AUTH-MC,ERA5,evaluation,r1i1p1f1,WRF451R-MICR,v1-fpsurbrcc-s0r1,day,hfss,v20241204,hfss_PARIS-3_ERA5_evaluation_r1i1p1f1_AUTH-MC_WRF451R-MICR_v1-fpsurbrcc-s0r1_day_20200301-20200831.nc
 PARIS-3,UCL,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r9,day,hfss,v20240715,hfss_PARIS-3_ERA5_evaluation_r1i1p1f1_UCL_WRF451R-CTRL_v1-fpsurbrcc-s0r9_day_2021-20200831.nc
 PARIS-3,UCL,ERA5,evaluation,r1i1p1f1,WRF451R-NOAC,v1-fpsurbrcc-s0r1,day,hfss,v20240715,hfss_PARIS-3_ERA5_evaluation_r1i1p1f1_UCL_WRF451R-NOAC_v1-fpsurbrcc-s0r1_day_20200501-202008300430.nc
+PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r6,day,hfss,v20241210,hfss_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-CTRL_v1-fpsurbrcc-s0r6_day_20200301-20200831.nc
+PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-NOUR,v1-fpsurbrcc-s0r1,day,hfss,v20240820,hfss_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-NOUR_v1-fpsurbrcc-s0r1_day_20200301-20200831.nc
 PARIS-3,ICTP,ERA5,evaluation,r1i1p1f1,RegCM5,v1-fpsurbrcc-s0r1,day,hfss,v20240325,hfss_PARIS-3_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5_v1-fpsurbrcc-s0r1_day_20200101-20200131.nc
 PARIS-3,ICTP,ERA5,evaluation,r1i1p1f1,RegCM5,v1-fpsurbrcc-s0r1,day,hfss,v20240325,hfss_PARIS-3_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5_v1-fpsurbrcc-s0r1_day_20201101-20201130.nc
 PARIS-3,ICTP,ERA5,evaluation,r1i1p1f1,RegCM5,v1-fpsurbrcc-s0r1,day,hfss,v20240325,hfss_PARIS-3_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5_v1-fpsurbrcc-s0r1_day_20200601-20200630.nc
@@ -1388,6 +1393,8 @@ PARIS-3,CUNI,ERA5,evaluation,r1i1p1f1,RegCM5,v1-fpsurbrcc-s0r1,1hr,hfss,v2024101
 PARIS-3,CUNI,ERA5,evaluation,r1i1p1f1,RegCM5,v1-fpsurbrcc-s0r1,1hr,hfss,v20241016,hfss_PARIS-3_ERA5_evaluation_r1i1p1f1_CUNI_RegCM5_v1-fpsurbrcc-s0r1_1hr_20200501-20200531.nc
 PARIS-3,CUNI,ERA5,evaluation,r1i1p1f1,WRF451R-SFAE,v1-fpsurbrcc-s0r1,1hr,hfss,v20241031,hfss_PARIS-3_ERA5_evaluation_r1i1p1f1_CUNI_WRF451R-SFAE_v1-fpsurbrcc-s0r1_1hr_202004010030-202008312330.nc
 PARIS-3,CUNI,ERA5,evaluation,r1i1p1f1,WRF451R-SFL2,v1-fpsurbrcc-s0r1,1hr,hfss,v20241022,hfss_PARIS-3_ERA5_evaluation_r1i1p1f1_CUNI_WRF451R-SFL2_v1-fpsurbrcc-s0r1_1hr_202004010030-202008312330.nc
+PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r6,1hr,hfss,v20241210,hfss_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-CTRL_v1-fpsurbrcc-s0r6_1hr_202003010030-202008312330.nc
+PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-NOUR,v1-fpsurbrcc-s0r1,1hr,hfss,v20240820,hfss_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-NOUR_v1-fpsurbrcc-s0r1_1hr_202003010030-202008312330.nc
 PARIS-3,ICTP,ERA5,evaluation,r1i1p1f1,RegCM5,v1-fpsurbrcc-s0r1,1hr,hfss,v20240325,hfss_PARIS-3_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5_v1-fpsurbrcc-s0r1_1hr_2020070100-2020080100.nc
 PARIS-3,ICTP,ERA5,evaluation,r1i1p1f1,RegCM5,v1-fpsurbrcc-s0r1,1hr,hfss,v20240325,hfss_PARIS-3_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5_v1-fpsurbrcc-s0r1_1hr_2020010100-2020020100.nc
 PARIS-3,ICTP,ERA5,evaluation,r1i1p1f1,RegCM5,v1-fpsurbrcc-s0r1,1hr,hfss,v20240325,hfss_PARIS-3_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5_v1-fpsurbrcc-s0r1_1hr_2020100100-2020110100.nc
@@ -1429,7 +1436,7 @@ PARIS-3,AUTH-MC,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r1,day,ts,v
 PARIS-3,AUTH-MC,ERA5,evaluation,r1i1p1f1,WRF451R-MICR,v1-fpsurbrcc-s0r1,day,ts,v20241204,ts_PARIS-3_ERA5_evaluation_r1i1p1f1_AUTH-MC_WRF451R-MICR_v1-fpsurbrcc-s0r1_day_20200301-20200831.nc
 PARIS-3,UCL,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r9,day,ts,v20240715,ts_PARIS-3_ERA5_evaluation_r1i1p1f1_UCL_WRF451R-CTRL_v1-fpsurbrcc-s0r9_day_2021-20200831.nc
 PARIS-3,UCL,ERA5,evaluation,r1i1p1f1,WRF451R-NOAC,v1-fpsurbrcc-s0r1,day,ts,v20240715,ts_PARIS-3_ERA5_evaluation_r1i1p1f1_UCL_WRF451R-NOAC_v1-fpsurbrcc-s0r1_day_20200501-202008300400.nc
-PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r1,day,ts,v20240820,ts_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-CTRL_v1-fpsurbrcc-s0r1_day_20200301-20200831.nc
+PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r6,day,ts,v20241210,ts_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-CTRL_v1-fpsurbrcc-s0r6_day_20200301-20200831.nc
 PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-NOUR,v1-fpsurbrcc-s0r1,day,ts,v20240820,ts_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-NOUR_v1-fpsurbrcc-s0r1_day_20200301-20200831.nc
 PARIS-3,CIMA,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r1,day,ts,v20240920,ts_PARIS-3_ERA5_evaluation_r1i1p1f1_CIMA_WRF451R-CTRL_v1-fpsurbrcc-s0r1_day_20200301000000-20200901000000.nc
 PARIS-3,CIMA,ERA5,evaluation,r1i1p1f1,WRF451R-URB2,v1-fpsurbrcc-s0r1,day,ts,v20240918,ts_PARIS-3_ERA5_evaluation_r1i1p1f1_CIMA_WRF451R-URB2_v1-fpsurbrcc-s0r1_day_20200301000000-20200901000000.nc
@@ -1487,7 +1494,7 @@ PARIS-3,CUNI,ERA5,evaluation,r1i1p1f1,RegCM5,v1-fpsurbrcc-s0r1,1hr,ts,v20241016,
 PARIS-3,CUNI,ERA5,evaluation,r1i1p1f1,RegCM5,v1-fpsurbrcc-s0r1,1hr,ts,v20241016,ts_PARIS-3_ERA5_evaluation_r1i1p1f1_CUNI_RegCM5_v1-fpsurbrcc-s0r1_1hr_20200501-20200531.nc
 PARIS-3,CUNI,ERA5,evaluation,r1i1p1f1,WRF451R-SFAE,v1-fpsurbrcc-s0r1,1hr,ts,v20240727,ts_PARIS-3_ERA5_evaluation_r1i1p1f1_CUNI_WRF451R-SFAE_v1-fpsurbrcc-s0r1_1hr_20200401-20200831.nc
 PARIS-3,CUNI,ERA5,evaluation,r1i1p1f1,WRF451R-SFL2,v1-fpsurbrcc-s0r1,1hr,ts,v20240727,ts_PARIS-3_ERA5_evaluation_r1i1p1f1_CUNI_WRF451R-SFL2_v1-fpsurbrcc-s0r1_1hr_20200401-20200831.nc
-PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r1,1hr,ts,v20240820,ts_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-CTRL_v1-fpsurbrcc-s0r1_1hr_202003010000-202008312300.nc
+PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r6,1hr,ts,v20241210,ts_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-CTRL_v1-fpsurbrcc-s0r6_1hr_202003010000-202008312300.nc
 PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-NOUR,v1-fpsurbrcc-s0r1,1hr,ts,v20240820,ts_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-NOUR_v1-fpsurbrcc-s0r1_1hr_202003010000-202008312300.nc
 PARIS-3,CIMA,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r1,1hr,ts,v20240920,ts_PARIS-3_ERA5_evaluation_r1i1p1f1_CIMA_WRF451R-CTRL_v1-fpsurbrcc-s0r1_1hr_20200301000000-20200901000000.nc
 PARIS-3,CIMA,ERA5,evaluation,r1i1p1f1,WRF451R-URB2,v1-fpsurbrcc-s0r1,1hr,ts,v20240918,ts_PARIS-3_ERA5_evaluation_r1i1p1f1_CIMA_WRF451R-URB2_v1-fpsurbrcc-s0r1_1hr_20200301000000-20200901000000.nc
@@ -1533,6 +1540,8 @@ PARIS-3,GERICS,ERA5,evaluation,r1i1p1f1,REMO2020-TEB,v1-fpsurbrcc-s0r1,fx,orog,v
 PARIS-3,AUTH-MC,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r1,fx,orog,v20240828,orog_PARIS-3_ERA5_evaluation_r1i1p1f1_AUTH-MC_WRF451R-CTRL_v1-fpsurbrcc-s0r1_fx_2020030100-2020090100.nc
 PARIS-3,AUTH-MC,ERA5,evaluation,r1i1p1f1,WRF451R-MICR,v1-fpsurbrcc-s0r1,fx,orog,v20240828,orog_PARIS-3_ERA5_evaluation_r1i1p1f1_AUTH-MC_WRF451R-MICR_v1-fpsurbrcc-s0r1_fx_2020030100-2020090100.nc
 PARIS-3,CUNI,ERA5,evaluation,r1i1p1f1,RegCM5,v1-fpsurbrcc-s0r1,fx,orog,v20241016,orog_PARIS-3_ERA5_evaluation_r1i1p1f1_CUNI_RegCM5_v1-fpsurbrcc-s0r1_fx.nc
+PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r6,fx,orog,v20241210,orog_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-CTRL_v1-fpsurbrcc-s0r6_fx.nc
+PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-NOUR,v1-fpsurbrcc-s0r1,fx,orog,v20240820,orog_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-NOUR_v1-fpsurbrcc-s0r1_fx.nc
 PARIS-3,SMHI,ERA5,evaluation,r1i1p1f1,HCLIM43-AROME,v1-fpsurbrcc-s0r1,fx,orog,v20240201,orog_PARIS-3_ERA5_evaluation_r1i1p1f1_SMHI_HCLIM43-AROME_v1-fpsurbrcc-s0r1_fx.nc
 PARIS-3,CLMcom-CMCC,ERA5,evaluation,r0i0p0,ICONCLM2-6-6,v1-fpsurbrcc-s0r1,fx,sftlf,v20240916,sftlf_PARIS-3_ERA5_evaluation_r0i0p0_CLMcom-CMCC_ICONCLM2-6-6_v1-fpsurbrcc-s0r1_fx.nc
 PARIS-3,CLMcom-CMCC,ERA5,evaluation,r0i0p0,ICONCLM2-6-6,v1-fpsurbrcc-s0r1,fx,sftlf,v20240329,sftlf_PARIS-3_ERA5_evaluation_r0i0p0_CLMcom-CMCC_ICONCLM2-6-6_v1-fpsurbrcc-s0r1_fx.nc
@@ -1550,6 +1559,8 @@ PARIS-3,GERICS,ERA5,evaluation,r1i1p1f1,REMO2020-TEB,v1-fpsurbrcc-s0r1,fx,sftlf,
 PARIS-3,GERICS,ERA5,evaluation,r1i1p1f1,REMO2020-TEB,v1-fpsurbrcc-s0r1,fx,sftlf,v20241118,sftlf_PARIS-3_ERA5_evaluation_r1i1p1f1_GERICS_REMO2020-TEB_v1-fpsurbrcc-s0r1_fx.nc
 PARIS-3,AUTH-MC,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r1,fx,sftlf,v20240828,sftlf_PARIS-3_ERA5_evaluation_r1i1p1f1_AUTH-MC_WRF451R-CTRL_v1-fpsurbrcc-s0r1_fx_2020030100-2020090100.nc
 PARIS-3,AUTH-MC,ERA5,evaluation,r1i1p1f1,WRF451R-MICR,v1-fpsurbrcc-s0r1,fx,sftlf,v20240828,sftlf_PARIS-3_ERA5_evaluation_r1i1p1f1_AUTH-MC_WRF451R-MICR_v1-fpsurbrcc-s0r1_fx_2020030100-2020090100.nc
+PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r6,fx,sftlf,v20241210,sftlf_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-CTRL_v1-fpsurbrcc-s0r6_fx.nc
+PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-NOUR,v1-fpsurbrcc-s0r1,fx,sftlf,v20240820,sftlf_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-NOUR_v1-fpsurbrcc-s0r1_fx.nc
 PARIS-3,SMHI,ERA5,evaluation,r1i1p1f1,HCLIM43-AROME,v1-fpsurbrcc-s0r1,fx,sftlf,v20240201,sftlf_PARIS-3_ERA5_evaluation_r1i1p1f1_SMHI_HCLIM43-AROME_v1-fpsurbrcc-s0r1_fx.nc
 PARIS-3,CYI,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r3,fx,sfturf,v20241127,sfturf_PARIS-3_ERA5_evaluation_r1i1p1f1_CYI_WRF451R-CTRL_v1-fpsurbrcc-s0r3_fx.nc
 PARIS-3,CYI,ERA5,evaluation,r1i1p1f1,WRF451R-URB0,v1-fpsurbrcc-s0r1,fx,sfturf,v20241127,sfturf_PARIS-3_ERA5_evaluation_r1i1p1f1_CYI_WRF451R-URB0_v1-fpsurbrcc-s0r1_fx.nc
@@ -1567,12 +1578,15 @@ PARIS-3,GERICS,ERA5,evaluation,r1i1p1f1,REMO2020-TEB,v1-fpsurbrcc-s0r1,fx,sfturf
 PARIS-3,AUTH-MC,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r1,fx,sfturf,v20240828,sfturf_PARIS-3_ERA5_evaluation_r1i1p1f1_AUTH-MC_WRF451R-CTRL_v1-fpsurbrcc-s0r1_fx_2020030100-2020090100.nc
 PARIS-3,AUTH-MC,ERA5,evaluation,r1i1p1f1,WRF451R-MICR,v1-fpsurbrcc-s0r1,fx,sfturf,v20240828,sfturf_PARIS-3_ERA5_evaluation_r1i1p1f1_AUTH-MC_WRF451R-MICR_v1-fpsurbrcc-s0r1_fx_2020030100-2020090100.nc
 PARIS-3,CUNI,ERA5,evaluation,r1i1p1f1,RegCM5,v1-fpsurbrcc-s0r1,fx,sfturf,v20241126,sfturf_PARIS-3_ERA5_evaluation_r1i1p1f1_CUNI_RegCM5_v1-fpsurbrcc-s0r1_fx.nc
+PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r6,fx,sfturf,v20241210,sfturf_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-CTRL_v1-fpsurbrcc-s0r6_fx.nc
+PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-NOUR,v1-fpsurbrcc-s0r1,fx,sfturf,v20240820,sfturf_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-NOUR_v1-fpsurbrcc-s0r1_fx.nc
 PARIS-3,CIMA,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r1,fx,sfturf,v20240919,sfturf_PARIS-3_ERA5_evaluation_r1i1p1f1_CIMA_WRF451R-CTRL_v1-fpsurbrcc-s0r1_fx.nc
 PARIS-3,CIMA,ERA5,evaluation,r1i1p1f1,WRF451R-URB2,v1-fpsurbrcc-s0r1,fx,sfturf,v20240918,sfturf_PARIS-3_ERA5_evaluation_r1i1p1f1_CIMA_WRF451R-URB2_v1-fpsurbrcc-s0r1_fx.nc
 PARIS-3,ICTP,ERA5,evaluation,r1i1p1f1,RegCM5,v1-fpsurbrcc-s0r1,fx,sfturf,v20240325,sfturf_PARIS-3_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5_v1-fpsurbrcc-s0r1_fx.nc
 PARIS-3,ICTP,ERA5,evaluation,r1i1p1f1,RegCM5,v1-fpsurbrcc-s0r1,fx,sfturf,v20241212,sfturf_PARIS-3_ERA5_evaluation_r1i1p1f1_ICTP_RegCM5_v1-fpsurbrcc-s0r1_fx.nc
 PARIS-3,SMHI,ERA5,evaluation,r1i1p1f1,HCLIM43-AROME,v1-fpsurbrcc-s0r1,fx,sfturf,v20240201,sfturf_PARIS-3_ERA5_evaluation_r1i1p1f1_SMHI_HCLIM43-AROME_v1-fpsurbrcc-s0r1_fx.nc
 PARIS-3,CSIRO,ERA5,evaluation,r1i1p1f1,CCAM-v2401-SN,v1-fpsurbrcc-s0r1,fx,mrsofc,v20231206,mrsofc_PARIS-3_ERA5_evaluation_r1i1p1f1_CSIRO_CCAM-v2401-SN_v1-fpsurbrcc-s0r1_fx.nc
+PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r6,fx,mrsofc,v20241210,mrsofc_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-CTRL_v1-fpsurbrcc-s0r6_fx.nc
 PARIS-3,SMHI,ERA5,evaluation,r1i1p1f1,HCLIM43-AROME,v1-fpsurbrcc-s0r1,fx,mrsofc,v20240201,mrsofc_PARIS-3_ERA5_evaluation_r1i1p1f1_SMHI_HCLIM43-AROME_v1-fpsurbrcc-s0r1_fx.nc
 PARIS-3,UCAN,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r7,fx,sftlaf,v20241108,sftlaf_PARIS-3_ERA5_evaluation_r1i1p1f1_UCAN_WRF451R-CTRL_v1-fpsurbrcc-s0r7_fx.nc
 PARIS-3,UCAN,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r8,fx,sftlaf,v20241108,sftlaf_PARIS-3_ERA5_evaluation_r1i1p1f1_UCAN_WRF451R-CTRL_v1-fpsurbrcc-s0r8_fx.nc
@@ -1581,6 +1595,8 @@ PARIS-3,UCAN,ERA5,evaluation,r1i1p1f1,WRF451R-ALPX,v1-fpsurbrcc-s0r1,fx,sftlaf,v
 PARIS-3,UCAN,ERA5,evaluation,r1i1p1f1,WRF451R-DPAR,v1-fpsurbrcc-s0r1,fx,sftlaf,v20241108,sftlaf_PARIS-3_ERA5_evaluation_r1i1p1f1_UCAN_WRF451R-DPAR_v1-fpsurbrcc-s0r1_fx.nc
 PARIS-3,UCAN,ERA5,evaluation,r1i1p1f1,WRF451R-DPAR,v1-fpsurbrcc-s0r2,fx,sftlaf,v20241108,sftlaf_PARIS-3_ERA5_evaluation_r1i1p1f1_UCAN_WRF451R-DPAR_v1-fpsurbrcc-s0r2_fx.nc
 PARIS-3,UCAN,ERA5,evaluation,r1i1p1f1,WRF451R-CI4C,v1-fpsurbrcc-s0r1,fx,sftlaf,v20241108,sftlaf_PARIS-3_ERA5_evaluation_r1i1p1f1_UCAN_WRF451R-CI4C_v1-fpsurbrcc-s0r1_fx.nc
+PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r6,fx,sftlaf,v20241210,sftlaf_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-CTRL_v1-fpsurbrcc-s0r6_fx.nc
+PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-NOUR,v1-fpsurbrcc-s0r1,fx,sftlaf,v20240820,sftlaf_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-NOUR_v1-fpsurbrcc-s0r1_fx.nc
 PARIS-3,SMHI,ERA5,evaluation,r1i1p1f1,HCLIM43-AROME,v1-fpsurbrcc-s0r1,fx,sftlaf,v20240201,sftlaf_PARIS-3_ERA5_evaluation_r1i1p1f1_SMHI_HCLIM43-AROME_v1-fpsurbrcc-s0r1_fx.nc
 PARIS-3,GERICS,ERA5,evaluation,r1i1p1f1,REMO2020-TEB,v1-fpsurbrcc-s0r1,mon,tsl,v20241211,tsl_PARIS-3_ERA5_evaluation_r1i1p1f1_GERICS_REMO2020-TEB_v1-fpsurbrcc-s0r1_mon_202001-202012.nc
 PARIS-3,GERICS,ERA5,evaluation,r1i1p1f1,REMO2020-TEB,v1-fpsurbrcc-s0r1,mon,tsl,v20240823,tsl_PARIS-3_ERA5_evaluation_r1i1p1f1_GERICS_REMO2020-TEB_v1-fpsurbrcc-s0r1_mon_202001-202012.nc
@@ -1601,7 +1617,7 @@ PARIS-3,GERICS,ERA5,evaluation,r1i1p1f1,REMO2020-TEB,v1-fpsurbrcc-s0r1,day,tsl,v
 PARIS-3,GERICS,ERA5,evaluation,r1i1p1f1,REMO2020-TEB,v1-fpsurbrcc-s0r1,day,tsl,v20241118,tsl_PARIS-3_ERA5_evaluation_r1i1p1f1_GERICS_REMO2020-TEB_v1-fpsurbrcc-s0r1_day_20200101-20201231.nc
 PARIS-3,UCL,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r9,day,tsl,v20240715,tsl_PARIS-3_ERA5_evaluation_r1i1p1f1_UCL_WRF451R-CTRL_v1-fpsurbrcc-s0r9_day_2021-20200831.nc
 PARIS-3,UCL,ERA5,evaluation,r1i1p1f1,WRF451R-NOAC,v1-fpsurbrcc-s0r1,day,tsl,v20240715,tsl_PARIS-3_ERA5_evaluation_r1i1p1f1_UCL_WRF451R-NOAC_v1-fpsurbrcc-s0r1_day_20200501-202008300400.nc
-PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r1,day,tsl,v20240820,tsl_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-CTRL_v1-fpsurbrcc-s0r1_day_20200301-20200831.nc
+PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r6,day,tsl,v20241210,tsl_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-CTRL_v1-fpsurbrcc-s0r6_day_20200301-20200831.nc
 PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-NOUR,v1-fpsurbrcc-s0r1,day,tsl,v20240820,tsl_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-NOUR_v1-fpsurbrcc-s0r1_day_20200301-20200831.nc
 PARIS-3,CIMA,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r1,day,tsl,v20240920,tsl_PARIS-3_ERA5_evaluation_r1i1p1f1_CIMA_WRF451R-CTRL_v1-fpsurbrcc-s0r1_day_20200301000000-20200901000000.nc
 PARIS-3,CIMA,ERA5,evaluation,r1i1p1f1,WRF451R-URB2,v1-fpsurbrcc-s0r1,day,tsl,v20240918,tsl_PARIS-3_ERA5_evaluation_r1i1p1f1_CIMA_WRF451R-URB2_v1-fpsurbrcc-s0r1_day_20200301000000-20200901000000.nc
@@ -1627,6 +1643,7 @@ PARIS-3,GERICS,ERA5,evaluation,r1i1p1f1,REMO2020-TEB,v1-fpsurbrcc-s0r1,day,prc,v
 PARIS-3,GERICS,ERA5,evaluation,r1i1p1f1,REMO2020-TEB,v1-fpsurbrcc-s0r1,day,prc,v20241118,prc_PARIS-3_ERA5_evaluation_r1i1p1f1_GERICS_REMO2020-TEB_v1-fpsurbrcc-s0r1_day_20200101-20201231.nc
 PARIS-3,UCL,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r9,day,prc,v20240715,prc_PARIS-3_ERA5_evaluation_r1i1p1f1_UCL_WRF451R-CTRL_v1-fpsurbrcc-s0r9_day_2021-20200831.nc
 PARIS-3,UCL,ERA5,evaluation,r1i1p1f1,WRF451R-NOAC,v1-fpsurbrcc-s0r1,day,prc,v20240715,prc_PARIS-3_ERA5_evaluation_r1i1p1f1_UCL_WRF451R-NOAC_v1-fpsurbrcc-s0r1_day_20200501-202008300430.nc
+PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r6,day,prc,v20241210,prc_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-CTRL_v1-fpsurbrcc-s0r6_day_20200301-20200831.nc
 PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-NOUR,v1-fpsurbrcc-s0r1,day,prc,v20240820,prc_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-NOUR_v1-fpsurbrcc-s0r1_day_20200301-20200831.nc
 PARIS-3,CSIRO,ERA5,evaluation,r1i1p1f1,CCAM-v2401-SN,v1-fpsurbrcc-s0r1,1hr,prc,v20231206,prc_PARIS-3_ERA5_evaluation_r1i1p1f1_CSIRO_CCAM-v2401-SN_v1-fpsurbrcc-s0r1_1hr_2020050000-202008312300.nc
 PARIS-3,GERICS,ERA5,evaluation,r1i1p1f1,REMO2020-TEB,v1-fpsurbrcc-s0r1,1hr,prc,v20241211,prc_PARIS-3_ERA5_evaluation_r1i1p1f1_GERICS_REMO2020-TEB_v1-fpsurbrcc-s0r1_1hr_202001010130-202012312330.nc
@@ -1635,6 +1652,7 @@ PARIS-3,GERICS,ERA5,evaluation,r1i1p1f1,REMO2020-TEB,v1-fpsurbrcc-s0r1,1hr,prc,v
 PARIS-3,GERICS,ERA5,evaluation,r1i1p1f1,REMO2020-TEB,v1-fpsurbrcc-s0r1,1hr,prc,v20241118,prc_PARIS-3_ERA5_evaluation_r1i1p1f1_GERICS_REMO2020-TEB_v1-fpsurbrcc-s0r1_1hr_202001010130-202012312330.nc
 PARIS-3,UCL,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r9,1hr,prc,v20240820,prc_PARIS-3_ERA5_evaluation_r1i1p1f1_UCL_WRF451R-CTRL_v1-fpsurbrcc-s0r9_1hr_202003010030-202008312330.nc
 PARIS-3,UCL,ERA5,evaluation,r1i1p1f1,WRF451R-NOAC,v1-fpsurbrcc-s0r1,1hr,prc,v20240820,prc_PARIS-3_ERA5_evaluation_r1i1p1f1_UCL_WRF451R-NOAC_v1-fpsurbrcc-s0r1_1hr_202005010030-202008300430.nc
+PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r6,1hr,prc,v20241210,prc_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-CTRL_v1-fpsurbrcc-s0r6_1hr_202003010030-202008312330.nc
 PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-NOUR,v1-fpsurbrcc-s0r1,1hr,prc,v20240820,prc_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-NOUR_v1-fpsurbrcc-s0r1_1hr_202003010030-202008312330.nc
 PARIS-3,AUTH-MC,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r1,mon,ua1000,v20241204,ua1000_PARIS-3_ERA5_evaluation_r1i1p1f1_AUTH-MC_WRF451R-CTRL_v1-fpsurbrcc-s0r1_mon_20200301-20200831.nc
 PARIS-3,AUTH-MC,ERA5,evaluation,r1i1p1f1,WRF451R-MICR,v1-fpsurbrcc-s0r1,mon,ua1000,v20241204,ua1000_PARIS-3_ERA5_evaluation_r1i1p1f1_AUTH-MC_WRF451R-MICR_v1-fpsurbrcc-s0r1_mon_20200301-20200831.nc
@@ -1654,6 +1672,7 @@ PARIS-3,AUTH-MC,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r1,day,ua10
 PARIS-3,AUTH-MC,ERA5,evaluation,r1i1p1f1,WRF451R-MICR,v1-fpsurbrcc-s0r1,day,ua1000,v20241204,ua1000_PARIS-3_ERA5_evaluation_r1i1p1f1_AUTH-MC_WRF451R-MICR_v1-fpsurbrcc-s0r1_day_20200301-20200831.nc
 PARIS-3,UCL,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r9,day,ua1000,v20240715,ua1000_PARIS-3_ERA5_evaluation_r1i1p1f1_UCL_WRF451R-CTRL_v1-fpsurbrcc-s0r9_day_2021-20200831.nc
 PARIS-3,UCL,ERA5,evaluation,r1i1p1f1,WRF451R-NOAC,v1-fpsurbrcc-s0r1,day,ua1000,v20240715,ua1000_PARIS-3_ERA5_evaluation_r1i1p1f1_UCL_WRF451R-NOAC_v1-fpsurbrcc-s0r1_day_20200501-202008300400.nc
+PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r6,day,ua1000,v20241210,ua1000_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-CTRL_v1-fpsurbrcc-s0r6_day_20200301-20200831.nc
 PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-NOUR,v1-fpsurbrcc-s0r1,day,ua1000,v20240820,ua1000_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-NOUR_v1-fpsurbrcc-s0r1_day_20200301-20200831.nc
 PARIS-3,SMHI,ERA5,evaluation,r1i1p1f1,HCLIM43-AROME,v1-fpsurbrcc-s0r1,day,ua1000,v20240201,ua1000_PARIS-3_ERA5_evaluation_r1i1p1f1_SMHI_HCLIM43-AROME_v1-fpsurbrcc-s0r1_day_20200501-20200831.nc
 PARIS-3,CSIRO,ERA5,evaluation,r1i1p1f1,CCAM-v2401-SN,v1-fpsurbrcc-s0r1,6hr,ua1000,v20231206,ua1000_PARIS-3_ERA5_evaluation_r1i1p1f1_CSIRO_CCAM-v2401-SN_v1-fpsurbrcc-s0r1_6hr_2020050000-202008311800.nc
@@ -1671,7 +1690,7 @@ PARIS-3,AUTH-MC,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r1,6hr,ua10
 PARIS-3,AUTH-MC,ERA5,evaluation,r1i1p1f1,WRF451R-MICR,v1-fpsurbrcc-s0r1,6hr,ua1000,v20240828,ua1000_PARIS-3_ERA5_evaluation_r1i1p1f1_AUTH-MC_WRF451R-MICR_v1-fpsurbrcc-s0r1_6hr_2020030100-2020090100.nc
 PARIS-3,UCL,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r9,6hr,ua1000,v20240820,ua1000_PARIS-3_ERA5_evaluation_r1i1p1f1_UCL_WRF451R-CTRL_v1-fpsurbrcc-s0r9_6hr_202003010000-202008312300.nc
 PARIS-3,UCL,ERA5,evaluation,r1i1p1f1,WRF451R-NOAC,v1-fpsurbrcc-s0r1,6hr,ua1000,v20240820,ua1000_PARIS-3_ERA5_evaluation_r1i1p1f1_UCL_WRF451R-NOAC_v1-fpsurbrcc-s0r1_6hr_202005010000-202008300400.nc
-PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r1,6hr,ua1000,v20240820,ua1000_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-CTRL_v1-fpsurbrcc-s0r1_6hr_202003010000-202008311800.nc
+PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r6,6hr,ua1000,v20241210,ua1000_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-CTRL_v1-fpsurbrcc-s0r6_6hr_202003010000-202008312300.nc
 PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-NOUR,v1-fpsurbrcc-s0r1,6hr,ua1000,v20240820,ua1000_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-NOUR_v1-fpsurbrcc-s0r1_6hr_202003010000-202008311800.nc
 PARIS-3,SMHI,ERA5,evaluation,r1i1p1f1,HCLIM43-AROME,v1-fpsurbrcc-s0r1,6hr,ua1000,v20240201,ua1000_PARIS-3_ERA5_evaluation_r1i1p1f1_SMHI_HCLIM43-AROME_v1-fpsurbrcc-s0r1_6hr_202005010000-202008311800.nc
 PARIS-3,AUTH-MC,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r1,mon,ua925,v20241204,ua925_PARIS-3_ERA5_evaluation_r1i1p1f1_AUTH-MC_WRF451R-CTRL_v1-fpsurbrcc-s0r1_mon_20200301-20200831.nc
@@ -1692,6 +1711,7 @@ PARIS-3,AUTH-MC,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r1,day,ua92
 PARIS-3,AUTH-MC,ERA5,evaluation,r1i1p1f1,WRF451R-MICR,v1-fpsurbrcc-s0r1,day,ua925,v20241204,ua925_PARIS-3_ERA5_evaluation_r1i1p1f1_AUTH-MC_WRF451R-MICR_v1-fpsurbrcc-s0r1_day_20200301-20200831.nc
 PARIS-3,UCL,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r9,day,ua925,v20240715,ua925_PARIS-3_ERA5_evaluation_r1i1p1f1_UCL_WRF451R-CTRL_v1-fpsurbrcc-s0r9_day_2021-20200831.nc
 PARIS-3,UCL,ERA5,evaluation,r1i1p1f1,WRF451R-NOAC,v1-fpsurbrcc-s0r1,day,ua925,v20240715,ua925_PARIS-3_ERA5_evaluation_r1i1p1f1_UCL_WRF451R-NOAC_v1-fpsurbrcc-s0r1_day_20200501-202008300400.nc
+PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r6,day,ua925,v20241210,ua925_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-CTRL_v1-fpsurbrcc-s0r6_day_20200301-20200831.nc
 PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-NOUR,v1-fpsurbrcc-s0r1,day,ua925,v20240820,ua925_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-NOUR_v1-fpsurbrcc-s0r1_day_20200301-20200831.nc
 PARIS-3,SMHI,ERA5,evaluation,r1i1p1f1,HCLIM43-AROME,v1-fpsurbrcc-s0r1,day,ua925,v20240201,ua925_PARIS-3_ERA5_evaluation_r1i1p1f1_SMHI_HCLIM43-AROME_v1-fpsurbrcc-s0r1_day_20200501-20200831.nc
 PARIS-3,CSIRO,ERA5,evaluation,r1i1p1f1,CCAM-v2401-SN,v1-fpsurbrcc-s0r1,6hr,ua925,v20231206,ua925_PARIS-3_ERA5_evaluation_r1i1p1f1_CSIRO_CCAM-v2401-SN_v1-fpsurbrcc-s0r1_6hr_2020050000-202008311800.nc
@@ -1709,7 +1729,7 @@ PARIS-3,AUTH-MC,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r1,6hr,ua92
 PARIS-3,AUTH-MC,ERA5,evaluation,r1i1p1f1,WRF451R-MICR,v1-fpsurbrcc-s0r1,6hr,ua925,v20240828,ua925_PARIS-3_ERA5_evaluation_r1i1p1f1_AUTH-MC_WRF451R-MICR_v1-fpsurbrcc-s0r1_6hr_2020030100-2020090100.nc
 PARIS-3,UCL,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r9,6hr,ua925,v20240820,ua925_PARIS-3_ERA5_evaluation_r1i1p1f1_UCL_WRF451R-CTRL_v1-fpsurbrcc-s0r9_6hr_202003010000-202008312300.nc
 PARIS-3,UCL,ERA5,evaluation,r1i1p1f1,WRF451R-NOAC,v1-fpsurbrcc-s0r1,6hr,ua925,v20240820,ua925_PARIS-3_ERA5_evaluation_r1i1p1f1_UCL_WRF451R-NOAC_v1-fpsurbrcc-s0r1_6hr_202005010000-202008300400.nc
-PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r1,6hr,ua925,v20240820,ua925_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-CTRL_v1-fpsurbrcc-s0r1_6hr_202003010000-202008311800.nc
+PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r6,6hr,ua925,v20241210,ua925_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-CTRL_v1-fpsurbrcc-s0r6_6hr_202003010000-202008312300.nc
 PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-NOUR,v1-fpsurbrcc-s0r1,6hr,ua925,v20240820,ua925_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-NOUR_v1-fpsurbrcc-s0r1_6hr_202003010000-202008311800.nc
 PARIS-3,SMHI,ERA5,evaluation,r1i1p1f1,HCLIM43-AROME,v1-fpsurbrcc-s0r1,6hr,ua925,v20240201,ua925_PARIS-3_ERA5_evaluation_r1i1p1f1_SMHI_HCLIM43-AROME_v1-fpsurbrcc-s0r1_6hr_202005010000-202008311800.nc
 PARIS-3,AUTH-MC,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r1,mon,ua850,v20241204,ua850_PARIS-3_ERA5_evaluation_r1i1p1f1_AUTH-MC_WRF451R-CTRL_v1-fpsurbrcc-s0r1_mon_20200301-20200831.nc
@@ -1730,6 +1750,7 @@ PARIS-3,AUTH-MC,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r1,day,ua85
 PARIS-3,AUTH-MC,ERA5,evaluation,r1i1p1f1,WRF451R-MICR,v1-fpsurbrcc-s0r1,day,ua850,v20241204,ua850_PARIS-3_ERA5_evaluation_r1i1p1f1_AUTH-MC_WRF451R-MICR_v1-fpsurbrcc-s0r1_day_20200301-20200831.nc
 PARIS-3,UCL,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r9,day,ua850,v20240715,ua850_PARIS-3_ERA5_evaluation_r1i1p1f1_UCL_WRF451R-CTRL_v1-fpsurbrcc-s0r9_day_2021-20200831.nc
 PARIS-3,UCL,ERA5,evaluation,r1i1p1f1,WRF451R-NOAC,v1-fpsurbrcc-s0r1,day,ua850,v20240715,ua850_PARIS-3_ERA5_evaluation_r1i1p1f1_UCL_WRF451R-NOAC_v1-fpsurbrcc-s0r1_day_20200501-202008300400.nc
+PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r6,day,ua850,v20241210,ua850_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-CTRL_v1-fpsurbrcc-s0r6_day_20200301-20200831.nc
 PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-NOUR,v1-fpsurbrcc-s0r1,day,ua850,v20240820,ua850_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-NOUR_v1-fpsurbrcc-s0r1_day_20200301-20200831.nc
 PARIS-3,SMHI,ERA5,evaluation,r1i1p1f1,HCLIM43-AROME,v1-fpsurbrcc-s0r1,day,ua850,v20240201,ua850_PARIS-3_ERA5_evaluation_r1i1p1f1_SMHI_HCLIM43-AROME_v1-fpsurbrcc-s0r1_day_20200501-20200831.nc
 PARIS-3,CSIRO,ERA5,evaluation,r1i1p1f1,CCAM-v2401-SN,v1-fpsurbrcc-s0r1,6hr,ua850,v20231206,ua850_PARIS-3_ERA5_evaluation_r1i1p1f1_CSIRO_CCAM-v2401-SN_v1-fpsurbrcc-s0r1_6hr_2020050000-202008311800.nc
@@ -1747,7 +1768,7 @@ PARIS-3,AUTH-MC,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r1,6hr,ua85
 PARIS-3,AUTH-MC,ERA5,evaluation,r1i1p1f1,WRF451R-MICR,v1-fpsurbrcc-s0r1,6hr,ua850,v20240828,ua850_PARIS-3_ERA5_evaluation_r1i1p1f1_AUTH-MC_WRF451R-MICR_v1-fpsurbrcc-s0r1_6hr_2020030100-2020090100.nc
 PARIS-3,UCL,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r9,6hr,ua850,v20240820,ua850_PARIS-3_ERA5_evaluation_r1i1p1f1_UCL_WRF451R-CTRL_v1-fpsurbrcc-s0r9_6hr_202003010000-202008312300.nc
 PARIS-3,UCL,ERA5,evaluation,r1i1p1f1,WRF451R-NOAC,v1-fpsurbrcc-s0r1,6hr,ua850,v20240820,ua850_PARIS-3_ERA5_evaluation_r1i1p1f1_UCL_WRF451R-NOAC_v1-fpsurbrcc-s0r1_6hr_202005010000-202008300400.nc
-PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r1,6hr,ua850,v20240820,ua850_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-CTRL_v1-fpsurbrcc-s0r1_6hr_202003010000-202008311800.nc
+PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r6,6hr,ua850,v20241210,ua850_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-CTRL_v1-fpsurbrcc-s0r6_6hr_202003010000-202008312300.nc
 PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-NOUR,v1-fpsurbrcc-s0r1,6hr,ua850,v20240820,ua850_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-NOUR_v1-fpsurbrcc-s0r1_6hr_202003010000-202008311800.nc
 PARIS-3,SMHI,ERA5,evaluation,r1i1p1f1,HCLIM43-AROME,v1-fpsurbrcc-s0r1,6hr,ua850,v20240201,ua850_PARIS-3_ERA5_evaluation_r1i1p1f1_SMHI_HCLIM43-AROME_v1-fpsurbrcc-s0r1_6hr_202005010000-202008311800.nc
 PARIS-3,AUTH-MC,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r1,mon,ua700,v20241204,ua700_PARIS-3_ERA5_evaluation_r1i1p1f1_AUTH-MC_WRF451R-CTRL_v1-fpsurbrcc-s0r1_mon_20200301-20200831.nc
@@ -1768,6 +1789,7 @@ PARIS-3,AUTH-MC,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r1,day,ua70
 PARIS-3,AUTH-MC,ERA5,evaluation,r1i1p1f1,WRF451R-MICR,v1-fpsurbrcc-s0r1,day,ua700,v20241204,ua700_PARIS-3_ERA5_evaluation_r1i1p1f1_AUTH-MC_WRF451R-MICR_v1-fpsurbrcc-s0r1_day_20200301-20200831.nc
 PARIS-3,UCL,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r9,day,ua700,v20240715,ua700_PARIS-3_ERA5_evaluation_r1i1p1f1_UCL_WRF451R-CTRL_v1-fpsurbrcc-s0r9_day_2021-20200831.nc
 PARIS-3,UCL,ERA5,evaluation,r1i1p1f1,WRF451R-NOAC,v1-fpsurbrcc-s0r1,day,ua700,v20240715,ua700_PARIS-3_ERA5_evaluation_r1i1p1f1_UCL_WRF451R-NOAC_v1-fpsurbrcc-s0r1_day_20200501-202008300400.nc
+PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r6,day,ua700,v20241210,ua700_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-CTRL_v1-fpsurbrcc-s0r6_day_20200301-20200831.nc
 PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-NOUR,v1-fpsurbrcc-s0r1,day,ua700,v20240820,ua700_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-NOUR_v1-fpsurbrcc-s0r1_day_20200301-20200831.nc
 PARIS-3,SMHI,ERA5,evaluation,r1i1p1f1,HCLIM43-AROME,v1-fpsurbrcc-s0r1,day,ua700,v20240201,ua700_PARIS-3_ERA5_evaluation_r1i1p1f1_SMHI_HCLIM43-AROME_v1-fpsurbrcc-s0r1_day_20200501-20200831.nc
 PARIS-3,CSIRO,ERA5,evaluation,r1i1p1f1,CCAM-v2401-SN,v1-fpsurbrcc-s0r1,6hr,ua700,v20231206,ua700_PARIS-3_ERA5_evaluation_r1i1p1f1_CSIRO_CCAM-v2401-SN_v1-fpsurbrcc-s0r1_6hr_2020050000-202008311800.nc
@@ -1785,7 +1807,7 @@ PARIS-3,AUTH-MC,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r1,6hr,ua70
 PARIS-3,AUTH-MC,ERA5,evaluation,r1i1p1f1,WRF451R-MICR,v1-fpsurbrcc-s0r1,6hr,ua700,v20240828,ua700_PARIS-3_ERA5_evaluation_r1i1p1f1_AUTH-MC_WRF451R-MICR_v1-fpsurbrcc-s0r1_6hr_2020030100-2020090100.nc
 PARIS-3,UCL,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r9,6hr,ua700,v20240820,ua700_PARIS-3_ERA5_evaluation_r1i1p1f1_UCL_WRF451R-CTRL_v1-fpsurbrcc-s0r9_6hr_202003010000-202008312300.nc
 PARIS-3,UCL,ERA5,evaluation,r1i1p1f1,WRF451R-NOAC,v1-fpsurbrcc-s0r1,6hr,ua700,v20240820,ua700_PARIS-3_ERA5_evaluation_r1i1p1f1_UCL_WRF451R-NOAC_v1-fpsurbrcc-s0r1_6hr_202005010000-202008300400.nc
-PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r1,6hr,ua700,v20240820,ua700_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-CTRL_v1-fpsurbrcc-s0r1_6hr_202003010000-202008311800.nc
+PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r6,6hr,ua700,v20241210,ua700_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-CTRL_v1-fpsurbrcc-s0r6_6hr_202003010000-202008312300.nc
 PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-NOUR,v1-fpsurbrcc-s0r1,6hr,ua700,v20240820,ua700_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-NOUR_v1-fpsurbrcc-s0r1_6hr_202003010000-202008311800.nc
 PARIS-3,SMHI,ERA5,evaluation,r1i1p1f1,HCLIM43-AROME,v1-fpsurbrcc-s0r1,6hr,ua700,v20240201,ua700_PARIS-3_ERA5_evaluation_r1i1p1f1_SMHI_HCLIM43-AROME_v1-fpsurbrcc-s0r1_6hr_202005010000-202008311800.nc
 PARIS-3,AUTH-MC,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r1,mon,va1000,v20241204,va1000_PARIS-3_ERA5_evaluation_r1i1p1f1_AUTH-MC_WRF451R-CTRL_v1-fpsurbrcc-s0r1_mon_20200301-20200831.nc
@@ -1806,6 +1828,7 @@ PARIS-3,AUTH-MC,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r1,day,va10
 PARIS-3,AUTH-MC,ERA5,evaluation,r1i1p1f1,WRF451R-MICR,v1-fpsurbrcc-s0r1,day,va1000,v20241204,va1000_PARIS-3_ERA5_evaluation_r1i1p1f1_AUTH-MC_WRF451R-MICR_v1-fpsurbrcc-s0r1_day_20200301-20200831.nc
 PARIS-3,UCL,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r9,day,va1000,v20240715,va1000_PARIS-3_ERA5_evaluation_r1i1p1f1_UCL_WRF451R-CTRL_v1-fpsurbrcc-s0r9_day_2021-20200831.nc
 PARIS-3,UCL,ERA5,evaluation,r1i1p1f1,WRF451R-NOAC,v1-fpsurbrcc-s0r1,day,va1000,v20240715,va1000_PARIS-3_ERA5_evaluation_r1i1p1f1_UCL_WRF451R-NOAC_v1-fpsurbrcc-s0r1_day_20200501-202008300400.nc
+PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r6,day,va1000,v20241210,va1000_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-CTRL_v1-fpsurbrcc-s0r6_day_20200301-20200831.nc
 PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-NOUR,v1-fpsurbrcc-s0r1,day,va1000,v20240820,va1000_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-NOUR_v1-fpsurbrcc-s0r1_day_20200301-20200831.nc
 PARIS-3,SMHI,ERA5,evaluation,r1i1p1f1,HCLIM43-AROME,v1-fpsurbrcc-s0r1,day,va1000,v20240201,va1000_PARIS-3_ERA5_evaluation_r1i1p1f1_SMHI_HCLIM43-AROME_v1-fpsurbrcc-s0r1_day_20200501-20200831.nc
 PARIS-3,CSIRO,ERA5,evaluation,r1i1p1f1,CCAM-v2401-SN,v1-fpsurbrcc-s0r1,6hr,va1000,v20231206,va1000_PARIS-3_ERA5_evaluation_r1i1p1f1_CSIRO_CCAM-v2401-SN_v1-fpsurbrcc-s0r1_6hr_2020050000-202008311800.nc
@@ -1823,7 +1846,7 @@ PARIS-3,AUTH-MC,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r1,6hr,va10
 PARIS-3,AUTH-MC,ERA5,evaluation,r1i1p1f1,WRF451R-MICR,v1-fpsurbrcc-s0r1,6hr,va1000,v20240828,va1000_PARIS-3_ERA5_evaluation_r1i1p1f1_AUTH-MC_WRF451R-MICR_v1-fpsurbrcc-s0r1_6hr_2020030100-2020090100.nc
 PARIS-3,UCL,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r9,6hr,va1000,v20240820,va1000_PARIS-3_ERA5_evaluation_r1i1p1f1_UCL_WRF451R-CTRL_v1-fpsurbrcc-s0r9_6hr_202003010000-202008312300.nc
 PARIS-3,UCL,ERA5,evaluation,r1i1p1f1,WRF451R-NOAC,v1-fpsurbrcc-s0r1,6hr,va1000,v20240820,va1000_PARIS-3_ERA5_evaluation_r1i1p1f1_UCL_WRF451R-NOAC_v1-fpsurbrcc-s0r1_6hr_202005010000-202008300400.nc
-PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r1,6hr,va1000,v20240820,va1000_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-CTRL_v1-fpsurbrcc-s0r1_6hr_202003010000-202008311800.nc
+PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r6,6hr,va1000,v20241210,va1000_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-CTRL_v1-fpsurbrcc-s0r6_6hr_202003010000-202008312300.nc
 PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-NOUR,v1-fpsurbrcc-s0r1,6hr,va1000,v20240820,va1000_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-NOUR_v1-fpsurbrcc-s0r1_6hr_202003010000-202008311800.nc
 PARIS-3,SMHI,ERA5,evaluation,r1i1p1f1,HCLIM43-AROME,v1-fpsurbrcc-s0r1,6hr,va1000,v20240201,va1000_PARIS-3_ERA5_evaluation_r1i1p1f1_SMHI_HCLIM43-AROME_v1-fpsurbrcc-s0r1_6hr_202005010000-202008311800.nc
 PARIS-3,AUTH-MC,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r1,mon,va925,v20241204,va925_PARIS-3_ERA5_evaluation_r1i1p1f1_AUTH-MC_WRF451R-CTRL_v1-fpsurbrcc-s0r1_mon_20200301-20200831.nc
@@ -1844,6 +1867,7 @@ PARIS-3,AUTH-MC,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r1,day,va92
 PARIS-3,AUTH-MC,ERA5,evaluation,r1i1p1f1,WRF451R-MICR,v1-fpsurbrcc-s0r1,day,va925,v20241204,va925_PARIS-3_ERA5_evaluation_r1i1p1f1_AUTH-MC_WRF451R-MICR_v1-fpsurbrcc-s0r1_day_20200301-20200831.nc
 PARIS-3,UCL,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r9,day,va925,v20240715,va925_PARIS-3_ERA5_evaluation_r1i1p1f1_UCL_WRF451R-CTRL_v1-fpsurbrcc-s0r9_day_2021-20200831.nc
 PARIS-3,UCL,ERA5,evaluation,r1i1p1f1,WRF451R-NOAC,v1-fpsurbrcc-s0r1,day,va925,v20240715,va925_PARIS-3_ERA5_evaluation_r1i1p1f1_UCL_WRF451R-NOAC_v1-fpsurbrcc-s0r1_day_20200501-202008300400.nc
+PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r6,day,va925,v20241210,va925_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-CTRL_v1-fpsurbrcc-s0r6_day_20200301-20200831.nc
 PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-NOUR,v1-fpsurbrcc-s0r1,day,va925,v20240820,va925_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-NOUR_v1-fpsurbrcc-s0r1_day_20200301-20200831.nc
 PARIS-3,SMHI,ERA5,evaluation,r1i1p1f1,HCLIM43-AROME,v1-fpsurbrcc-s0r1,day,va925,v20240201,va925_PARIS-3_ERA5_evaluation_r1i1p1f1_SMHI_HCLIM43-AROME_v1-fpsurbrcc-s0r1_day_20200501-20200831.nc
 PARIS-3,CSIRO,ERA5,evaluation,r1i1p1f1,CCAM-v2401-SN,v1-fpsurbrcc-s0r1,6hr,va925,v20231206,va925_PARIS-3_ERA5_evaluation_r1i1p1f1_CSIRO_CCAM-v2401-SN_v1-fpsurbrcc-s0r1_6hr_2020050000-202008311800.nc
@@ -1861,7 +1885,7 @@ PARIS-3,AUTH-MC,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r1,6hr,va92
 PARIS-3,AUTH-MC,ERA5,evaluation,r1i1p1f1,WRF451R-MICR,v1-fpsurbrcc-s0r1,6hr,va925,v20240828,va925_PARIS-3_ERA5_evaluation_r1i1p1f1_AUTH-MC_WRF451R-MICR_v1-fpsurbrcc-s0r1_6hr_2020030100-2020090100.nc
 PARIS-3,UCL,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r9,6hr,va925,v20240820,va925_PARIS-3_ERA5_evaluation_r1i1p1f1_UCL_WRF451R-CTRL_v1-fpsurbrcc-s0r9_6hr_202003010000-202008312300.nc
 PARIS-3,UCL,ERA5,evaluation,r1i1p1f1,WRF451R-NOAC,v1-fpsurbrcc-s0r1,6hr,va925,v20240820,va925_PARIS-3_ERA5_evaluation_r1i1p1f1_UCL_WRF451R-NOAC_v1-fpsurbrcc-s0r1_6hr_202005010000-202008300400.nc
-PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r1,6hr,va925,v20240820,va925_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-CTRL_v1-fpsurbrcc-s0r1_6hr_202003010000-202008311800.nc
+PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r6,6hr,va925,v20241210,va925_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-CTRL_v1-fpsurbrcc-s0r6_6hr_202003010000-202008312300.nc
 PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-NOUR,v1-fpsurbrcc-s0r1,6hr,va925,v20240820,va925_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-NOUR_v1-fpsurbrcc-s0r1_6hr_202003010000-202008311800.nc
 PARIS-3,SMHI,ERA5,evaluation,r1i1p1f1,HCLIM43-AROME,v1-fpsurbrcc-s0r1,6hr,va925,v20240201,va925_PARIS-3_ERA5_evaluation_r1i1p1f1_SMHI_HCLIM43-AROME_v1-fpsurbrcc-s0r1_6hr_202005010000-202008311800.nc
 PARIS-3,AUTH-MC,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r1,mon,va850,v20241204,va850_PARIS-3_ERA5_evaluation_r1i1p1f1_AUTH-MC_WRF451R-CTRL_v1-fpsurbrcc-s0r1_mon_20200301-20200831.nc
@@ -1882,6 +1906,7 @@ PARIS-3,AUTH-MC,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r1,day,va85
 PARIS-3,AUTH-MC,ERA5,evaluation,r1i1p1f1,WRF451R-MICR,v1-fpsurbrcc-s0r1,day,va850,v20241204,va850_PARIS-3_ERA5_evaluation_r1i1p1f1_AUTH-MC_WRF451R-MICR_v1-fpsurbrcc-s0r1_day_20200301-20200831.nc
 PARIS-3,UCL,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r9,day,va850,v20240715,va850_PARIS-3_ERA5_evaluation_r1i1p1f1_UCL_WRF451R-CTRL_v1-fpsurbrcc-s0r9_day_2021-20200831.nc
 PARIS-3,UCL,ERA5,evaluation,r1i1p1f1,WRF451R-NOAC,v1-fpsurbrcc-s0r1,day,va850,v20240715,va850_PARIS-3_ERA5_evaluation_r1i1p1f1_UCL_WRF451R-NOAC_v1-fpsurbrcc-s0r1_day_20200501-202008300400.nc
+PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r6,day,va850,v20241210,va850_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-CTRL_v1-fpsurbrcc-s0r6_day_20200301-20200831.nc
 PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-NOUR,v1-fpsurbrcc-s0r1,day,va850,v20240820,va850_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-NOUR_v1-fpsurbrcc-s0r1_day_20200301-20200831.nc
 PARIS-3,SMHI,ERA5,evaluation,r1i1p1f1,HCLIM43-AROME,v1-fpsurbrcc-s0r1,day,va850,v20240201,va850_PARIS-3_ERA5_evaluation_r1i1p1f1_SMHI_HCLIM43-AROME_v1-fpsurbrcc-s0r1_day_20200501-20200831.nc
 PARIS-3,CSIRO,ERA5,evaluation,r1i1p1f1,CCAM-v2401-SN,v1-fpsurbrcc-s0r1,6hr,va850,v20231206,va850_PARIS-3_ERA5_evaluation_r1i1p1f1_CSIRO_CCAM-v2401-SN_v1-fpsurbrcc-s0r1_6hr_2020050000-202008311800.nc
@@ -1899,7 +1924,7 @@ PARIS-3,AUTH-MC,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r1,6hr,va85
 PARIS-3,AUTH-MC,ERA5,evaluation,r1i1p1f1,WRF451R-MICR,v1-fpsurbrcc-s0r1,6hr,va850,v20240828,va850_PARIS-3_ERA5_evaluation_r1i1p1f1_AUTH-MC_WRF451R-MICR_v1-fpsurbrcc-s0r1_6hr_2020030100-2020090100.nc
 PARIS-3,UCL,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r9,6hr,va850,v20240820,va850_PARIS-3_ERA5_evaluation_r1i1p1f1_UCL_WRF451R-CTRL_v1-fpsurbrcc-s0r9_6hr_202003010000-202008312300.nc
 PARIS-3,UCL,ERA5,evaluation,r1i1p1f1,WRF451R-NOAC,v1-fpsurbrcc-s0r1,6hr,va850,v20240820,va850_PARIS-3_ERA5_evaluation_r1i1p1f1_UCL_WRF451R-NOAC_v1-fpsurbrcc-s0r1_6hr_202005010000-202008300400.nc
-PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r1,6hr,va850,v20240820,va850_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-CTRL_v1-fpsurbrcc-s0r1_6hr_202003010000-202008311800.nc
+PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r6,6hr,va850,v20241210,va850_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-CTRL_v1-fpsurbrcc-s0r6_6hr_202003010000-202008312300.nc
 PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-NOUR,v1-fpsurbrcc-s0r1,6hr,va850,v20240820,va850_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-NOUR_v1-fpsurbrcc-s0r1_6hr_202003010000-202008311800.nc
 PARIS-3,SMHI,ERA5,evaluation,r1i1p1f1,HCLIM43-AROME,v1-fpsurbrcc-s0r1,6hr,va850,v20240201,va850_PARIS-3_ERA5_evaluation_r1i1p1f1_SMHI_HCLIM43-AROME_v1-fpsurbrcc-s0r1_6hr_202005010000-202008311800.nc
 PARIS-3,AUTH-MC,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r1,mon,va700,v20241204,va700_PARIS-3_ERA5_evaluation_r1i1p1f1_AUTH-MC_WRF451R-CTRL_v1-fpsurbrcc-s0r1_mon_20200301-20200831.nc
@@ -1920,6 +1945,7 @@ PARIS-3,AUTH-MC,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r1,day,va70
 PARIS-3,AUTH-MC,ERA5,evaluation,r1i1p1f1,WRF451R-MICR,v1-fpsurbrcc-s0r1,day,va700,v20241204,va700_PARIS-3_ERA5_evaluation_r1i1p1f1_AUTH-MC_WRF451R-MICR_v1-fpsurbrcc-s0r1_day_20200301-20200831.nc
 PARIS-3,UCL,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r9,day,va700,v20240715,va700_PARIS-3_ERA5_evaluation_r1i1p1f1_UCL_WRF451R-CTRL_v1-fpsurbrcc-s0r9_day_2021-20200831.nc
 PARIS-3,UCL,ERA5,evaluation,r1i1p1f1,WRF451R-NOAC,v1-fpsurbrcc-s0r1,day,va700,v20240715,va700_PARIS-3_ERA5_evaluation_r1i1p1f1_UCL_WRF451R-NOAC_v1-fpsurbrcc-s0r1_day_20200501-202008300400.nc
+PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r6,day,va700,v20241210,va700_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-CTRL_v1-fpsurbrcc-s0r6_day_20200301-20200831.nc
 PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-NOUR,v1-fpsurbrcc-s0r1,day,va700,v20240820,va700_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-NOUR_v1-fpsurbrcc-s0r1_day_20200301-20200831.nc
 PARIS-3,SMHI,ERA5,evaluation,r1i1p1f1,HCLIM43-AROME,v1-fpsurbrcc-s0r1,day,va700,v20240201,va700_PARIS-3_ERA5_evaluation_r1i1p1f1_SMHI_HCLIM43-AROME_v1-fpsurbrcc-s0r1_day_20200501-20200831.nc
 PARIS-3,CSIRO,ERA5,evaluation,r1i1p1f1,CCAM-v2401-SN,v1-fpsurbrcc-s0r1,6hr,va700,v20231206,va700_PARIS-3_ERA5_evaluation_r1i1p1f1_CSIRO_CCAM-v2401-SN_v1-fpsurbrcc-s0r1_6hr_2020050000-202008311800.nc
@@ -1932,7 +1958,7 @@ PARIS-3,AUTH-MC,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r1,6hr,va70
 PARIS-3,AUTH-MC,ERA5,evaluation,r1i1p1f1,WRF451R-MICR,v1-fpsurbrcc-s0r1,6hr,va700,v20240828,va700_PARIS-3_ERA5_evaluation_r1i1p1f1_AUTH-MC_WRF451R-MICR_v1-fpsurbrcc-s0r1_6hr_2020030100-2020090100.nc
 PARIS-3,UCL,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r9,6hr,va700,v20240820,va700_PARIS-3_ERA5_evaluation_r1i1p1f1_UCL_WRF451R-CTRL_v1-fpsurbrcc-s0r9_6hr_202003010000-202008312300.nc
 PARIS-3,UCL,ERA5,evaluation,r1i1p1f1,WRF451R-NOAC,v1-fpsurbrcc-s0r1,6hr,va700,v20240820,va700_PARIS-3_ERA5_evaluation_r1i1p1f1_UCL_WRF451R-NOAC_v1-fpsurbrcc-s0r1_6hr_202005010000-202008300400.nc
-PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r1,6hr,va700,v20240820,va700_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-CTRL_v1-fpsurbrcc-s0r1_6hr_202003010000-202008311800.nc
+PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r6,6hr,va700,v20241210,va700_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-CTRL_v1-fpsurbrcc-s0r6_6hr_202003010000-202008312300.nc
 PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-NOUR,v1-fpsurbrcc-s0r1,6hr,va700,v20240820,va700_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-NOUR_v1-fpsurbrcc-s0r1_6hr_202003010000-202008311800.nc
 PARIS-3,SMHI,ERA5,evaluation,r1i1p1f1,HCLIM43-AROME,v1-fpsurbrcc-s0r1,6hr,va700,v20240201,va700_PARIS-3_ERA5_evaluation_r1i1p1f1_SMHI_HCLIM43-AROME_v1-fpsurbrcc-s0r1_6hr_202005010000-202008311800.nc
 PARIS-3,GERICS,ERA5,evaluation,r1i1p1f1,REMO2020-TEB,v1-fpsurbrcc-s0r1,mon,ta1000,v20241211,ta1000_PARIS-3_ERA5_evaluation_r1i1p1f1_GERICS_REMO2020-TEB_v1-fpsurbrcc-s0r1_mon_202001-202012.nc
@@ -1958,6 +1984,7 @@ PARIS-3,AUTH-MC,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r1,day,ta10
 PARIS-3,AUTH-MC,ERA5,evaluation,r1i1p1f1,WRF451R-MICR,v1-fpsurbrcc-s0r1,day,ta1000,v20241204,ta1000_PARIS-3_ERA5_evaluation_r1i1p1f1_AUTH-MC_WRF451R-MICR_v1-fpsurbrcc-s0r1_day_20200301-20200831.nc
 PARIS-3,UCL,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r9,day,ta1000,v20240715,ta1000_PARIS-3_ERA5_evaluation_r1i1p1f1_UCL_WRF451R-CTRL_v1-fpsurbrcc-s0r9_day_2021-20200831.nc
 PARIS-3,UCL,ERA5,evaluation,r1i1p1f1,WRF451R-NOAC,v1-fpsurbrcc-s0r1,day,ta1000,v20240715,ta1000_PARIS-3_ERA5_evaluation_r1i1p1f1_UCL_WRF451R-NOAC_v1-fpsurbrcc-s0r1_day_20200501-202008300400.nc
+PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r6,day,ta1000,v20241210,ta1000_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-CTRL_v1-fpsurbrcc-s0r6_day_20200301-20200831.nc
 PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-NOUR,v1-fpsurbrcc-s0r1,day,ta1000,v20240820,ta1000_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-NOUR_v1-fpsurbrcc-s0r1_day_20200301-20200831.nc
 PARIS-3,CIMA,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r1,day,ta1000,v20240920,ta1000_PARIS-3_ERA5_evaluation_r1i1p1f1_CIMA_WRF451R-CTRL_v1-fpsurbrcc-s0r1_day_20200301000000-20200901000000.nc
 PARIS-3,CIMA,ERA5,evaluation,r1i1p1f1,WRF451R-URB2,v1-fpsurbrcc-s0r1,day,ta1000,v20240918,ta1000_PARIS-3_ERA5_evaluation_r1i1p1f1_CIMA_WRF451R-URB2_v1-fpsurbrcc-s0r1_day_20200301000000-20200901000000.nc
@@ -1977,7 +2004,7 @@ PARIS-3,AUTH-MC,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r1,6hr,ta10
 PARIS-3,AUTH-MC,ERA5,evaluation,r1i1p1f1,WRF451R-MICR,v1-fpsurbrcc-s0r1,6hr,ta1000,v20240828,ta1000_PARIS-3_ERA5_evaluation_r1i1p1f1_AUTH-MC_WRF451R-MICR_v1-fpsurbrcc-s0r1_6hr_2020030100-2020090100.nc
 PARIS-3,UCL,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r9,6hr,ta1000,v20240820,ta1000_PARIS-3_ERA5_evaluation_r1i1p1f1_UCL_WRF451R-CTRL_v1-fpsurbrcc-s0r9_6hr_202003010000-202008312300.nc
 PARIS-3,UCL,ERA5,evaluation,r1i1p1f1,WRF451R-NOAC,v1-fpsurbrcc-s0r1,6hr,ta1000,v20240820,ta1000_PARIS-3_ERA5_evaluation_r1i1p1f1_UCL_WRF451R-NOAC_v1-fpsurbrcc-s0r1_6hr_202005010000-202008300400.nc
-PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r1,6hr,ta1000,v20240820,ta1000_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-CTRL_v1-fpsurbrcc-s0r1_6hr_202003010000-202008311800.nc
+PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r6,6hr,ta1000,v20241210,ta1000_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-CTRL_v1-fpsurbrcc-s0r6_6hr_202003010000-202008312300.nc
 PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-NOUR,v1-fpsurbrcc-s0r1,6hr,ta1000,v20240820,ta1000_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-NOUR_v1-fpsurbrcc-s0r1_6hr_202003010000-202008311800.nc
 PARIS-3,CIMA,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r1,6hr,ta1000,v20240920,ta1000_PARIS-3_ERA5_evaluation_r1i1p1f1_CIMA_WRF451R-CTRL_v1-fpsurbrcc-s0r1_6hr_20200301000000-20200901000000.nc
 PARIS-3,CIMA,ERA5,evaluation,r1i1p1f1,WRF451R-URB2,v1-fpsurbrcc-s0r1,6hr,ta1000,v20240918,ta1000_PARIS-3_ERA5_evaluation_r1i1p1f1_CIMA_WRF451R-URB2_v1-fpsurbrcc-s0r1_6hr_20200301000000-20200901000000.nc
@@ -2005,6 +2032,7 @@ PARIS-3,AUTH-MC,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r1,day,ta92
 PARIS-3,AUTH-MC,ERA5,evaluation,r1i1p1f1,WRF451R-MICR,v1-fpsurbrcc-s0r1,day,ta925,v20241204,ta925_PARIS-3_ERA5_evaluation_r1i1p1f1_AUTH-MC_WRF451R-MICR_v1-fpsurbrcc-s0r1_day_20200301-20200831.nc
 PARIS-3,UCL,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r9,day,ta925,v20240715,ta925_PARIS-3_ERA5_evaluation_r1i1p1f1_UCL_WRF451R-CTRL_v1-fpsurbrcc-s0r9_day_2021-20200831.nc
 PARIS-3,UCL,ERA5,evaluation,r1i1p1f1,WRF451R-NOAC,v1-fpsurbrcc-s0r1,day,ta925,v20240715,ta925_PARIS-3_ERA5_evaluation_r1i1p1f1_UCL_WRF451R-NOAC_v1-fpsurbrcc-s0r1_day_20200501-202008300400.nc
+PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r6,day,ta925,v20241210,ta925_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-CTRL_v1-fpsurbrcc-s0r6_day_20200301-20200831.nc
 PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-NOUR,v1-fpsurbrcc-s0r1,day,ta925,v20240820,ta925_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-NOUR_v1-fpsurbrcc-s0r1_day_20200301-20200831.nc
 PARIS-3,CIMA,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r1,day,ta925,v20240920,ta925_PARIS-3_ERA5_evaluation_r1i1p1f1_CIMA_WRF451R-CTRL_v1-fpsurbrcc-s0r1_day_20200301000000-20200901000000.nc
 PARIS-3,CIMA,ERA5,evaluation,r1i1p1f1,WRF451R-URB2,v1-fpsurbrcc-s0r1,day,ta925,v20240918,ta925_PARIS-3_ERA5_evaluation_r1i1p1f1_CIMA_WRF451R-URB2_v1-fpsurbrcc-s0r1_day_20200301000000-20200901000000.nc
@@ -2024,7 +2052,7 @@ PARIS-3,AUTH-MC,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r1,6hr,ta92
 PARIS-3,AUTH-MC,ERA5,evaluation,r1i1p1f1,WRF451R-MICR,v1-fpsurbrcc-s0r1,6hr,ta925,v20240828,ta925_PARIS-3_ERA5_evaluation_r1i1p1f1_AUTH-MC_WRF451R-MICR_v1-fpsurbrcc-s0r1_6hr_2020030100-2020090100.nc
 PARIS-3,UCL,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r9,6hr,ta925,v20240820,ta925_PARIS-3_ERA5_evaluation_r1i1p1f1_UCL_WRF451R-CTRL_v1-fpsurbrcc-s0r9_6hr_202003010000-202008312300.nc
 PARIS-3,UCL,ERA5,evaluation,r1i1p1f1,WRF451R-NOAC,v1-fpsurbrcc-s0r1,6hr,ta925,v20240820,ta925_PARIS-3_ERA5_evaluation_r1i1p1f1_UCL_WRF451R-NOAC_v1-fpsurbrcc-s0r1_6hr_202005010000-202008300400.nc
-PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r1,6hr,ta925,v20240820,ta925_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-CTRL_v1-fpsurbrcc-s0r1_6hr_202003010000-202008311800.nc
+PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r6,6hr,ta925,v20241210,ta925_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-CTRL_v1-fpsurbrcc-s0r6_6hr_202003010000-202008312300.nc
 PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-NOUR,v1-fpsurbrcc-s0r1,6hr,ta925,v20240820,ta925_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-NOUR_v1-fpsurbrcc-s0r1_6hr_202003010000-202008311800.nc
 PARIS-3,CIMA,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r1,6hr,ta925,v20240920,ta925_PARIS-3_ERA5_evaluation_r1i1p1f1_CIMA_WRF451R-CTRL_v1-fpsurbrcc-s0r1_6hr_20200301000000-20200901000000.nc
 PARIS-3,CIMA,ERA5,evaluation,r1i1p1f1,WRF451R-URB2,v1-fpsurbrcc-s0r1,6hr,ta925,v20240918,ta925_PARIS-3_ERA5_evaluation_r1i1p1f1_CIMA_WRF451R-URB2_v1-fpsurbrcc-s0r1_6hr_20200301000000-20200901000000.nc
@@ -2052,6 +2080,7 @@ PARIS-3,AUTH-MC,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r1,day,ta85
 PARIS-3,AUTH-MC,ERA5,evaluation,r1i1p1f1,WRF451R-MICR,v1-fpsurbrcc-s0r1,day,ta850,v20241204,ta850_PARIS-3_ERA5_evaluation_r1i1p1f1_AUTH-MC_WRF451R-MICR_v1-fpsurbrcc-s0r1_day_20200301-20200831.nc
 PARIS-3,UCL,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r9,day,ta850,v20240715,ta850_PARIS-3_ERA5_evaluation_r1i1p1f1_UCL_WRF451R-CTRL_v1-fpsurbrcc-s0r9_day_2021-20200831.nc
 PARIS-3,UCL,ERA5,evaluation,r1i1p1f1,WRF451R-NOAC,v1-fpsurbrcc-s0r1,day,ta850,v20240715,ta850_PARIS-3_ERA5_evaluation_r1i1p1f1_UCL_WRF451R-NOAC_v1-fpsurbrcc-s0r1_day_20200501-202008300400.nc
+PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r6,day,ta850,v20241210,ta850_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-CTRL_v1-fpsurbrcc-s0r6_day_20200301-20200831.nc
 PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-NOUR,v1-fpsurbrcc-s0r1,day,ta850,v20240820,ta850_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-NOUR_v1-fpsurbrcc-s0r1_day_20200301-20200831.nc
 PARIS-3,CIMA,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r1,day,ta850,v20240920,ta850_PARIS-3_ERA5_evaluation_r1i1p1f1_CIMA_WRF451R-CTRL_v1-fpsurbrcc-s0r1_day_20200301000000-20200901000000.nc
 PARIS-3,CIMA,ERA5,evaluation,r1i1p1f1,WRF451R-URB2,v1-fpsurbrcc-s0r1,day,ta850,v20240918,ta850_PARIS-3_ERA5_evaluation_r1i1p1f1_CIMA_WRF451R-URB2_v1-fpsurbrcc-s0r1_day_20200301000000-20200901000000.nc
@@ -2071,7 +2100,7 @@ PARIS-3,AUTH-MC,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r1,6hr,ta85
 PARIS-3,AUTH-MC,ERA5,evaluation,r1i1p1f1,WRF451R-MICR,v1-fpsurbrcc-s0r1,6hr,ta850,v20240828,ta850_PARIS-3_ERA5_evaluation_r1i1p1f1_AUTH-MC_WRF451R-MICR_v1-fpsurbrcc-s0r1_6hr_2020030100-2020090100.nc
 PARIS-3,UCL,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r9,6hr,ta850,v20240820,ta850_PARIS-3_ERA5_evaluation_r1i1p1f1_UCL_WRF451R-CTRL_v1-fpsurbrcc-s0r9_6hr_202003010000-202008312300.nc
 PARIS-3,UCL,ERA5,evaluation,r1i1p1f1,WRF451R-NOAC,v1-fpsurbrcc-s0r1,6hr,ta850,v20240820,ta850_PARIS-3_ERA5_evaluation_r1i1p1f1_UCL_WRF451R-NOAC_v1-fpsurbrcc-s0r1_6hr_202005010000-202008300400.nc
-PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r1,6hr,ta850,v20240820,ta850_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-CTRL_v1-fpsurbrcc-s0r1_6hr_202003010000-202008311800.nc
+PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r6,6hr,ta850,v20241210,ta850_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-CTRL_v1-fpsurbrcc-s0r6_6hr_202003010000-202008312300.nc
 PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-NOUR,v1-fpsurbrcc-s0r1,6hr,ta850,v20240820,ta850_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-NOUR_v1-fpsurbrcc-s0r1_6hr_202003010000-202008311800.nc
 PARIS-3,CIMA,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r1,6hr,ta850,v20240920,ta850_PARIS-3_ERA5_evaluation_r1i1p1f1_CIMA_WRF451R-CTRL_v1-fpsurbrcc-s0r1_6hr_20200301000000-20200901000000.nc
 PARIS-3,CIMA,ERA5,evaluation,r1i1p1f1,WRF451R-URB2,v1-fpsurbrcc-s0r1,6hr,ta850,v20240918,ta850_PARIS-3_ERA5_evaluation_r1i1p1f1_CIMA_WRF451R-URB2_v1-fpsurbrcc-s0r1_6hr_20200301000000-20200901000000.nc
@@ -2099,6 +2128,7 @@ PARIS-3,AUTH-MC,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r1,day,ta70
 PARIS-3,AUTH-MC,ERA5,evaluation,r1i1p1f1,WRF451R-MICR,v1-fpsurbrcc-s0r1,day,ta700,v20241204,ta700_PARIS-3_ERA5_evaluation_r1i1p1f1_AUTH-MC_WRF451R-MICR_v1-fpsurbrcc-s0r1_day_20200301-20200831.nc
 PARIS-3,UCL,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r9,day,ta700,v20240715,ta700_PARIS-3_ERA5_evaluation_r1i1p1f1_UCL_WRF451R-CTRL_v1-fpsurbrcc-s0r9_day_2021-20200831.nc
 PARIS-3,UCL,ERA5,evaluation,r1i1p1f1,WRF451R-NOAC,v1-fpsurbrcc-s0r1,day,ta700,v20240715,ta700_PARIS-3_ERA5_evaluation_r1i1p1f1_UCL_WRF451R-NOAC_v1-fpsurbrcc-s0r1_day_20200501-202008300400.nc
+PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r6,day,ta700,v20241210,ta700_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-CTRL_v1-fpsurbrcc-s0r6_day_20200301-20200831.nc
 PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-NOUR,v1-fpsurbrcc-s0r1,day,ta700,v20240820,ta700_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-NOUR_v1-fpsurbrcc-s0r1_day_20200301-20200831.nc
 PARIS-3,CIMA,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r1,day,ta700,v20240920,ta700_PARIS-3_ERA5_evaluation_r1i1p1f1_CIMA_WRF451R-CTRL_v1-fpsurbrcc-s0r1_day_20200301000000-20200901000000.nc
 PARIS-3,CIMA,ERA5,evaluation,r1i1p1f1,WRF451R-URB2,v1-fpsurbrcc-s0r1,day,ta700,v20240918,ta700_PARIS-3_ERA5_evaluation_r1i1p1f1_CIMA_WRF451R-URB2_v1-fpsurbrcc-s0r1_day_20200301000000-20200901000000.nc
@@ -2117,7 +2147,7 @@ PARIS-3,AUTH-MC,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r1,6hr,ta70
 PARIS-3,AUTH-MC,ERA5,evaluation,r1i1p1f1,WRF451R-MICR,v1-fpsurbrcc-s0r1,6hr,ta700,v20240828,ta700_PARIS-3_ERA5_evaluation_r1i1p1f1_AUTH-MC_WRF451R-MICR_v1-fpsurbrcc-s0r1_6hr_2020030100-2020090100.nc
 PARIS-3,UCL,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r9,6hr,ta700,v20240820,ta700_PARIS-3_ERA5_evaluation_r1i1p1f1_UCL_WRF451R-CTRL_v1-fpsurbrcc-s0r9_6hr_202003010000-202008312300.nc
 PARIS-3,UCL,ERA5,evaluation,r1i1p1f1,WRF451R-NOAC,v1-fpsurbrcc-s0r1,6hr,ta700,v20240820,ta700_PARIS-3_ERA5_evaluation_r1i1p1f1_UCL_WRF451R-NOAC_v1-fpsurbrcc-s0r1_6hr_202005010000-202008300400.nc
-PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r1,6hr,ta700,v20240820,ta700_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-CTRL_v1-fpsurbrcc-s0r1_6hr_202003010000-202008311800.nc
+PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r6,6hr,ta700,v20241210,ta700_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-CTRL_v1-fpsurbrcc-s0r6_6hr_202003010000-202008312300.nc
 PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-NOUR,v1-fpsurbrcc-s0r1,6hr,ta700,v20240820,ta700_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-NOUR_v1-fpsurbrcc-s0r1_6hr_202003010000-202008311800.nc
 PARIS-3,CIMA,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r1,6hr,ta700,v20240920,ta700_PARIS-3_ERA5_evaluation_r1i1p1f1_CIMA_WRF451R-CTRL_v1-fpsurbrcc-s0r1_6hr_20200301000000-20200901000000.nc
 PARIS-3,CIMA,ERA5,evaluation,r1i1p1f1,WRF451R-URB2,v1-fpsurbrcc-s0r1,6hr,ta700,v20240918,ta700_PARIS-3_ERA5_evaluation_r1i1p1f1_CIMA_WRF451R-URB2_v1-fpsurbrcc-s0r1_6hr_20200301000000-20200901000000.nc
@@ -2145,6 +2175,7 @@ PARIS-3,AUTH-MC,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r1,day,zg10
 PARIS-3,AUTH-MC,ERA5,evaluation,r1i1p1f1,WRF451R-MICR,v1-fpsurbrcc-s0r1,day,zg1000,v20241204,zg1000_PARIS-3_ERA5_evaluation_r1i1p1f1_AUTH-MC_WRF451R-MICR_v1-fpsurbrcc-s0r1_day_20200301-20200831.nc
 PARIS-3,UCL,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r9,day,zg1000,v20240715,zg1000_PARIS-3_ERA5_evaluation_r1i1p1f1_UCL_WRF451R-CTRL_v1-fpsurbrcc-s0r9_day_2021-20200831.nc
 PARIS-3,UCL,ERA5,evaluation,r1i1p1f1,WRF451R-NOAC,v1-fpsurbrcc-s0r1,day,zg1000,v20240715,zg1000_PARIS-3_ERA5_evaluation_r1i1p1f1_UCL_WRF451R-NOAC_v1-fpsurbrcc-s0r1_day_20200501-202008300400.nc
+PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r6,day,zg1000,v20241210,zg1000_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-CTRL_v1-fpsurbrcc-s0r6_day_20200301-20200831.nc
 PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-NOUR,v1-fpsurbrcc-s0r1,day,zg1000,v20240820,zg1000_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-NOUR_v1-fpsurbrcc-s0r1_day_20200301-20200831.nc
 PARIS-3,CIMA,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r1,day,zg1000,v20240920,zg1000_PARIS-3_ERA5_evaluation_r1i1p1f1_CIMA_WRF451R-CTRL_v1-fpsurbrcc-s0r1_day_20200301000000-20200901000000.nc
 PARIS-3,CIMA,ERA5,evaluation,r1i1p1f1,WRF451R-URB2,v1-fpsurbrcc-s0r1,day,zg1000,v20240918,zg1000_PARIS-3_ERA5_evaluation_r1i1p1f1_CIMA_WRF451R-URB2_v1-fpsurbrcc-s0r1_day_20200301000000-20200901000000.nc
@@ -2164,7 +2195,7 @@ PARIS-3,AUTH-MC,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r1,6hr,zg10
 PARIS-3,AUTH-MC,ERA5,evaluation,r1i1p1f1,WRF451R-MICR,v1-fpsurbrcc-s0r1,6hr,zg1000,v20240828,zg1000_PARIS-3_ERA5_evaluation_r1i1p1f1_AUTH-MC_WRF451R-MICR_v1-fpsurbrcc-s0r1_6hr_2020030100-2020090100.nc
 PARIS-3,UCL,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r9,6hr,zg1000,v20240820,zg1000_PARIS-3_ERA5_evaluation_r1i1p1f1_UCL_WRF451R-CTRL_v1-fpsurbrcc-s0r9_6hr_202003010000-202008312300.nc
 PARIS-3,UCL,ERA5,evaluation,r1i1p1f1,WRF451R-NOAC,v1-fpsurbrcc-s0r1,6hr,zg1000,v20240820,zg1000_PARIS-3_ERA5_evaluation_r1i1p1f1_UCL_WRF451R-NOAC_v1-fpsurbrcc-s0r1_6hr_202005010000-202008300400.nc
-PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r1,6hr,zg1000,v20240820,zg1000_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-CTRL_v1-fpsurbrcc-s0r1_6hr_202003010000-202008311800.nc
+PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r6,6hr,zg1000,v20241210,zg1000_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-CTRL_v1-fpsurbrcc-s0r6_6hr_202003010000-202008312300.nc
 PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-NOUR,v1-fpsurbrcc-s0r1,6hr,zg1000,v20240820,zg1000_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-NOUR_v1-fpsurbrcc-s0r1_6hr_202003010000-202008311800.nc
 PARIS-3,CIMA,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r1,6hr,zg1000,v20240920,zg1000_PARIS-3_ERA5_evaluation_r1i1p1f1_CIMA_WRF451R-CTRL_v1-fpsurbrcc-s0r1_6hr_20200301000000-20200901000000.nc
 PARIS-3,CIMA,ERA5,evaluation,r1i1p1f1,WRF451R-URB2,v1-fpsurbrcc-s0r1,6hr,zg1000,v20240918,zg1000_PARIS-3_ERA5_evaluation_r1i1p1f1_CIMA_WRF451R-URB2_v1-fpsurbrcc-s0r1_6hr_20200301000000-20200901000000.nc
@@ -2192,6 +2223,7 @@ PARIS-3,AUTH-MC,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r1,day,zg92
 PARIS-3,AUTH-MC,ERA5,evaluation,r1i1p1f1,WRF451R-MICR,v1-fpsurbrcc-s0r1,day,zg925,v20241204,zg925_PARIS-3_ERA5_evaluation_r1i1p1f1_AUTH-MC_WRF451R-MICR_v1-fpsurbrcc-s0r1_day_20200301-20200831.nc
 PARIS-3,UCL,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r9,day,zg925,v20240715,zg925_PARIS-3_ERA5_evaluation_r1i1p1f1_UCL_WRF451R-CTRL_v1-fpsurbrcc-s0r9_day_2021-20200831.nc
 PARIS-3,UCL,ERA5,evaluation,r1i1p1f1,WRF451R-NOAC,v1-fpsurbrcc-s0r1,day,zg925,v20240715,zg925_PARIS-3_ERA5_evaluation_r1i1p1f1_UCL_WRF451R-NOAC_v1-fpsurbrcc-s0r1_day_20200501-202008300400.nc
+PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r6,day,zg925,v20241210,zg925_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-CTRL_v1-fpsurbrcc-s0r6_day_20200301-20200831.nc
 PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-NOUR,v1-fpsurbrcc-s0r1,day,zg925,v20240820,zg925_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-NOUR_v1-fpsurbrcc-s0r1_day_20200301-20200831.nc
 PARIS-3,CIMA,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r1,day,zg925,v20240920,zg925_PARIS-3_ERA5_evaluation_r1i1p1f1_CIMA_WRF451R-CTRL_v1-fpsurbrcc-s0r1_day_20200301000000-20200901000000.nc
 PARIS-3,CIMA,ERA5,evaluation,r1i1p1f1,WRF451R-URB2,v1-fpsurbrcc-s0r1,day,zg925,v20240918,zg925_PARIS-3_ERA5_evaluation_r1i1p1f1_CIMA_WRF451R-URB2_v1-fpsurbrcc-s0r1_day_20200301000000-20200901000000.nc
@@ -2211,7 +2243,7 @@ PARIS-3,AUTH-MC,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r1,6hr,zg92
 PARIS-3,AUTH-MC,ERA5,evaluation,r1i1p1f1,WRF451R-MICR,v1-fpsurbrcc-s0r1,6hr,zg925,v20240828,zg925_PARIS-3_ERA5_evaluation_r1i1p1f1_AUTH-MC_WRF451R-MICR_v1-fpsurbrcc-s0r1_6hr_2020030100-2020090100.nc
 PARIS-3,UCL,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r9,6hr,zg925,v20240820,zg925_PARIS-3_ERA5_evaluation_r1i1p1f1_UCL_WRF451R-CTRL_v1-fpsurbrcc-s0r9_6hr_202003010000-202008312300.nc
 PARIS-3,UCL,ERA5,evaluation,r1i1p1f1,WRF451R-NOAC,v1-fpsurbrcc-s0r1,6hr,zg925,v20240820,zg925_PARIS-3_ERA5_evaluation_r1i1p1f1_UCL_WRF451R-NOAC_v1-fpsurbrcc-s0r1_6hr_202005010000-202008300400.nc
-PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r1,6hr,zg925,v20240820,zg925_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-CTRL_v1-fpsurbrcc-s0r1_6hr_202003010000-202008311800.nc
+PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r6,6hr,zg925,v20241210,zg925_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-CTRL_v1-fpsurbrcc-s0r6_6hr_202003010000-202008312300.nc
 PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-NOUR,v1-fpsurbrcc-s0r1,6hr,zg925,v20240820,zg925_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-NOUR_v1-fpsurbrcc-s0r1_6hr_202003010000-202008311800.nc
 PARIS-3,CIMA,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r1,6hr,zg925,v20240920,zg925_PARIS-3_ERA5_evaluation_r1i1p1f1_CIMA_WRF451R-CTRL_v1-fpsurbrcc-s0r1_6hr_20200301000000-20200901000000.nc
 PARIS-3,CIMA,ERA5,evaluation,r1i1p1f1,WRF451R-URB2,v1-fpsurbrcc-s0r1,6hr,zg925,v20240918,zg925_PARIS-3_ERA5_evaluation_r1i1p1f1_CIMA_WRF451R-URB2_v1-fpsurbrcc-s0r1_6hr_20200301000000-20200901000000.nc
@@ -2239,6 +2271,7 @@ PARIS-3,AUTH-MC,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r1,day,zg85
 PARIS-3,AUTH-MC,ERA5,evaluation,r1i1p1f1,WRF451R-MICR,v1-fpsurbrcc-s0r1,day,zg850,v20241204,zg850_PARIS-3_ERA5_evaluation_r1i1p1f1_AUTH-MC_WRF451R-MICR_v1-fpsurbrcc-s0r1_day_20200301-20200831.nc
 PARIS-3,UCL,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r9,day,zg850,v20240715,zg850_PARIS-3_ERA5_evaluation_r1i1p1f1_UCL_WRF451R-CTRL_v1-fpsurbrcc-s0r9_day_2021-20200831.nc
 PARIS-3,UCL,ERA5,evaluation,r1i1p1f1,WRF451R-NOAC,v1-fpsurbrcc-s0r1,day,zg850,v20240715,zg850_PARIS-3_ERA5_evaluation_r1i1p1f1_UCL_WRF451R-NOAC_v1-fpsurbrcc-s0r1_day_20200501-202008300400.nc
+PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r6,day,zg850,v20241210,zg850_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-CTRL_v1-fpsurbrcc-s0r6_day_20200301-20200831.nc
 PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-NOUR,v1-fpsurbrcc-s0r1,day,zg850,v20240820,zg850_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-NOUR_v1-fpsurbrcc-s0r1_day_20200301-20200831.nc
 PARIS-3,CIMA,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r1,day,zg850,v20240920,zg850_PARIS-3_ERA5_evaluation_r1i1p1f1_CIMA_WRF451R-CTRL_v1-fpsurbrcc-s0r1_day_20200301000000-20200901000000.nc
 PARIS-3,CIMA,ERA5,evaluation,r1i1p1f1,WRF451R-URB2,v1-fpsurbrcc-s0r1,day,zg850,v20240918,zg850_PARIS-3_ERA5_evaluation_r1i1p1f1_CIMA_WRF451R-URB2_v1-fpsurbrcc-s0r1_day_20200301000000-20200901000000.nc
@@ -2258,7 +2291,7 @@ PARIS-3,AUTH-MC,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r1,6hr,zg85
 PARIS-3,AUTH-MC,ERA5,evaluation,r1i1p1f1,WRF451R-MICR,v1-fpsurbrcc-s0r1,6hr,zg850,v20240828,zg850_PARIS-3_ERA5_evaluation_r1i1p1f1_AUTH-MC_WRF451R-MICR_v1-fpsurbrcc-s0r1_6hr_2020030100-2020090100.nc
 PARIS-3,UCL,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r9,6hr,zg850,v20240820,zg850_PARIS-3_ERA5_evaluation_r1i1p1f1_UCL_WRF451R-CTRL_v1-fpsurbrcc-s0r9_6hr_202003010000-202008312300.nc
 PARIS-3,UCL,ERA5,evaluation,r1i1p1f1,WRF451R-NOAC,v1-fpsurbrcc-s0r1,6hr,zg850,v20240820,zg850_PARIS-3_ERA5_evaluation_r1i1p1f1_UCL_WRF451R-NOAC_v1-fpsurbrcc-s0r1_6hr_202005010000-202008300400.nc
-PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r1,6hr,zg850,v20240820,zg850_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-CTRL_v1-fpsurbrcc-s0r1_6hr_202003010000-202008311800.nc
+PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r6,6hr,zg850,v20241210,zg850_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-CTRL_v1-fpsurbrcc-s0r6_6hr_202003010000-202008312300.nc
 PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-NOUR,v1-fpsurbrcc-s0r1,6hr,zg850,v20240820,zg850_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-NOUR_v1-fpsurbrcc-s0r1_6hr_202003010000-202008311800.nc
 PARIS-3,CIMA,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r1,6hr,zg850,v20240920,zg850_PARIS-3_ERA5_evaluation_r1i1p1f1_CIMA_WRF451R-CTRL_v1-fpsurbrcc-s0r1_6hr_20200301000000-20200901000000.nc
 PARIS-3,CIMA,ERA5,evaluation,r1i1p1f1,WRF451R-URB2,v1-fpsurbrcc-s0r1,6hr,zg850,v20240918,zg850_PARIS-3_ERA5_evaluation_r1i1p1f1_CIMA_WRF451R-URB2_v1-fpsurbrcc-s0r1_6hr_20200301000000-20200901000000.nc
@@ -2286,6 +2319,7 @@ PARIS-3,AUTH-MC,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r1,day,zg70
 PARIS-3,AUTH-MC,ERA5,evaluation,r1i1p1f1,WRF451R-MICR,v1-fpsurbrcc-s0r1,day,zg700,v20241204,zg700_PARIS-3_ERA5_evaluation_r1i1p1f1_AUTH-MC_WRF451R-MICR_v1-fpsurbrcc-s0r1_day_20200301-20200831.nc
 PARIS-3,UCL,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r9,day,zg700,v20240715,zg700_PARIS-3_ERA5_evaluation_r1i1p1f1_UCL_WRF451R-CTRL_v1-fpsurbrcc-s0r9_day_2021-20200831.nc
 PARIS-3,UCL,ERA5,evaluation,r1i1p1f1,WRF451R-NOAC,v1-fpsurbrcc-s0r1,day,zg700,v20240715,zg700_PARIS-3_ERA5_evaluation_r1i1p1f1_UCL_WRF451R-NOAC_v1-fpsurbrcc-s0r1_day_20200501-202008300400.nc
+PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r6,day,zg700,v20241210,zg700_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-CTRL_v1-fpsurbrcc-s0r6_day_20200301-20200831.nc
 PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-NOUR,v1-fpsurbrcc-s0r1,day,zg700,v20240820,zg700_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-NOUR_v1-fpsurbrcc-s0r1_day_20200301-20200831.nc
 PARIS-3,CIMA,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r1,day,zg700,v20240920,zg700_PARIS-3_ERA5_evaluation_r1i1p1f1_CIMA_WRF451R-CTRL_v1-fpsurbrcc-s0r1_day_20200301000000-20200901000000.nc
 PARIS-3,CIMA,ERA5,evaluation,r1i1p1f1,WRF451R-URB2,v1-fpsurbrcc-s0r1,day,zg700,v20240918,zg700_PARIS-3_ERA5_evaluation_r1i1p1f1_CIMA_WRF451R-URB2_v1-fpsurbrcc-s0r1_day_20200301000000-20200901000000.nc
@@ -2305,7 +2339,7 @@ PARIS-3,AUTH-MC,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r1,6hr,zg70
 PARIS-3,AUTH-MC,ERA5,evaluation,r1i1p1f1,WRF451R-MICR,v1-fpsurbrcc-s0r1,6hr,zg700,v20240828,zg700_PARIS-3_ERA5_evaluation_r1i1p1f1_AUTH-MC_WRF451R-MICR_v1-fpsurbrcc-s0r1_6hr_2020030100-2020090100.nc
 PARIS-3,UCL,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r9,6hr,zg700,v20240820,zg700_PARIS-3_ERA5_evaluation_r1i1p1f1_UCL_WRF451R-CTRL_v1-fpsurbrcc-s0r9_6hr_202003010000-202008312300.nc
 PARIS-3,UCL,ERA5,evaluation,r1i1p1f1,WRF451R-NOAC,v1-fpsurbrcc-s0r1,6hr,zg700,v20240820,zg700_PARIS-3_ERA5_evaluation_r1i1p1f1_UCL_WRF451R-NOAC_v1-fpsurbrcc-s0r1_6hr_202005010000-202008300400.nc
-PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r1,6hr,zg700,v20240820,zg700_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-CTRL_v1-fpsurbrcc-s0r1_6hr_202003010000-202008311800.nc
+PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r6,6hr,zg700,v20241210,zg700_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-CTRL_v1-fpsurbrcc-s0r6_6hr_202003010000-202008312300.nc
 PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-NOUR,v1-fpsurbrcc-s0r1,6hr,zg700,v20240820,zg700_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-NOUR_v1-fpsurbrcc-s0r1_6hr_202003010000-202008311800.nc
 PARIS-3,CIMA,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r1,6hr,zg700,v20240920,zg700_PARIS-3_ERA5_evaluation_r1i1p1f1_CIMA_WRF451R-CTRL_v1-fpsurbrcc-s0r1_6hr_20200301000000-20200901000000.nc
 PARIS-3,CIMA,ERA5,evaluation,r1i1p1f1,WRF451R-URB2,v1-fpsurbrcc-s0r1,6hr,zg700,v20240918,zg700_PARIS-3_ERA5_evaluation_r1i1p1f1_CIMA_WRF451R-URB2_v1-fpsurbrcc-s0r1_6hr_20200301000000-20200901000000.nc
@@ -2371,16 +2405,20 @@ PARIS-3,CNRM-MF,ERA5,evaluation,r1i1p1f1,CNRM-AROME46t1,v1-fpsurbrcc-s0r1,1hr,sf
 PARIS-3,SMHI,ERA5,evaluation,r1i1p1f1,HCLIM43-AROME,v1-fpsurbrcc-s0r1,mon,ta50m,v20240201,ta50m_PARIS-3_ERA5_evaluation_r1i1p1f1_SMHI_HCLIM43-AROME_v1-fpsurbrcc-s0r1_mon_20200501-20200831.nc
 PARIS-3,UCL,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r9,day,ta50m,v20240715,ta50m_PARIS-3_ERA5_evaluation_r1i1p1f1_UCL_WRF451R-CTRL_v1-fpsurbrcc-s0r9_day_2021-20200831.nc
 PARIS-3,UCL,ERA5,evaluation,r1i1p1f1,WRF451R-NOAC,v1-fpsurbrcc-s0r1,day,ta50m,v20240715,ta50m_PARIS-3_ERA5_evaluation_r1i1p1f1_UCL_WRF451R-NOAC_v1-fpsurbrcc-s0r1_day_20200501-202008300400.nc
+PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r6,day,ta50m,v20241210,ta50m_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-CTRL_v1-fpsurbrcc-s0r6_day_20200301-20200831.nc
 PARIS-3,SMHI,ERA5,evaluation,r1i1p1f1,HCLIM43-AROME,v1-fpsurbrcc-s0r1,day,ta50m,v20240201,ta50m_PARIS-3_ERA5_evaluation_r1i1p1f1_SMHI_HCLIM43-AROME_v1-fpsurbrcc-s0r1_day_20200501-20200831.nc
 PARIS-3,UCL,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r9,1hr,ta50m,v20240820,ta50m_PARIS-3_ERA5_evaluation_r1i1p1f1_UCL_WRF451R-CTRL_v1-fpsurbrcc-s0r9_1hr_202003010000-202008312300.nc
 PARIS-3,UCL,ERA5,evaluation,r1i1p1f1,WRF451R-NOAC,v1-fpsurbrcc-s0r1,1hr,ta50m,v20240820,ta50m_PARIS-3_ERA5_evaluation_r1i1p1f1_UCL_WRF451R-NOAC_v1-fpsurbrcc-s0r1_1hr_202005010000-202008300400.nc
+PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r6,1hr,ta50m,v20241210,ta50m_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-CTRL_v1-fpsurbrcc-s0r6_1hr_202003010000-202008312300.nc
 PARIS-3,SMHI,ERA5,evaluation,r1i1p1f1,HCLIM43-AROME,v1-fpsurbrcc-s0r1,1hr,ta50m,v20240201,ta50m_PARIS-3_ERA5_evaluation_r1i1p1f1_SMHI_HCLIM43-AROME_v1-fpsurbrcc-s0r1_1hr_202005010000-202008312300.nc
 PARIS-3,SMHI,ERA5,evaluation,r1i1p1f1,HCLIM43-AROME,v1-fpsurbrcc-s0r1,mon,hus50m,v20240201,hus50m_PARIS-3_ERA5_evaluation_r1i1p1f1_SMHI_HCLIM43-AROME_v1-fpsurbrcc-s0r1_mon_20200501-20200831.nc
 PARIS-3,UCL,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r9,day,hus50m,v20240715,hus50m_PARIS-3_ERA5_evaluation_r1i1p1f1_UCL_WRF451R-CTRL_v1-fpsurbrcc-s0r9_day_2021-20200831.nc
 PARIS-3,UCL,ERA5,evaluation,r1i1p1f1,WRF451R-NOAC,v1-fpsurbrcc-s0r1,day,hus50m,v20240715,hus50m_PARIS-3_ERA5_evaluation_r1i1p1f1_UCL_WRF451R-NOAC_v1-fpsurbrcc-s0r1_day_20200501-202008300400.nc
+PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r6,day,hus50m,v20241210,hus50m_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-CTRL_v1-fpsurbrcc-s0r6_day_20200301-20200831.nc
 PARIS-3,SMHI,ERA5,evaluation,r1i1p1f1,HCLIM43-AROME,v1-fpsurbrcc-s0r1,day,hus50m,v20240201,hus50m_PARIS-3_ERA5_evaluation_r1i1p1f1_SMHI_HCLIM43-AROME_v1-fpsurbrcc-s0r1_day_20200501-20200831.nc
 PARIS-3,UCL,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r9,1hr,hus50m,v20240820,hus50m_PARIS-3_ERA5_evaluation_r1i1p1f1_UCL_WRF451R-CTRL_v1-fpsurbrcc-s0r9_1hr_202003010000-202008312300.nc
 PARIS-3,UCL,ERA5,evaluation,r1i1p1f1,WRF451R-NOAC,v1-fpsurbrcc-s0r1,1hr,hus50m,v20240820,hus50m_PARIS-3_ERA5_evaluation_r1i1p1f1_UCL_WRF451R-NOAC_v1-fpsurbrcc-s0r1_1hr_202005010000-202008300400.nc
+PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r6,1hr,hus50m,v20241210,hus50m_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-CTRL_v1-fpsurbrcc-s0r6_1hr_202003010000-202008312300.nc
 PARIS-3,SMHI,ERA5,evaluation,r1i1p1f1,HCLIM43-AROME,v1-fpsurbrcc-s0r1,1hr,hus50m,v20240201,hus50m_PARIS-3_ERA5_evaluation_r1i1p1f1_SMHI_HCLIM43-AROME_v1-fpsurbrcc-s0r1_1hr_202005010000-202008312300.nc
 PARIS-3,AUTH-MC,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r1,mon,ua50m,v20241204,ua50m_PARIS-3_ERA5_evaluation_r1i1p1f1_AUTH-MC_WRF451R-CTRL_v1-fpsurbrcc-s0r1_mon_20200301-20200831.nc
 PARIS-3,AUTH-MC,ERA5,evaluation,r1i1p1f1,WRF451R-MICR,v1-fpsurbrcc-s0r1,mon,ua50m,v20241204,ua50m_PARIS-3_ERA5_evaluation_r1i1p1f1_AUTH-MC_WRF451R-MICR_v1-fpsurbrcc-s0r1_mon_20200301-20200831.nc
@@ -2389,12 +2427,14 @@ PARIS-3,AUTH-MC,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r1,day,ua50
 PARIS-3,AUTH-MC,ERA5,evaluation,r1i1p1f1,WRF451R-MICR,v1-fpsurbrcc-s0r1,day,ua50m,v20241204,ua50m_PARIS-3_ERA5_evaluation_r1i1p1f1_AUTH-MC_WRF451R-MICR_v1-fpsurbrcc-s0r1_day_20200301-20200831.nc
 PARIS-3,UCL,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r9,day,ua50m,v20240715,ua50m_PARIS-3_ERA5_evaluation_r1i1p1f1_UCL_WRF451R-CTRL_v1-fpsurbrcc-s0r9_day_2021-20200831.nc
 PARIS-3,UCL,ERA5,evaluation,r1i1p1f1,WRF451R-NOAC,v1-fpsurbrcc-s0r1,day,ua50m,v20240715,ua50m_PARIS-3_ERA5_evaluation_r1i1p1f1_UCL_WRF451R-NOAC_v1-fpsurbrcc-s0r1_day_20200501-202008300400.nc
+PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r6,day,ua50m,v20241210,ua50m_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-CTRL_v1-fpsurbrcc-s0r6_day_20200301-20200831.nc
 PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-NOUR,v1-fpsurbrcc-s0r1,day,ua50m,v20240820,ua50m_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-NOUR_v1-fpsurbrcc-s0r1_day_20200301-20200831.nc
 PARIS-3,SMHI,ERA5,evaluation,r1i1p1f1,HCLIM43-AROME,v1-fpsurbrcc-s0r1,day,ua50m,v20240201,ua50m_PARIS-3_ERA5_evaluation_r1i1p1f1_SMHI_HCLIM43-AROME_v1-fpsurbrcc-s0r1_day_20200501-20200831.nc
 PARIS-3,AUTH-MC,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r1,1hr,ua50m,v20240828,ua50m_PARIS-3_ERA5_evaluation_r1i1p1f1_AUTH-MC_WRF451R-CTRL_v1-fpsurbrcc-s0r1_1hr_2020030100-2020090100.nc
 PARIS-3,AUTH-MC,ERA5,evaluation,r1i1p1f1,WRF451R-MICR,v1-fpsurbrcc-s0r1,1hr,ua50m,v20240828,ua50m_PARIS-3_ERA5_evaluation_r1i1p1f1_AUTH-MC_WRF451R-MICR_v1-fpsurbrcc-s0r1_1hr_2020030100-2020090100.nc
 PARIS-3,UCL,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r9,1hr,ua50m,v20240820,ua50m_PARIS-3_ERA5_evaluation_r1i1p1f1_UCL_WRF451R-CTRL_v1-fpsurbrcc-s0r9_1hr_202003010000-202008312300.nc
 PARIS-3,UCL,ERA5,evaluation,r1i1p1f1,WRF451R-NOAC,v1-fpsurbrcc-s0r1,1hr,ua50m,v20240820,ua50m_PARIS-3_ERA5_evaluation_r1i1p1f1_UCL_WRF451R-NOAC_v1-fpsurbrcc-s0r1_1hr_202005010000-202008300400.nc
+PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r6,1hr,ua50m,v20241210,ua50m_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-CTRL_v1-fpsurbrcc-s0r6_1hr_202003010000-202008312300.nc
 PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-NOUR,v1-fpsurbrcc-s0r1,1hr,ua50m,v20240820,ua50m_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-NOUR_v1-fpsurbrcc-s0r1_1hr_202003010000-202008312300.nc
 PARIS-3,SMHI,ERA5,evaluation,r1i1p1f1,HCLIM43-AROME,v1-fpsurbrcc-s0r1,1hr,ua50m,v20240201,ua50m_PARIS-3_ERA5_evaluation_r1i1p1f1_SMHI_HCLIM43-AROME_v1-fpsurbrcc-s0r1_1hr_202005010000-202008312300.nc
 PARIS-3,AUTH-MC,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r1,mon,va50m,v20241204,va50m_PARIS-3_ERA5_evaluation_r1i1p1f1_AUTH-MC_WRF451R-CTRL_v1-fpsurbrcc-s0r1_mon_20200301-20200831.nc
@@ -2404,12 +2444,14 @@ PARIS-3,AUTH-MC,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r1,day,va50
 PARIS-3,AUTH-MC,ERA5,evaluation,r1i1p1f1,WRF451R-MICR,v1-fpsurbrcc-s0r1,day,va50m,v20241204,va50m_PARIS-3_ERA5_evaluation_r1i1p1f1_AUTH-MC_WRF451R-MICR_v1-fpsurbrcc-s0r1_day_20200301-20200831.nc
 PARIS-3,UCL,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r9,day,va50m,v20240715,va50m_PARIS-3_ERA5_evaluation_r1i1p1f1_UCL_WRF451R-CTRL_v1-fpsurbrcc-s0r9_day_2021-20200831.nc
 PARIS-3,UCL,ERA5,evaluation,r1i1p1f1,WRF451R-NOAC,v1-fpsurbrcc-s0r1,day,va50m,v20240715,va50m_PARIS-3_ERA5_evaluation_r1i1p1f1_UCL_WRF451R-NOAC_v1-fpsurbrcc-s0r1_day_20200501-202008300400.nc
+PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r6,day,va50m,v20241210,va50m_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-CTRL_v1-fpsurbrcc-s0r6_day_20200301-20200831.nc
 PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-NOUR,v1-fpsurbrcc-s0r1,day,va50m,v20240820,va50m_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-NOUR_v1-fpsurbrcc-s0r1_day_20200301-20200831.nc
 PARIS-3,SMHI,ERA5,evaluation,r1i1p1f1,HCLIM43-AROME,v1-fpsurbrcc-s0r1,day,va50m,v20240201,va50m_PARIS-3_ERA5_evaluation_r1i1p1f1_SMHI_HCLIM43-AROME_v1-fpsurbrcc-s0r1_day_20200501-20200831.nc
 PARIS-3,AUTH-MC,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r1,1hr,va50m,v20240828,va50m_PARIS-3_ERA5_evaluation_r1i1p1f1_AUTH-MC_WRF451R-CTRL_v1-fpsurbrcc-s0r1_1hr_2020030100-2020090100.nc
 PARIS-3,AUTH-MC,ERA5,evaluation,r1i1p1f1,WRF451R-MICR,v1-fpsurbrcc-s0r1,1hr,va50m,v20240828,va50m_PARIS-3_ERA5_evaluation_r1i1p1f1_AUTH-MC_WRF451R-MICR_v1-fpsurbrcc-s0r1_1hr_2020030100-2020090100.nc
 PARIS-3,UCL,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r9,1hr,va50m,v20240820,va50m_PARIS-3_ERA5_evaluation_r1i1p1f1_UCL_WRF451R-CTRL_v1-fpsurbrcc-s0r9_1hr_202003010000-202008312300.nc
 PARIS-3,UCL,ERA5,evaluation,r1i1p1f1,WRF451R-NOAC,v1-fpsurbrcc-s0r1,1hr,va50m,v20240820,va50m_PARIS-3_ERA5_evaluation_r1i1p1f1_UCL_WRF451R-NOAC_v1-fpsurbrcc-s0r1_1hr_202005010000-202008300400.nc
+PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r6,1hr,va50m,v20241210,va50m_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-CTRL_v1-fpsurbrcc-s0r6_1hr_202003010000-202008312300.nc
 PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-NOUR,v1-fpsurbrcc-s0r1,1hr,va50m,v20240820,va50m_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-NOUR_v1-fpsurbrcc-s0r1_1hr_202003010000-202008312300.nc
 PARIS-3,SMHI,ERA5,evaluation,r1i1p1f1,HCLIM43-AROME,v1-fpsurbrcc-s0r1,1hr,va50m,v20240201,va50m_PARIS-3_ERA5_evaluation_r1i1p1f1_SMHI_HCLIM43-AROME_v1-fpsurbrcc-s0r1_1hr_202005010000-202008312300.nc
 PARIS-3,GERICS,ERA5,evaluation,r1i1p1f1,REMO2020-TEB,v1-fpsurbrcc-s0r1,mon,zmla,v20241211,zmla_PARIS-3_ERA5_evaluation_r1i1p1f1_GERICS_REMO2020-TEB_v1-fpsurbrcc-s0r1_mon_202001-202012.nc
@@ -2434,7 +2476,7 @@ PARIS-3,AUTH-MC,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r1,day,zmla
 PARIS-3,AUTH-MC,ERA5,evaluation,r1i1p1f1,WRF451R-MICR,v1-fpsurbrcc-s0r1,day,zmla,v20241204,zmla_PARIS-3_ERA5_evaluation_r1i1p1f1_AUTH-MC_WRF451R-MICR_v1-fpsurbrcc-s0r1_day_20200301-20200831.nc
 PARIS-3,UCL,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r9,day,zmla,v20240715,zmla_PARIS-3_ERA5_evaluation_r1i1p1f1_UCL_WRF451R-CTRL_v1-fpsurbrcc-s0r9_day_2021-20200831.nc
 PARIS-3,UCL,ERA5,evaluation,r1i1p1f1,WRF451R-NOAC,v1-fpsurbrcc-s0r1,day,zmla,v20240715,zmla_PARIS-3_ERA5_evaluation_r1i1p1f1_UCL_WRF451R-NOAC_v1-fpsurbrcc-s0r1_day_20200501-202008300400.nc
-PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r1,day,zmla,v20240820,zmla_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-CTRL_v1-fpsurbrcc-s0r1_day_20200301-20200831.nc
+PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r6,day,zmla,v20241210,zmla_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-CTRL_v1-fpsurbrcc-s0r6_day_20200301-20200831.nc
 PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-NOUR,v1-fpsurbrcc-s0r1,day,zmla,v20240820,zmla_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-NOUR_v1-fpsurbrcc-s0r1_day_20200301-20200831.nc
 PARIS-3,CIMA,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r1,day,zmla,v20241009,zmla_PARIS-3_ERA5_evaluation_r1i1p1f1_CIMA_WRF451R-CTRL_v1-fpsurbrcc-s0r1_day_20200301000000-20200901000000.nc
 PARIS-3,CIMA,ERA5,evaluation,r1i1p1f1,WRF451R-URB2,v1-fpsurbrcc-s0r1,day,zmla,v20241009,zmla_PARIS-3_ERA5_evaluation_r1i1p1f1_CIMA_WRF451R-URB2_v1-fpsurbrcc-s0r1_day_20200301000000-20200901000000.nc
@@ -2482,7 +2524,7 @@ PARIS-3,CUNI,ERA5,evaluation,r1i1p1f1,WRF451R-AER0,v1-fpsurbrcc-s0r1,1hr,zmla,v2
 PARIS-3,CUNI,ERA5,evaluation,r1i1p1f1,WRF451R-SFNO,v1-fpsurbrcc-s0r1,1hr,zmla,v20241022,zmla_PARIS-3_ERA5_evaluation_r1i1p1f1_CUNI_WRF451R-SFNO_v1-fpsurbrcc-s0r1_1hr_202004010000-202008312300.nc
 PARIS-3,CUNI,ERA5,evaluation,r1i1p1f1,WRF451R-SFAE,v1-fpsurbrcc-s0r1,1hr,zmla,v20241031,zmla_PARIS-3_ERA5_evaluation_r1i1p1f1_CUNI_WRF451R-SFAE_v1-fpsurbrcc-s0r1_1hr_202004010000-202008312300.nc
 PARIS-3,CUNI,ERA5,evaluation,r1i1p1f1,WRF451R-SFL2,v1-fpsurbrcc-s0r1,1hr,zmla,v20241022,zmla_PARIS-3_ERA5_evaluation_r1i1p1f1_CUNI_WRF451R-SFL2_v1-fpsurbrcc-s0r1_1hr_202004010000-202008312300.nc
-PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r1,1hr,zmla,v20240820,zmla_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-CTRL_v1-fpsurbrcc-s0r1_1hr_202003010000-202008312300.nc
+PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r6,1hr,zmla,v20241210,zmla_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-CTRL_v1-fpsurbrcc-s0r6_1hr_202003010000-202008312300.nc
 PARIS-3,IPSL,ERA5,evaluation,r1i1p1f1,WRF451R-NOUR,v1-fpsurbrcc-s0r1,1hr,zmla,v20240820,zmla_PARIS-3_ERA5_evaluation_r1i1p1f1_IPSL_WRF451R-NOUR_v1-fpsurbrcc-s0r1_1hr_202003010000-202008312300.nc
 PARIS-3,CIMA,ERA5,evaluation,r1i1p1f1,WRF451R-CTRL,v1-fpsurbrcc-s0r1,1hr,zmla,v20241009,zmla_PARIS-3_ERA5_evaluation_r1i1p1f1_CIMA_WRF451R-CTRL_v1-fpsurbrcc-s0r1_1hr_20200301000000-20200901000000.nc
 PARIS-3,CIMA,ERA5,evaluation,r1i1p1f1,WRF451R-URB2,v1-fpsurbrcc-s0r1,1hr,zmla,v20241009,zmla_PARIS-3_ERA5_evaluation_r1i1p1f1_CIMA_WRF451R-URB2_v1-fpsurbrcc-s0r1_1hr_20200301000000-20200901000000.nc
