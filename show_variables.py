@@ -43,8 +43,8 @@ def list_all_files(base_path, has_version = True):
     df = pd.DataFrame(all_files, columns=facets if has_version else facets_noversion)
     return df
 
-base_path = "/work/bg1369/FPS-URB-RCC/PARIS-3"
-base_path = "/work/bg1369/b382580_jfernandez/CORDEX/CMIP6/FPS-URB-RCC/PARIS-3"
+base_path = "/work/bg1369/FPS-URB-RCC"
+base_path = "/work/bg1369/b382580_jfernandez/CORDEX/CMIP6/FPS-URB-RCC"
 df = list_all_files(base_path, has_version = version)
 
 if only_requested_variables:
@@ -53,14 +53,16 @@ if only_requested_variables:
     )
     df = df.merge(dreq, on=['variable_id', 'frequency'], how='right')
 
+df.sort_values(['domain_id', 'institution_id', 'source_id', 'version_realization'], inplace=True)
 df.to_csv('docs/CORDEX_FPSURBRCC_DKRZ_all_variables.csv', index = False)
 
 #
 #  Plot variable availability as heatmap
 #
-data = pd.read_csv('docs/CORDEX_FPSURBRCC_DKRZ_all_variables.csv', usecols=['variable_id', 'frequency', 'source_id', 'version_realization', 'institution_id'])
+data = pd.read_csv('docs/CORDEX_FPSURBRCC_DKRZ_all_variables.csv', usecols=['domain_id', 'variable_id', 'frequency', 'source_id', 'version_realization', 'institution_id'])
 data['source_institution'] = data['source_id'] + '_' + data['version_realization'].str.replace('fpsurbrcc-s0', '') + ' (' + data['institution_id'] + ')'
-data.drop(columns = ['source_id', 'institution_id', 'version_realization'], inplace = True)
+data = data.query('domain_id == "PARIS-3"')
+data.drop(columns = ['domain_id', 'source_id', 'institution_id', 'version_realization'], inplace = True)
 # Drop monthly data (for the sake of brevity)
 data.query('frequency != "mon"', inplace = True)
 # Avoid showing different subdaily frequencies
