@@ -14,6 +14,7 @@
 ./EUR-12/UCAN/ERA5/evaluation/r1i1p1f1/WRF451R-CTRL/v1-fpsurbrcc-s0r8/day/tasmin/v20241108/tasmin_EUR-12_ERA5_evaluation_r1i1p1f1_UCAN_WRF451R-CTRL_v1-fpsurbrcc-s0r8_day_20200501-20200831.nc
 ./EUR-12/UCAN/ERA5/evaluation/r1i1p1f1/WRF451R-DPAR/v1-fpsurbrcc-s0r1/day/tasmin/v20241108/tasmin_EUR-12_ERA5_evaluation_r1i1p1f1_UCAN_WRF451R-DPAR_v1-fpsurbrcc-s0r1_day_20200501-20200831.nc
 ./EUR-12/UCAN/ERA5/evaluation/r1i1p1f1/WRF451R-DPAR/v1-fpsurbrcc-s0r2/day/tasmin/v20241108/tasmin_EUR-12_ERA5_evaluation_r1i1p1f1_UCAN_WRF451R-DPAR_v1-fpsurbrcc-s0r2_day_20200501-20200831.nc
+./EUR-12/UM/ERA5/evaluation/r1i1p1f1/WRF451R-CTRL/v1-fpsurbrcc-s0r10/day/tasmin/v20250109/tasmin_EUR-12_ERA5_evaluation_r1i1p1f1_UM_WRF451R-CTRL_v1-fpsurbrcc-s0r10_day_20200501-20200831.nc
 ./PARIS-12/CUNI/ERA5/evaluation/r1i1p1f1/CUNI_RegCM5/v1-fpsurbrcc-s0r1/day/tasmin/tasmin_PARIS-12_ERA5_evaluation_r1i1p1f1_CUNI_RegCM5_v1-fpsurbrcc-s0r1_day_20200401-20200431.nc
 ./PARIS-12/CUNI/ERA5/evaluation/r1i1p1f1/CUNI_RegCM5/v1-fpsurbrcc-s0r1/day/tasmin/tasmin_PARIS-12_ERA5_evaluation_r1i1p1f1_CUNI_RegCM5_v1-fpsurbrcc-s0r1_day_20200501-20200531.nc
 ./PARIS-12/CUNI/ERA5/evaluation/r1i1p1f1/CUNI_RegCM5/v1-fpsurbrcc-s0r1/day/tasmin/tasmin_PARIS-12_ERA5_evaluation_r1i1p1f1_CUNI_RegCM5_v1-fpsurbrcc-s0r1_day_20200601-20200630.nc
@@ -24,6 +25,7 @@
 ./PARIS-3/AUTH/ERA5/evaluation/r1i1p1f1/WRF451R-MICR/v1-fpsurbrcc-s0r1/day/tasmin/v20240828/tasmin_PARIS-3_ERA5_evaluation_r1i1p1f1_AUTH-MC_WRF451R-MICR_v1-fpsurbrcc-s0r1_day_20200301-20200901.nc
 ./PARIS-3/CLMcom-CMCC/ERA5/evaluation/r1i1p1f1/CCLM6-0-1/v1-fpsurbrcc-s0r1/day/tasmin/tasmin_PARIS-3_ERA5_evaluation_r1i1p1f1_CLMcom-CMCC_CCLM6-0-1_v1-fpsurbrcc-s0r1_day_20200401-20201231.nc
 ./PARIS-3/CLMcom-CMCC/ERA5/evaluation/r1i1p1f1/ICONCLM2-6-6/v1-fpsurbrcc-s0r1/day/tasmin/tasmin_PARIS-3_ERA5_evaluation_r1i1p1f1_CLMcom-CMCC_ICONCLM2-6-6_v1-fpsurbrcc-s0r1_day_20200501-20201231.nc
+./PARIS-3/CLMcom-KIT/ERA5/evaluation/r1i1p1f1/CCLM6-0-1/v2-fpsurbrcc-s0r1-GLOBCOVER-2009/day/tasmin/tasmin_PARIS-3_ERA5_evaluation_r1i1p1f1_CCLM6-0-1_v2-fpsurbrcc-s0r1-GLOBCOVER-2009_day_20200401-20200831.nc
 ./PARIS-3/CNRM-MF/ERA5/evaluation/r1i1p1f1/CNRM-AROME46t1/v1-fpsurbrcc-s0r1/day/tasmin_PARIS-3_ERA5_evaluation_r1i1p1f1_CNRM-MF_CNRM-AROME46t1_v1-fpsurbrcc-s0r1_day_20200101-20201231.nc
 ./PARIS-3/CSIRO/ERA5/evaluation/r1i1p1f1/CCAM-v2401-SN/v1-fpsurbrcc-s0r1/day/tasmin/v20231206/tasmin_PARIS-3_ERA5_evaluation_r1i1p1f1_CSIRO_CCAM-v2401-SN_v1-fpsurbrcc-s0r1_day_20200501-20200831.nc
 ./PARIS-3/CUNI/ERA5/evaluation/r1i1p1f1/RegCM5/v1-fpsurbrcc-s0r1/day/tasmin/tasmin_PARIS-3_ERA5_evaluation_r1i1p1f1_CUNI_RegCM5_v1-fpsurbrcc-s0r1_day_20200501-20200531.nc
@@ -81,3 +83,4 @@
 ./PARIS-3/UCAN/ERA5/evaluation/r1i1p1f1/WRF451R-DPAR/v1-fpsurbrcc-s0r2/day/tasmin/v20241108/tasmin_PARIS-3_ERA5_evaluation_r1i1p1f1_UCAN_WRF451R-DPAR_v1-fpsurbrcc-s0r2_day_20200501-20200831.nc
 ./PARIS-3/UCL/ERA5/evaluation/r1i1p1f1/WRF451R-CTRL/v1-fpsurbrcc-s0r9/day/tasmin/v20240715/tasmin_PARIS-3_ERA5_evaluation_r1i1p1f1_UCL_WRF451R-CTRL_v1-fpsurbrcc-s0r9_day_20200501-20200831.nc
 ./PARIS-3/UCL/ERA5/evaluation/r1i1p1f1/WRF451R-NOAC/v1-fpsurbrcc-s0r1/day/tasmin/v20240715/tasmin_PARIS-3_ERA5_evaluation_r1i1p1f1_UCL_WRF451R-NOAC_v1-fpsurbrcc-s0r1_day_20200501-202008300400.nc
+./PARIS-3/UM/ERA5/evaluation/r1i1p1f1/WRF451R-CTRL/v1-fpsurbrcc-s0r10/day/tasmin/v20250109/tasmin_PARIS-3_ERA5_evaluation_r1i1p1f1_UM_WRF451R-CTRL_v1-fpsurbrcc-s0r10_day_20200501-20200831.nc
